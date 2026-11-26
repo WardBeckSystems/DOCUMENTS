@@ -1,0 +1,103 @@
+{
+ "drawing": "DOCUMENTS/Done/Done - L3242 Console/1977 - DOC - 77038-04-001 - SACL FOR HOTIOH COHTROL DAL REVTSOH.jpg",
+ "version": 1,
+ "trace": "_traces/97b156fb0b281505.svg",
+ "sheet": {
+  "number": "77038-04-001",
+  "title": "Aetee Pouls Opmional Patchabli Hoouit Elawk Ieut",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1320],
+  "mm": [431.8, 285.0],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [41.6, 0.0, 431.8, 234.3],
+ "outlines": {
+  "line": {"rings": 399, "straight": {"n": 6190, "mm": 16688.3}, "curved": {"n": 637, "mm": 846.7}},
+  "text": {"rings": 48, "straight": {"n": 489, "mm": 484.3}, "curved": {"n": 122, "mm": 174.7}},
+  "tb": {"rings": 11, "straight": {"n": 176, "mm": 200.7}, "curved": {"n": 27, "mm": 30.2}}
+ },
+ "circles": [{"c": [203.5, 210.1], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [108.0, 180.9, 244.6, 231.2], "w": 136.7, "h": 50.3, "from": "ring", "words": ["HLLCTO"]},
+  {"mm": [245.9, 181.4, 309.4, 231.2], "w": 63.5, "h": 49.9, "from": "ring", "words": ["25"]},
+  {"mm": [43.4, 180.5, 107.1, 230.4], "w": 63.7, "h": 49.9, "from": "ring"},
+  {"mm": [284.8, 219.1, 297.5, 225.2], "w": 12.7, "h": 6.0, "from": "ring"},
+  {"mm": [214.0, 213.1, 229.3, 223.5], "w": 15.4, "h": 10.4, "from": "ring"},
+  {"mm": [195.8, 213.1, 211.4, 223.2], "w": 15.5, "h": 10.1, "from": "ring"},
+  {"mm": [258.6, 213.7, 272.7, 223.2], "w": 14.0, "h": 9.5, "from": "ring"},
+  {"mm": [166.9, 213.3, 180.7, 223.1], "w": 13.8, "h": 9.8, "from": "ring"},
+  {"mm": [152.4, 213.3, 166.2, 223.0], "w": 13.8, "h": 9.8, "from": "ring"},
+  {"mm": [123.5, 213.3, 137.1, 222.8], "w": 13.6, "h": 9.5, "from": "ring"},
+  {"mm": [138.0, 213.3, 151.8, 222.8], "w": 13.8, "h": 9.5, "from": "ring"},
+  {"mm": [214.8, 218.1, 228.0, 222.6], "w": 13.2, "h": 4.5, "from": "ring"},
+  {"mm": [196.9, 217.8, 210.1, 222.4], "w": 13.2, "h": 4.5, "from": "ring"},
+  {"mm": [259.5, 218.1, 271.2, 222.2], "w": 11.7, "h": 4.1, "from": "ring"},
+  {"mm": [124.4, 217.8, 136.0, 221.9], "w": 11.7, "h": 4.1, "from": "ring"},
+  {"mm": [153.5, 218.1, 164.9, 221.9], "w": 11.4, "h": 3.9, "from": "ring"},
+  {"mm": [138.4, 214.0, 151.1, 217.2], "w": 12.7, "h": 3.2, "from": "ring"},
+  {"mm": [152.9, 214.0, 165.6, 217.2], "w": 12.7, "h": 3.2, "from": "ring"},
+  {"mm": [214.4, 214.0, 228.6, 217.2], "w": 14.2, "h": 3.2, "from": "ring"},
+  {"mm": [123.9, 214.0, 136.4, 217.0], "w": 12.5, "h": 3.0, "from": "ring"},
+  {"mm": [196.5, 213.7, 210.7, 217.0], "w": 14.2, "h": 3.2, "from": "ring"},
+  {"mm": [247.6, 183.1, 307.4, 202.5], "w": 59.8, "h": 19.4, "from": "ring"},
+  {"mm": [218.5, 157.8, 233.8, 180.5], "w": 15.3, "h": 22.7, "from": "ring"},
+  {"mm": [234.3, 157.8, 239.2, 180.5], "w": 5.0, "h": 22.7, "from": "ring"},
+  {"mm": [239.6, 157.8, 244.6, 180.5], "w": 5.0, "h": 22.7, "from": "ring"},
+  {"mm": [245.9, 157.6, 288.0, 180.5], "w": 42.1, "h": 22.9, "from": "ring"},
+  {"mm": [288.4, 157.2, 309.2, 180.3], "w": 20.7, "h": 23.0, "from": "ring"},
+  {"mm": [44.0, 133.2, 107.5, 179.8], "w": 63.5, "h": 46.6, "from": "ring"},
+  {"mm": [239.4, 134.3, 244.4, 157.0], "w": 5.0, "h": 22.7, "from": "ring"},
+  {"mm": [245.9, 134.3, 250.9, 156.7], "w": 5.0, "h": 22.5, "from": "ring"},
+  {"mm": [251.1, 134.3, 256.1, 156.7], "w": 5.0, "h": 22.5, "from": "ring"},
+  {"mm": [256.5, 134.1, 277.4, 156.7], "w": 20.9, "h": 22.7, "from": "ring"},
+  {"mm": [44.5, 128.2, 107.5, 133.4], "w": 63.0, "h": 5.2, "from": "ring"},
+  {"mm": [239.4, 104.9, 244.4, 129.1], "w": 5.0, "h": 24.2, "from": "ring"},
+  {"mm": [44.5, 103.6, 107.7, 128.2], "w": 63.3, "h": 24.6, "from": "ring"},
+  {"mm": [379.3, 29.8, 385.4, 32.8], "w": 6.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [425.5, 29.4, 431.6, 32.4], "w": 6.0, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [362.7, 20.1, 431.6, 29.4], "w": 68.9, "h": 9.3, "from": "ring", "words": ["WBS", "WARD-Beck bybtems"], "in_title_block": true},
+  {
+   "mm": [379.1, 6.7, 431.6, 20.1],
+   "w": 52.5,
+   "h": 13.4,
+   "from": "ring",
+   "words": ["WBS L3242 CONSOLE", "CONSOLE LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [362.7, 13.8, 378.7, 16.8], "w": 16.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [379.1, 0.4, 385.4, 6.7], "w": 6.3, "h": 6.3, "from": "ring"},
+  {"mm": [380.0, 1.9, 384.1, 5.0], "w": 4.1, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [259.9, 208.6, 270.7, 212.9], "text": "25"},
+   {"mm": [223.5, 189.6, 234.9, 191.7], "text": "HLLCTO"},
+   {"mm": [385.6, 29.4, 392.7, 32.7], "text": "DAT"},
+   {"mm": [367.2, 22.5, 429.9, 26.8], "text": "WBS WARD-Beck bybtems"},
+   {"mm": [384.1, 13.2, 427.3, 18.4], "text": "WBS L3242 CONSOLE"},
+   {"mm": [398.1, 8.4, 421.2, 12.3], "text": "CONSOLE LAYOUT"},
+   {"mm": [388.8, 0.9, 415.4, 5.6], "text": "77038 04-001"}
+  ]
+ },
+ "title_block": {
+  "mm": [358.7, 7.5, 431.8, 32.4],
+  "from": "title-block words (training set)",
+  "text": ["DAT", "WBS WARD-Beck bybtems", "WBS L3242 CONSOLE", "CONSOLE LAYOUT"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 77038-04-001, size B (assumed) 432 × 285 mm, 2000 × 1320 px traced (0.216 mm/px)",
+  "- **Ink extent:** 42–432 mm across, 0–234 mm up",
+  "- **Outlines:** line 399 rings, 6,190 straight (16,688 mm) / 637 curved (847 mm); text 48 rings, 489 straight (484 mm) / 122 curved (175 mm); tb 11 rings, 176 straight (201 mm) / 27 curved (30.2 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.5 @ (203.5, 210.1)",
+  "- **Closed boxes:** 42 (5 in the title block); named: HLLCTO; 25",
+  "- **Words (OCR):** 9 in 7 lines: 25 · HLLCTO · DAT · WBS WARD-Beck bybtems · WBS L3242 CONSOLE · CONSOLE LAYOUT · 77038 04-001",
+  "- **Title block:** (359, 8)–(432, 32) mm: DAT · WBS WARD-Beck bybtems · WBS L3242 CONSOLE · CONSOLE LAYOUT"
+ ]
+}
