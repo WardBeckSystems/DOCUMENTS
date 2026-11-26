@@ -1,0 +1,106 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940114-03-001 - CRIT AND PAINT TEXTURED GREY TEXCOTE MNYL SSUE.jpg",
+ "version": 1,
+ "trace": "_traces/1d91d977302614fc.svg",
+ "sheet": {
+  "number": "940114-03-001",
+  "title": "Crit And Paint Textured Grey Texcote Mnyl Ssue",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1293],
+  "mm": [431.8, 279.2],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 1.0, 420.8, 261.9],
+ "outlines": {
+  "line": {"rings": 802, "straight": {"n": 6597, "mm": 14355.0}, "curved": {"n": 1220, "mm": 1413.5}},
+  "text": {"rings": 307, "straight": {"n": 1759, "mm": 1668.9}, "curved": {"n": 517, "mm": 647.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 5217, "straight": {"n": 5904, "mm": 7926.5}, "curved": {"n": 57, "mm": 59.7}},
+   "text": {"paths": 1845, "straight": {"n": 2277, "mm": 1196.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 183,
+  "orientation": {"horizontal": {"n": 2106, "mm": 4686.2}, "vertical": {"n": 2173, "mm": 2105.5}, "diagonal": {"n": 3902, "mm": 2331.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [371.5, 130.7], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [371.2, 130.9], "r": 2.3, "kind": "arc", "span": 85, "from": ["centre line"], "start": 177},
+  {"c": [254.9, 159.9], "r": 2.3, "kind": "arc", "span": 90, "from": ["centre line"], "start": 87},
+  {"c": [365.4, 152.8], "r": 2.1, "kind": "arc", "span": 101, "from": ["centre line"], "start": 273},
+  {"c": [371.7, 130.3], "r": 2.1, "kind": "arc", "span": 95, "from": ["centre line"], "start": 2},
+  {"c": [242.5, 160.3], "r": 2.1, "kind": "arc", "span": 95, "from": ["centre line"], "start": 92},
+  {"c": [242.4, 159.6], "r": 2.0, "kind": "arc", "span": 189, "from": ["centre line"], "start": 5},
+  {"c": [254.4, 159.4], "r": 2.0, "kind": "arc", "span": 184, "from": ["centre line"], "start": 275},
+  {"c": [365.3, 153.6], "r": 1.9, "kind": "arc", "span": 107, "from": ["centre line"], "start": 184},
+  {"c": [366.2, 153.6], "r": 1.9, "kind": "arc", "span": 108, "from": ["centre line"], "start": 98},
+  {"c": [74.2, 233.7], "r": 1.7, "kind": "arc", "span": 153, "from": ["centre line"], "start": 212},
+  {"c": [373.7, 11.6], "r": 1.2, "kind": "arc", "span": 160, "from": ["centre line"], "start": 102},
+  {"c": [313.2, 250.0], "r": 0.9, "kind": "arc", "span": 162, "from": ["centre line"], "start": 150},
+  {"c": [137.7, 211.8], "r": 0.9, "kind": "arc", "span": 190, "from": ["centre line"], "start": 275},
+  {"c": [366.9, 13.8], "r": 0.9, "kind": "arc", "span": 162, "from": ["centre line"], "start": 311},
+  {"c": [346.1, 20.7], "r": 0.7, "kind": "arc", "span": 233, "from": ["centre line"], "start": 342},
+  {"c": [68.4, 254.4], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 258},
+  {"c": [400.7, 163.0], "r": 0.7, "kind": "arc", "span": 243, "from": ["centre line"], "start": 110}
+ ],
+ "boxes": [
+  {"mm": [415.6, 35.4, 420.4, 38.4], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [344.8, 9.5, 353.6, 15.5], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [371.6, 8.6, 376.7, 14.9], "w": 5.2, "h": 6.3, "from": "ring"},
+  {"mm": [411.9, 7.6, 419.7, 13.6], "w": 7.8, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [317.6, 248.7, 330.1, 253.5], "text": "0.0840 DEEP"},
+   {"mm": [95.4, 219.8, 102.6, 221.9], "text": "'DETAL"},
+   {"mm": [293.4, 204.9, 314.1, 208.7], "text": "940114-05 00t"},
+   {"mm": [316.3, 204.2, 331.6, 208.6], "text": "TLYER PNL(1"},
+   {"mm": [332.7, 203.8, 339.2, 207.6], "text": "TMR)"},
+   {"mm": [375.7, 190.0, 381.7, 192.2], "text": "7.075"},
+   {"mm": [384.5, 179.0, 395.3, 182.8], "text": "DETAIL"},
+   {"mm": [356.7, 161.9, 362.7, 164.1], "text": "0,S00"},
+   {"mm": [409.1, 161.5, 416.7, 163.7], "text": "FLACES"},
+   {"mm": [291.2, 145.5, 301.0, 148.6], "text": "940114"},
+   {"mm": [315.0, 144.9, 322.6, 148.0], "text": "TimeR"},
+   {"mm": [322.6, 144.2, 337.0, 148.5], "text": "PNL(T MMR,"},
+   {"mm": [364.7, 121.8, 374.8, 125.6], "text": "DETAIL"},
+   {"mm": [289.5, 86.1, 312.0, 89.3], "text": "940114 O0i-S"},
+   {"mm": [313.3, 85.1, 328.4, 88.9], "text": "TIMER PNL(I"},
+   {"mm": [348.5, 84.0, 354.9, 87.8], "text": "LVL)"},
+   {"mm": [363.8, 84.8, 369.6, 87.0], "text": "1-760"},
+   {"mm": [400.3, 85.5, 410.0, 90.3], "text": "0,13 RAD"},
+   {"mm": [386.5, 63.3, 392.5, 65.4], "text": "0 050"},
+   {"mm": [389.9, 57.0, 400.7, 60.8], "text": "DETAIL"},
+   {"mm": [35.8, 43.0, 92.6, 48.3], "text": "MATERIAL: ALUM ALLOY 0.125 THICK:"},
+   {"mm": [35.8, 36.9, 89.4, 41.8], "text": "FINISH: SAND 120 GRIT AND PAINT"},
+   {"mm": [48.4, 33.2, 96.9, 38.0], "text": "TEXTURED GREY TEXCOTE VINYL"},
+   {"mm": [386.0, 36.7, 394.7, 38.9], "text": "REMSO"},
+   {"mm": [350.0, 28.9, 417.6, 34.8], "text": "WB3S WARD-BECK   SYSTEMS"},
+   {"mm": [51.8, 27.0, 58.3, 29.1], "text": "GuRR t"},
+   {"mm": [72.3, 26.6, 78.8, 28.2], "text": "auGis"},
+   {"mm": [379.8, 20.3, 405.7, 24.6], "text": "TIMER PANELS"},
+   {"mm": [385.6, 16.4, 398.6, 19.5], "text": "(3 TXPES)"},
+   {"mm": [353.9, 12.1, 362.9, 15.2], "text": "DISc NO;"},
+   {"mm": [354.1, 9.7, 360.1, 11.9], "text": "CoDE"},
+   {"mm": [380.2, 8.4, 409.3, 13.2], "text": "940114-03-001"}
+  ]
+ },
+ "dots": [{"c": [85.7, 233.1], "r": 0.5, "lines": 4}, {"c": [72.6, 142.2], "r": 0.5, "lines": 3}, {"c": [242.5, 94.4], "r": 0.7, "lines": 2}],
+ "summary": [
+  "- **Sheet:** mechanical 940114-03-001, size B (assumed) 432 × 279 mm, 2000 × 1293 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–421 mm across, 1–262 mm up",
+  "- **Outlines:** line 802 rings, 6,597 straight (14,355 mm) / 1,220 curved (1,414 mm); text 307 rings, 1,759 straight (1,669 mm) / 517 curved (648 mm)",
+  "- **Centre lines:** 7,062 paths (183 closed); straight 9,123 mm, curved 59.7 mm; horizontal 4,686 mm, vertical 2,106 mm, diagonal 2,331 mm",
+  "- **Circles and arcs:** 1 circles, 17 arcs; largest r 2.8 @ (371.5, 130.7)",
+  "- **Closed boxes:** 4",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 41 in 32 lines: 0.0840 DEEP · 'DETAL · 940114-05 00t · TLYER PNL(1 · TMR) · 7.075 · DETAIL · 0,S00 · FLACES · 940114 · TimeR · PNL(T MMR,"
+ ]
+}

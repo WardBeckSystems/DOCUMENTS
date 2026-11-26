@@ -1,0 +1,122 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940145-03-001 - GRIT AND PAINT TEX TURED GREY TEXCOTE MNIL.jpg",
+ "version": 1,
+ "trace": "_traces/88820c2e1a004fe7.svg",
+ "sheet": {
+  "number": "940145-03-001",
+  "title": "Grit And Paint Tex Tured Grey Texcote Mnil",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [24.6, 8.4, 416.0, 230.1],
+ "outlines": {
+  "line": {"rings": 732, "straight": {"n": 4528, "mm": 9212.7}, "curved": {"n": 861, "mm": 1225.4}},
+  "text": {"rings": 125, "straight": {"n": 771, "mm": 760.4}, "curved": {"n": 235, "mm": 303.7}},
+  "tb": {"rings": 55, "straight": {"n": 385, "mm": 355.0}, "curved": {"n": 103, "mm": 115.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3525, "straight": {"n": 4024, "mm": 4401.3}, "curved": {"n": 153, "mm": 263.8}},
+   "text": {"paths": 1008, "straight": {"n": 1221, "mm": 632.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 647, "straight": {"n": 745, "mm": 818.3}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 129,
+  "orientation": {"horizontal": {"n": 1667, "mm": 2806.2}, "vertical": {"n": 1537, "mm": 1321.0}, "diagonal": {"n": 2786, "mm": 1725.1}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [191.3, 126.9], "r": 6.2, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.3},
+  {"c": [213.6, 126.7], "r": 6.2, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.3},
+  {"c": [235.8, 126.5], "r": 6.2, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.3},
+  {"c": [254.2, 209.7], "r": 6.1, "kind": "arc", "span": 175, "from": ["centre line"], "start": 314},
+  {"c": [59.0, 115.8], "r": 3.2, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.3},
+  {"c": [69.2, 115.8], "r": 3.1, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.3},
+  {"c": [69.3, 126.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [59.0, 126.8], "r": 3.1, "kind": "circle", "span": 360, "from": ["centre line", "outline"]},
+  {"c": [198.7, 209.1], "r": 3.0, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [84.6, 116.1], "r": 2.8, "kind": "circle", "span": 274, "from": ["centre line"]},
+  {"c": [59.1, 136.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [59.3, 144.0], "r": 1.8, "kind": "arc", "span": 223, "from": ["centre line"], "start": 43},
+  {"c": [59.1, 144.9], "r": 1.5, "kind": "arc", "span": 171, "from": ["centre line"], "start": 197},
+  {"c": [369.4, 149.0], "r": 1.4, "kind": "arc", "span": 152, "from": ["centre line"], "start": 221},
+  {"c": [95.5, 54.1], "r": 1.2, "kind": "arc", "span": 104, "from": ["centre line"], "start": 322},
+  {"c": [207.8, 172.3], "r": 1.0, "kind": "arc", "span": 155, "from": ["centre line"], "start": 347},
+  {"c": [251.5, 194.5], "r": 0.9, "kind": "arc", "span": 163, "from": ["centre line"], "start": 268},
+  {"c": [115.5, 185.6], "r": 0.9, "kind": "arc", "span": 180, "from": ["centre line"], "start": 353},
+  {"c": [37.4, 147.7], "r": 0.9, "kind": "arc", "span": 162, "from": ["centre line"], "start": 311},
+  {"c": [62.7, 49.5], "r": 0.8, "kind": "arc", "span": 189, "from": ["centre line"], "start": 320},
+  {"c": [260.6, 194.4], "r": 0.7, "kind": "arc", "span": 205, "from": ["centre line"], "start": 256},
+  {"c": [369.3, 125.7], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 258},
+  {"c": [113.7, 173.0], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 258},
+  {"c": [29.1, 138.6], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 85},
+  {"c": [70.2, 166.5], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 265}
+ ],
+ "boxes": [
+  {"mm": [326.0, 105.8, 357.7, 145.9], "w": 31.7, "h": 40.2, "from": "ring"},
+  {"mm": [362.3, 37.1, 368.1, 39.9], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [410.9, 36.7, 415.8, 39.5], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [340.9, 27.9, 415.6, 36.9], "w": 74.7, "h": 9.1, "from": "ring", "words": ["WARD-BECK  SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [340.9, 25.0, 358.2, 28.1], "w": 17.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {
+   "mm": [358.4, 15.1, 415.6, 27.9],
+   "w": 57.2,
+   "h": 12.7,
+   "from": "ring",
+   "words": ["REAR", "PANEL", "FOR M8212", "(MODIFIED)"],
+   "in_title_block": true
+  },
+  {"mm": [340.9, 21.8, 358.2, 24.8], "w": 17.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [340.9, 18.6, 358.2, 21.6], "w": 17.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [340.7, 15.3, 358.2, 18.6], "w": 17.5, "h": 3.2, "from": "ring", "in_title_block": true},
+  {"mm": [340.7, 9.3, 349.5, 15.3], "w": 8.9, "h": 6.0, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [349.8, 12.3, 367.2, 15.1], "w": 17.5, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [367.5, 9.1, 372.6, 15.1], "w": 5.2, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [372.9, 8.9, 407.6, 15.1], "w": 34.8, "h": 6.3, "from": "ring", "words": ["940145-03-001"], "in_title_block": true},
+  {"mm": [349.8, 9.1, 367.2, 12.1], "w": 17.5, "h": 3.0, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [258.6, 221.3, 264.5, 223.5], "text": "0. 328"},
+   {"mm": [164.9, 210.7, 174.0, 213.8], "text": "DEIAIL"},
+   {"mm": [208.1, 210.3, 217.2, 213.6], "text": "DEIA"},
+   {"mm": [34.1, 139.3, 39.9, 141.4], "text": "0,602"},
+   {"mm": [394.7, 130.6, 402.2, 132.8], "text": "PLACES"},
+   {"mm": [39.9, 79.9, 47.5, 82.0], "text": "PLACES"},
+   {"mm": [136.4, 79.9, 144.0, 82.0], "text": "FLACCS"},
+   {"mm": [95.4, 50.1, 102.6, 52.2], "text": "{0,015"},
+   {"mm": [57.0, 40.2, 87.2, 43.5], "text": "FCR SILKSCREEY SEE 940145"},
+   {"mm": [345.7, 30.0, 362.5, 34.3], "text": "WBS"},
+   {"mm": [369.0, 30.0, 413.2, 35.3], "text": "WARD-BECK  SYSTEMS"},
+   {"mm": [375.9, 22.9, 398.6, 26.7], "text": "REAR PANEL"},
+   {"mm": [377.0, 19.2, 397.5, 24.0], "text": "FOR M8212"},
+   {"mm": [377.6, 16.0, 397.0, 20.3], "text": "(MODIFIED)"},
+   {"mm": [342.2, 13.0, 348.0, 15.1], "text": "SCALE"},
+   {"mm": [375.5, 9.9, 405.0, 14.2], "text": "940145-03-001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [333.6, 7.4, 421.8, 40.9],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WARD-BECK  SYSTEMS", "REAR PANEL", "FOR M8212", "(MODIFIED)", "SCALE", "940145-03-001"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940145-03-001, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 25–416 mm across, 8–230 mm up",
+  "- **Outlines:** line 732 rings, 4,528 straight (9,213 mm) / 861 curved (1,225 mm); text 125 rings, 771 straight (760 mm) / 235 curved (304 mm); tb 55 rings, 385 straight (355 mm) / 103 curved (116 mm)",
+  "- **Centre lines:** 5,180 paths (129 closed); straight 5,852 mm, curved 264 mm; horizontal 2,806 mm, vertical 1,321 mm, diagonal 1,725 mm",
+  "- **Circles and arcs:** 10 circles, 15 arcs; largest r 6.2 @ (191.3, 126.9), r 6.2 @ (213.6, 126.7), r 6.2 @ (235.8, 126.5), r 3.2 @ (59.0, 115.8)",
+  "- **Closed boxes:** 14 (13 in the title block)",
+  "- **Words (OCR):** 17 in 16 lines: 0. 328 · DEIAIL · DEIA · 0,602 · PLACES · PLACES · FLACCS · {0,015 · FCR SILKSCREEY SEE 940145 · WBS · WARD-BECK  SYSTEMS · REAR PANEL",
+  "- **Title block:** (334, 7)–(422, 41) mm: WBS · WARD-BECK  SYSTEMS · REAR PANEL · FOR M8212 · (MODIFIED) · SCALE · 940145-03-001"
+ ]
+}

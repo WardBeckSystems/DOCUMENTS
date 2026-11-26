@@ -1,0 +1,90 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940243-04-001 - ILL CAUTON DISCOUNECT POKER DEFORE IFSERTNG DTRACMAG.jpg",
+ "version": 1,
+ "trace": "_traces/0b7d1959c99566fb.svg",
+ "sheet": {
+  "number": "940243-04-001",
+  "title": "Ill Cauton Discounect Poker Defore Ifsertng Dtracmag",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1294],
+  "mm": [431.8, 279.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [82.5, 6.7, 422.3, 188.0],
+ "outlines": {
+  "line": {"rings": 748, "straight": {"n": 6041, "mm": 21220.9}, "curved": {"n": 717, "mm": 910.6}},
+  "text": {"rings": 102, "straight": {"n": 627, "mm": 679.0}, "curved": {"n": 192, "mm": 260.6}},
+  "tb": {"rings": 17, "straight": {"n": 147, "mm": 182.3}, "curved": {"n": 23, "mm": 24.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [82.5, 62.8, 324.4, 174.2], "w": 242.0, "h": 111.4, "from": "ring"},
+  {"mm": [314.6, 63.7, 323.8, 173.8], "w": 9.3, "h": 110.1, "from": "ring"},
+  {"mm": [82.5, 63.3, 92.0, 173.4], "w": 9.4, "h": 110.1, "from": "ring"},
+  {"mm": [260.2, 69.1, 312.0, 170.8], "w": 51.8, "h": 101.7, "from": "ring"},
+  {"mm": [227.3, 143.5, 230.6, 152.9], "w": 3.2, "h": 9.3, "from": "ring"},
+  {"mm": [244.4, 143.6, 247.4, 152.9], "w": 3.0, "h": 9.3, "from": "ring"},
+  {"mm": [148.3, 124.6, 152.4, 127.2], "w": 4.1, "h": 2.6, "from": "ring"},
+  {"mm": [156.7, 124.6, 161.1, 127.2], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [105.8, 124.4, 110.1, 126.9], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [225.2, 124.4, 229.5, 126.9], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [156.7, 116.4, 161.1, 124.4], "w": 4.3, "h": 8.0, "from": "ring"},
+  {"mm": [165.4, 116.4, 169.5, 124.4], "w": 4.1, "h": 8.0, "from": "ring"},
+  {"mm": [105.8, 116.2, 110.1, 124.1], "w": 4.3, "h": 8.0, "from": "ring"},
+  {"mm": [208.1, 116.2, 212.2, 124.1], "w": 4.1, "h": 8.0, "from": "ring"},
+  {"mm": [225.2, 116.2, 229.5, 124.1], "w": 4.3, "h": 8.0, "from": "ring"},
+  {"mm": [156.7, 113.6, 161.1, 116.2], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [225.2, 113.3, 229.5, 115.9], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [242.2, 113.3, 246.3, 115.9], "w": 4.1, "h": 2.6, "from": "ring"},
+  {"mm": [105.8, 113.1, 110.1, 115.7], "w": 4.3, "h": 2.6, "from": "ring"},
+  {"mm": [210.5, 81.6, 213.3, 113.1], "w": 2.8, "h": 31.5, "from": "ring"},
+  {"mm": [210.7, 73.4, 213.3, 77.3], "w": 2.6, "h": 3.9, "from": "ring"},
+  {"mm": [208.1, 71.5, 210.5, 74.3], "w": 2.4, "h": 2.8, "from": "ring"},
+  {"mm": [368.5, 35.0, 416.9, 38.0], "w": 48.4, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [417.1, 35.2, 422.1, 38.0], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 26.1, 421.9, 34.8], "w": 74.7, "h": 8.6, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [364.9, 13.4, 421.9, 25.9], "w": 57.0, "h": 12.5, "from": "ring", "words": ["CENTENNIAL COLLEGE", "24*36 MiniCoM", "FRONT LAYOUT"]},
+  {"mm": [347.2, 22.9, 364.4, 25.7], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 19.6, 364.4, 22.7], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [347.2, 16.6, 364.7, 19.4], "w": 17.5, "h": 2.8, "from": "ring"},
+  {"mm": [347.2, 13.4, 364.7, 16.2], "w": 17.5, "h": 2.8, "from": "ring"},
+  {"mm": [379.3, 7.1, 414.1, 13.2], "w": 34.8, "h": 6.0, "from": "ring", "words": ["940243-04-001"]},
+  {"mm": [347.2, 7.1, 356.0, 13.0], "w": 8.9, "h": 5.8, "from": "ring"},
+  {"mm": [356.2, 10.4, 373.7, 13.0], "w": 17.5, "h": 2.6, "from": "ring", "words": ["DSC ND 469"]},
+  {"mm": [356.2, 7.1, 373.7, 9.9], "w": 17.5, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [185.7, 185.9, 192.2, 188.0], "text": "VAT ("},
+   {"mm": [352.1, 28.1, 368.3, 32.4], "text": "WBS"},
+   {"mm": [375.5, 28.1, 419.1, 33.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [375.5, 20.5, 413.7, 24.8], "text": "CENTENNIAL COLLEGE"},
+   {"mm": [379.8, 16.8, 407.2, 21.2], "text": "24*36 MiniCoM"},
+   {"mm": [379.8, 13.6, 407.2, 17.4], "text": "FRONT LAYOUT"},
+   {"mm": [356.0, 9.7, 371.1, 13.1], "text": "DSC ND 469"},
+   {"mm": [381.9, 7.6, 412.2, 11.9], "text": "940243-04-001"}
+  ]
+ },
+ "title_block": {"mm": [343.5, 22.5, 427.7, 39.1], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "CENTENNIAL COLLEGE"]},
+ "dots": [
+  {"c": [168.4, 87.6], "r": 0.7, "lines": 0},
+  {"c": [100.4, 87.4], "r": 0.7, "lines": 0},
+  {"c": [151.3, 85.0], "r": 0.7, "lines": 0},
+  {"c": [134.5, 85.0], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** layout 940243-04-001, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)",
+  "- **Ink extent:** 82–422 mm across, 7–188 mm up",
+  "- **Outlines:** line 748 rings, 6,041 straight (21,221 mm) / 717 curved (911 mm); text 102 rings, 627 straight (679 mm) / 192 curved (261 mm); tb 17 rings, 147 straight (182 mm) / 23 curved (24.7 mm)",
+  "- **Closed boxes:** 34 (4 in the title block); named: CENTENNIAL COLLEGE 24*36 MiniCoM FRONT L; 940243-04-001; DSC ND 469",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 8 in 8 lines: VAT ( · WBS · WARD-BECK SYSTEMS · CENTENNIAL COLLEGE · 24*36 MiniCoM · FRONT LAYOUT · DSC ND 469 · 940243-04-001",
+  "- **Title block:** (344, 22)–(428, 39) mm: WBS · WARD-BECK SYSTEMS · CENTENNIAL COLLEGE"
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1993 - DOC - 93039-01-003 - INCLUDED FOR DISCUSSION PURPOSES.jpg",
+ "version": 1,
+ "trace": "_traces/5921268097d010f3.svg",
+ "sheet": {
+  "number": "93039-01-003",
+  "title": "Included For Discussion Purposes",
+  "dtype": "01",
+  "type": "functional",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1287],
+  "mm": [431.8, 277.9],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [55.9, 0.0, 429.4, 266.4],
+ "outlines": {
+  "line": {"rings": 603, "straight": {"n": 4339, "mm": 8412.0}, "curved": {"n": 528, "mm": 651.7}},
+  "text": {"rings": 112, "straight": {"n": 707, "mm": 700.6}, "curved": {"n": 225, "mm": 294.7}},
+  "tb": {"rings": 16, "straight": {"n": 125, "mm": 156.8}, "curved": {"n": 30, "mm": 35.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4136, "straight": {"n": 4517, "mm": 4193.6}, "curved": {"n": 15, "mm": 16.1}},
+   "text": {"paths": 784, "straight": {"n": 1014, "mm": 580.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 222, "straight": {"n": 259, "mm": 365.3}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 80,
+  "orientation": {"horizontal": {"n": 1746, "mm": 2353.4}, "vertical": {"n": 1484, "mm": 1357.5}, "diagonal": {"n": 2560, "mm": 1428.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [71.0, 133.1], "r": 1.9, "kind": "arc", "span": 175, "from": ["centre line"], "start": 315},
+  {"c": [308.8, 63.2], "r": 1.3, "kind": "arc", "span": 169, "from": ["centre line"], "start": 133},
+  {"c": [376.4, 3.5], "r": 1.1, "kind": "arc", "span": 251, "from": ["centre line"], "start": 115},
+  {"c": [357.5, 1.9], "r": 0.7, "kind": "arc", "span": 213, "from": ["centre line"], "start": 255}
+ ],
+ "boxes": [
+  {"mm": [272.9, 217.0, 283.0, 220.6], "w": 10.1, "h": 3.7, "from": "ring"},
+  {"mm": [263.4, 216.8, 268.6, 220.4], "w": 5.2, "h": 3.7, "from": "ring"},
+  {"mm": [248.9, 216.5, 259.1, 220.2], "w": 10.1, "h": 3.7, "from": "ring"},
+  {"mm": [194.7, 126.3, 215.9, 201.9], "w": 21.2, "h": 75.6, "from": "block"},
+  {"mm": [105.8, 142.7, 111.0, 146.4], "w": 5.2, "h": 3.7, "from": "ring"},
+  {"mm": [91.3, 142.5, 101.7, 146.2], "w": 10.4, "h": 3.7, "from": "ring"},
+  {"mm": [177.5, 101.9, 196.7, 126.4], "w": 19.2, "h": 24.5, "from": "ring"},
+  {"mm": [177.9, 46.9, 197.8, 102.1], "w": 19.9, "h": 55.3, "from": "ring"},
+  {"mm": [275.9, 56.3, 286.3, 60.0], "w": 10.4, "h": 3.7, "from": "ring"},
+  {"mm": [252.0, 55.7, 262.1, 59.4], "w": 10.1, "h": 3.7, "from": "ring"},
+  {"mm": [197.8, 40.8, 226.7, 47.7], "w": 28.9, "h": 6.9, "from": "block"},
+  {"mm": [266.6, 43.0, 277.2, 46.6], "w": 10.6, "h": 3.7, "from": "ring"},
+  {"mm": [368.1, 28.3, 373.9, 31.3], "w": 5.8, "h": 3.0, "from": "ring", "words": ["ISSUEDAIE"], "in_title_block": true},
+  {"mm": [362.1, 28.3, 367.9, 31.1], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [414.3, 1.5, 421.9, 7.6], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [379.6, 0.9, 413.9, 7.3], "w": 34.3, "h": 6.5, "from": "ring", "words": ["93039-01-003"]},
+  {"mm": [374.2, 0.6, 379.3, 6.7], "w": 5.2, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [362.7, 87.4, 377.2, 89.6], "text": "CBC $ PRCPEF"},
+   {"mm": [344.6, 82.3, 357.1, 85.6], "text": "ciscussion"},
+   {"mm": [93.1, 65.0, 116.8, 69.3], "text": "POWER SUPPLY"},
+   {"mm": [361.8, 27.9, 374.4, 31.2], "text": "ISSUEDAIE"},
+   {"mm": [374.6, 21.6, 418.8, 28.1], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [352.1, 21.4, 368.3, 25.2], "text": "WBS"},
+   {"mm": [380.8, 14.9, 395.3, 18.7], "text": "CBC SR"},
+   {"mm": [397.0, 15.3, 404.6, 19.2], "text": "398"},
+   {"mm": [382.4, 11.0, 402.9, 15.3], "text": "OPTION 8.3"},
+   {"mm": [381.9, 7.3, 402.9, 11.7], "text": "FUNCTIONAL"},
+   {"mm": [383.0, 1.3, 411.1, 5.6], "text": "93039-01-003"}
+  ]
+ },
+ "title_block": {
+  "mm": [343.5, 15.8, 427.5, 36.6],
+  "from": "title-block words (training set)",
+  "text": ["ISSUEDAIE", "WARD-BECK SYSTEMS", "WBS", "CBC SR", "398"]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 43,
+  "wire_runs": 574,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 421.3, "runs": 17, "ends": 5, "bbox": [90.5, 46.9, 197.8, 126.7], "labels": ["POWER SUPPLY"]},
+   {"mm": 310.5, "runs": 16, "ends": 4, "bbox": [215.7, 44.0, 266.4, 196.3], "labels": []},
+   {"mm": 105.2, "runs": 9, "ends": 4, "bbox": [121.8, 128.0, 176.8, 140.3], "labels": []},
+   {"mm": 66.3, "runs": 7, "ends": 4, "bbox": [124.6, 132.8, 153.7, 138.4], "labels": []},
+   {"mm": 65.0, "runs": 6, "ends": 3, "bbox": [255.2, 193.4, 291.0, 220.4], "labels": []},
+   {"mm": 65.0, "runs": 6, "ends": 3, "bbox": [258.2, 32.8, 294.1, 59.8], "labels": []},
+   {"mm": 64.4, "runs": 1, "ends": 2, "bbox": [188.3, 143.1, 189.6, 207.5], "labels": []},
+   {"mm": 59.4, "runs": 5, "ends": 3, "bbox": [188.7, 207.3, 238.8, 217.8], "labels": []},
+   {"mm": 50.3, "runs": 5, "ends": 4, "bbox": [128.0, 137.3, 153.5, 139.5], "labels": []},
+   {"mm": 41.9, "runs": 8, "ends": 3, "bbox": [255.8, 43.4, 277.2, 55.9], "labels": []},
+   {"mm": 39.7, "runs": 3, "ends": 2, "bbox": [122.4, 129.8, 153.7, 139.0], "labels": []},
+   {"mm": 39.3, "runs": 8, "ends": 4, "bbox": [347.0, 0.4, 364.7, 16.0], "labels": ["WBS"]},
+   {"mm": 33.7, "runs": 5, "ends": 3, "bbox": [226.7, 34.5, 247.0, 41.7], "labels": []},
+   {"mm": 31.5, "runs": 1, "ends": 2, "bbox": [155.0, 142.1, 186.5, 142.7], "labels": []},
+   {"mm": 31.3, "runs": 6, "ends": 3, "bbox": [253.0, 204.2, 274.2, 211.8], "labels": []},
+   {"mm": 28.3, "runs": 3, "ends": 2, "bbox": [214.0, 202.1, 231.0, 214.4], "labels": []},
+   {"mm": 26.1, "runs": 2, "ends": 2, "bbox": [126.9, 135.8, 153.5, 136.4], "labels": []},
+   {"mm": 23.8, "runs": 2, "ends": 2, "bbox": [129.3, 140.3, 153.5, 141.0], "labels": []},
+   {"mm": 23.1, "runs": 2, "ends": 2, "bbox": [129.8, 141.4, 153.3, 142.1], "labels": []},
+   {"mm": 20.5, "runs": 2, "ends": 2, "bbox": [253.5, 48.8, 267.7, 55.5], "labels": []},
+   {"mm": 18.4, "runs": 4, "ends": 3, "bbox": [239.2, 210.1, 248.7, 218.5], "labels": []},
+   {"mm": 17.9, "runs": 3, "ends": 3, "bbox": [224.1, 195.6, 241.6, 196.9], "labels": []},
+   {"mm": 17.1, "runs": 4, "ends": 3, "bbox": [111.0, 142.7, 125.2, 145.1], "labels": []},
+   {"mm": 17.1, "runs": 1, "ends": 2, "bbox": [245.9, 206.2, 263.0, 206.6], "labels": []},
+   {"mm": 16.2, "runs": 1, "ends": 2, "bbox": [214.6, 214.8, 230.8, 215.0], "labels": []},
+   {"mm": 16.0, "runs": 6, "ends": 4, "bbox": [266.6, 39.9, 275.1, 43.2], "labels": []},
+   {"mm": 14.9, "runs": 5, "ends": 3, "bbox": [265.1, 200.4, 272.0, 203.8], "labels": []},
+   {"mm": 13.8, "runs": 1, "ends": 2, "bbox": [250.9, 209.4, 264.7, 209.9], "labels": []},
+   {"mm": 13.2, "runs": 3, "ends": 2, "bbox": [250.4, 210.9, 258.9, 216.8], "labels": []},
+   {"mm": 10.2, "runs": 2, "ends": 2, "bbox": [275.9, 56.3, 286.1, 56.6], "labels": []},
+   {"mm": 9.9, "runs": 2, "ends": 2, "bbox": [91.3, 146.2, 101.3, 146.4], "labels": []},
+   {"mm": 9.9, "runs": 2, "ends": 2, "bbox": [252.0, 59.6, 261.9, 59.8], "labels": []},
+   {"mm": 9.9, "runs": 2, "ends": 2, "bbox": [272.9, 217.0, 282.8, 217.2], "labels": []},
+   {"mm": 9.9, "runs": 2, "ends": 2, "bbox": [272.9, 220.9, 282.8, 221.1], "labels": []},
+   {"mm": 8.4, "runs": 1, "ends": 2, "bbox": [91.3, 142.5, 99.7, 142.5], "labels": []},
+   {"mm": 8.2, "runs": 1, "ends": 2, "bbox": [277.6, 60.2, 285.9, 60.2], "labels": []},
+   {"mm": 7.6, "runs": 1, "ends": 2, "bbox": [251.3, 220.4, 258.9, 220.4], "labels": []},
+   {"mm": 6.0, "runs": 3, "ends": 3, "bbox": [259.3, 217.2, 263.0, 220.2], "labels": []},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [413.9, 1.7, 413.9, 7.6], "labels": ["93039-01-003"]},
+   {"mm": 5.6, "runs": 1, "ends": 2, "bbox": [379.1, 1.1, 379.3, 6.7], "labels": ["OPTION 8.3", "FUNCTIONAL", "93039-01-003"]},
+   {"mm": 5.4, "runs": 3, "ends": 3, "bbox": [80.1, 142.9, 83.8, 145.3], "labels": []},
+   {"mm": 5.4, "runs": 2, "ends": 2, "bbox": [356.0, 0.4, 356.2, 6.3], "labels": []},
+   {"mm": 5.4, "runs": 2, "ends": 2, "bbox": [373.7, 0.9, 373.9, 6.7], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** functional 93039-01-003, size B (assumed) 432 × 278 mm, 2000 × 1287 px traced (0.216 mm/px)",
+  "- **Ink extent:** 56–429 mm across, 0–266 mm up",
+  "- **Outlines:** line 603 rings, 4,339 straight (8,412 mm) / 528 curved (652 mm); text 112 rings, 707 straight (701 mm) / 225 curved (295 mm); tb 16 rings, 125 straight (157 mm) / 30 curved (35.7 mm)",
+  "- **Centre lines:** 5,142 paths (80 closed); straight 5,140 mm, curved 16.1 mm; horizontal 2,353 mm, vertical 1,358 mm, diagonal 1,429 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 17 (2 in the title block); named: 93039-01-003",
+  "- **Words (OCR):** 13 in 11 lines: CBC $ PRCPEF · ciscussion · POWER SUPPLY · ISSUEDAIE · WARD-BECK SYSTEMS · WBS · CBC SR · 398 · OPTION 8.3 · FUNCTIONAL · 93039-01-003",
+  "- **Title block:** (344, 16)–(428, 37) mm: ISSUEDAIE · WARD-BECK SYSTEMS · WBS · CBC SR · 398",
+  "- **Wiring (first pass):** 43 connected wire groups from 574 runs; labelled ends: 421 mm → POWER SUPPLY; 39 mm → WBS; 6 mm → 93039-01-003; 6 mm → OPTION 8.3, FUNCTIONAL, 93039-01-003"
+ ]
+}

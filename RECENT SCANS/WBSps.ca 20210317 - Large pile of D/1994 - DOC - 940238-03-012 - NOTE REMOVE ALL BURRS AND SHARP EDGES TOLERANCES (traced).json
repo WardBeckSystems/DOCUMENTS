@@ -1,0 +1,89 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940238-03-012 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/7467a941b21d3337.svg",
+ "sheet": {
+  "number": "940238-03-012",
+  "title": "Note Remove All Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [31.3, 7.6, 423.4, 188.3],
+ "outlines": {
+  "line": {"rings": 248, "straight": {"n": 1801, "mm": 5567.2}, "curved": {"n": 330, "mm": 394.5}},
+  "text": {"rings": 172, "straight": {"n": 1075, "mm": 1086.7}, "curved": {"n": 341, "mm": 432.6}},
+  "tb": {"rings": 12, "straight": {"n": 107, "mm": 142.0}, "curved": {"n": 30, "mm": 34.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1714, "straight": {"n": 1979, "mm": 2835.2}, "curved": {"n": 5, "mm": 4.3}},
+   "text": {"paths": 1198, "straight": {"n": 1483, "mm": 791.4}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 215, "straight": {"n": 244, "mm": 375.3}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 82,
+  "orientation": {"horizontal": {"n": 934, "mm": 2046.8}, "vertical": {"n": 982, "mm": 925.4}, "diagonal": {"n": 1790, "mm": 1029.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [279.2, 164.7], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [376.8, 10.7], "r": 1.2, "kind": "arc", "span": 218, "from": ["centre line"], "start": 102}
+ ],
+ "boxes": [
+  {"mm": [107.3, 126.9, 298.2, 170.3], "w": 190.9, "h": 43.4, "from": "ring"},
+  {"mm": [177.2, 142.5, 196.5, 154.8], "w": 19.3, "h": 12.3, "from": "ring"},
+  {"mm": [259.7, 142.7, 278.9, 154.8], "w": 19.2, "h": 12.1, "from": "ring"},
+  {"mm": [126.4, 142.3, 145.5, 154.6], "w": 19.2, "h": 12.3, "from": "ring"},
+  {"mm": [369.4, 36.1, 417.8, 38.9], "w": 48.4, "h": 2.8, "from": "ring", "words": ["REYSID\""], "in_title_block": true},
+  {"mm": [348.0, 27.0, 422.9, 35.8], "w": 74.9, "h": 8.9, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [348.0, 24.0, 365.3, 26.8], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [365.7, 14.2, 422.9, 26.8], "w": 57.2, "h": 12.5, "from": "ring", "words": ["POWER INTERFACE", "PANEL"]},
+  {"mm": [348.0, 20.7, 365.3, 23.5], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [348.0, 17.5, 365.3, 20.3], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [348.0, 14.2, 365.3, 17.3], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [348.0, 8.0, 356.9, 14.0], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [357.1, 11.2, 374.6, 14.0], "w": 17.5, "h": 2.8, "from": "ring"},
+  {"mm": [374.8, 8.0, 380.0, 14.0], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [380.2, 8.0, 415.0, 14.0], "w": 34.8, "h": 6.0, "from": "ring", "words": ["940238-03-012"]},
+  {"mm": [415.4, 8.0, 422.9, 14.0], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [357.1, 8.0, 374.6, 11.0], "w": 17.5, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [273.1, 185.5, 278.9, 187.6], "text": "REO D"},
+   {"mm": [31.1, 36.7, 81.8, 40.5], "text": "MATERIAL: CRS 0.059 THICK."},
+   {"mm": [388.6, 36.5, 397.3, 38.6], "text": "REYSID\""},
+   {"mm": [31.1, 30.2, 41.9, 33.6], "text": "FINISH:"},
+   {"mm": [43.0, 29.8, 84.4, 34.1], "text": "SAND 120 CRIT AND PAINT"},
+   {"mm": [352.8, 29.1, 369.4, 33.5], "text": "WBS"},
+   {"mm": [375.9, 29.1, 420.1, 34.7], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [43.0, 26.3, 91.5, 30.7], "text": "TEXTURED GREY TEXCOTE VNYL."},
+   {"mm": [377.0, 20.5, 410.0, 24.8], "text": "POWER INTERFACE"},
+   {"mm": [34.1, 19.2, 41.7, 21.4], "text": "REL DVE"},
+   {"mm": [34.5, 17.1, 47.1, 19.2], "text": "TOLERANCZS"},
+   {"mm": [47.5, 19.2, 54.0, 21.4], "text": "JuRAS"},
+   {"mm": [67.4, 19.2, 73.8, 21.4], "text": "@DCIS"},
+   {"mm": [387.3, 16.2, 399.2, 20.5], "text": "PANEL"},
+   {"mm": [382.4, 8.0, 412.6, 12.3], "text": "940238-03-012"}
+  ]
+ },
+ "title_block": {"mm": [344.1, 23.5, 428.8, 40.1], "from": "title-block words (training set)", "text": ["REYSID\"", "WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940238-03-012, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)",
+  "- **Ink extent:** 31–423 mm across, 8–188 mm up",
+  "- **Outlines:** line 248 rings, 1,801 straight (5,567 mm) / 330 curved (394 mm); text 172 rings, 1,075 straight (1,087 mm) / 341 curved (433 mm); tb 12 rings, 107 straight (142 mm) / 30 curved (34.7 mm)",
+  "- **Centre lines:** 3,127 paths (82 closed); straight 4,002 mm, curved 4.3 mm; horizontal 2,047 mm, vertical 925 mm, diagonal 1,030 mm",
+  "- **Circles and arcs:** 1 circles, 1 arcs; largest r 1.3 @ (279.2, 164.7)",
+  "- **Closed boxes:** 17 (3 in the title block); named: POWER INTERFACE PANEL; 940238-03-012",
+  "- **Words (OCR):** 18 in 15 lines: REO D · MATERIAL: CRS 0.059 THICK. · REYSID\" · FINISH: · SAND 120 CRIT AND PAINT · WBS · WARD-BECK SYSTEMS · TEXTURED GREY TEXCOTE VNYL. · POWER INTERFACE · REL DVE · TOLERANCZS · JuRAS",
+  "- **Title block:** (344, 24)–(429, 40) mm: REYSID\" · WBS · WARD-BECK SYSTEMS"
+ ]
+}

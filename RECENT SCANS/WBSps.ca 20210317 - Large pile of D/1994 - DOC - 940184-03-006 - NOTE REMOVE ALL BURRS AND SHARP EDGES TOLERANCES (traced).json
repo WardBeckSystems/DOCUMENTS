@@ -1,0 +1,88 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940184-03-006 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/160ecfd4da1ef948.svg",
+ "sheet": {
+  "number": "940184-03-006",
+  "title": "Note Remove All Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [39.9, 7.3, 420.1, 235.7],
+ "outlines": {
+  "line": {"rings": 308, "straight": {"n": 3165, "mm": 7880.2}, "curved": {"n": 539, "mm": 647.5}},
+  "text": {"rings": 244, "straight": {"n": 1407, "mm": 1358.9}, "curved": {"n": 480, "mm": 614.1}},
+  "tb": {"rings": 15, "straight": {"n": 141, "mm": 164.8}, "curved": {"n": 33, "mm": 39.8}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3418, "straight": {"n": 3783, "mm": 4270.5}, "curved": {"n": 6, "mm": 4.2}},
+   "text": {"paths": 1736, "straight": {"n": 2102, "mm": 1059.4}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 293, "straight": {"n": 339, "mm": 405.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 102,
+  "orientation": {"horizontal": {"n": 1629, "mm": 2223.2}, "vertical": {"n": 1601, "mm": 1343.4}, "diagonal": {"n": 2994, "mm": 2168.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [95.8, 189.8], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 82},
+  {"c": [197.1, 234.7], "r": 0.7, "kind": "arc", "span": 243, "from": ["centre line"], "start": 314}
+ ],
+ "boxes": [
+  {"mm": [360.3, 36.5, 366.2, 39.3], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [415.0, 35.6, 419.9, 38.4], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [362.3, 13.8, 419.5, 27.2], "w": 57.2, "h": 13.4, "from": "ring", "words": ["TURRET BASE", "(MEDIUM)"]},
+  {"mm": [344.8, 18.1, 362.1, 21.2], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [344.8, 14.9, 362.1, 17.9], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [344.6, 8.6, 353.4, 14.7], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [371.3, 8.2, 376.5, 14.2], "w": 5.2, "h": 6.1, "from": "ring"},
+  {"mm": [411.7, 7.6, 419.3, 13.6], "w": 7.6, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [250.9, 211.2, 262.8, 213.3], "text": "MATERIAL"},
+   {"mm": [264.3, 209.9, 278.9, 213.7], "text": "CR,S; UOSE"},
+   {"mm": [280.5, 209.9, 288.0, 213.2], "text": "THIC *"},
+   {"mm": [197.5, 198.2, 203.4, 200.4], "text": "0.153"},
+   {"mm": [221.5, 197.3, 229.7, 200.7], "text": "RAD(S)"},
+   {"mm": [267.5, 185.5, 305.3, 189.3], "text": "MATERIAL: CRS 0.10s Thick;"},
+   {"mm": [207.3, 176.6, 213.3, 178.8], "text": "200]"},
+   {"mm": [277.4, 134.1, 283.3, 136.2], "text": "REC D"},
+   {"mm": [208.1, 122.8, 214.6, 126.2], "text": "0.560"},
+   {"mm": [207.3, 87.4, 213.3, 89.6], "text": "0,500"},
+   {"mm": [39.7, 50.5, 96.3, 55.4], "text": "MATERIAL: SEE BODY OF DRAWING."},
+   {"mm": [39.7, 44.0, 93.1, 49.0], "text": "FINISH: SAND 120 Grit AND PAINT"},
+   {"mm": [52.0, 40.8, 90.5, 45.1], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [51.6, 38.0, 65.0, 41.8], "text": "TEXCOTE"},
+   {"mm": [89.6, 38.4, 100.4, 40.6], "text": "\"LD HOm"},
+   {"mm": [55.7, 30.9, 62.2, 33.0], "text": "AURAS"},
+   {"mm": [75.3, 29.4, 82.9, 32.7], "text": "EDCES"},
+   {"mm": [350.0, 29.4, 366.2, 33.7], "text": "WBS"},
+   {"mm": [373.3, 28.9, 416.9, 34.4], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [42.7, 28.7, 55.1, 30.9], "text": "TOLER \"cES"},
+   {"mm": [380.8, 19.4, 405.0, 24.9], "text": "TURRET BASE"},
+   {"mm": [384.5, 16.0, 401.4, 20.3], "text": "(MEDIUM)"},
+   {"mm": [379.8, 7.8, 410.0, 12.6], "text": "940184-03-006"}
+  ]
+ },
+ "title_block": {"mm": [341.4, 23.3, 425.6, 39.9], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940184-03-006, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)",
+  "- **Ink extent:** 40–420 mm across, 7–236 mm up",
+  "- **Outlines:** line 308 rings, 3,165 straight (7,880 mm) / 539 curved (648 mm); text 244 rings, 1,407 straight (1,359 mm) / 480 curved (614 mm); tb 15 rings, 141 straight (165 mm) / 33 curved (39.8 mm)",
+  "- **Centre lines:** 5,447 paths (102 closed); straight 5,735 mm, curved 4.2 mm; horizontal 2,223 mm, vertical 1,343 mm, diagonal 2,168 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 8 (2 in the title block); named: TURRET BASE (MEDIUM)",
+  "- **Words (OCR):** 27 in 23 lines: MATERIAL · CR,S; UOSE · THIC * · 0.153 · RAD(S) · MATERIAL: CRS 0.10s Thick; · 200] · REC D · 0.560 · 0,500 · MATERIAL: SEE BODY OF DRAWING. · FINISH: SAND 120 Grit AND PAINT",
+  "- **Title block:** (341, 23)–(426, 40) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}
