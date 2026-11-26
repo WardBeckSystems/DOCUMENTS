@@ -1,0 +1,77 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 94064-04-008 - REAR VIEW METER CABLE TERMINATNG.jpg",
+ "version": 1,
+ "trace": "_traces/e7f2401d0c207ae9.svg",
+ "sheet": {
+  "number": "94064-04-008",
+  "title": "Rear View Meter Cable Terminatng",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [62.8, 7.3, 424.0, 196.5],
+ "outlines": {
+  "line": {"rings": 157, "straight": {"n": 1258, "mm": 5703.0}, "curved": {"n": 292, "mm": 482.1}},
+  "text": {"rings": 131, "straight": {"n": 827, "mm": 937.2}, "curved": {"n": 219, "mm": 294.4}},
+  "tb": {"rings": 61, "straight": {"n": 494, "mm": 1384.2}, "curved": {"n": 86, "mm": 97.8}}
+ },
+ "circles": [
+  {"c": [187.7, 146.3], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [169.9, 146.3], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [248.0, 164.1], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [248.0, 164.1], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [248.1, 164.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [158.9, 146.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3}
+ ],
+ "boxes": [
+  {"mm": [90.2, 131.9, 211.7, 196.5], "w": 121.5, "h": 64.6, "from": "ring"},
+  {"mm": [236.0, 131.9, 262.1, 196.5], "w": 26.1, "h": 64.6, "from": "ring"},
+  {"mm": [91.1, 133.9, 127.6, 194.5], "w": 36.5, "h": 60.7, "from": "ring"},
+  {"mm": [127.8, 133.9, 153.5, 194.5], "w": 25.7, "h": 60.7, "from": "ring"},
+  {"mm": [153.7, 133.9, 210.5, 194.5], "w": 56.8, "h": 60.7, "from": "ring"},
+  {"mm": [237.0, 133.9, 259.9, 194.5], "w": 22.9, "h": 60.7, "from": "ring"},
+  {"mm": [131.1, 145.3, 143.1, 182.7], "w": 12.1, "h": 37.4, "from": "ring"},
+  {"mm": [163.7, 140.1, 176.2, 152.4], "w": 12.6, "h": 12.3, "from": "ring"},
+  {"mm": [181.4, 140.1, 193.9, 152.4], "w": 12.5, "h": 12.3, "from": "ring"},
+  {"mm": [64.8, 27.6, 125.4, 69.3], "w": 60.7, "h": 41.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [364.0, 34.8, 376.5, 38.1], "text": "ISSUE DATEA"},
+   {"mm": [353.9, 28.9, 370.1, 32.8], "text": "WBS"},
+   {"mm": [377.0, 28.9, 420.8, 33.7], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [383.0, 21.8, 406.8, 26.1], "text": "WBZ BOSTON"},
+   {"mm": [87.2, 15.3, 104.5, 19.2], "text": "REAR MEW"},
+   {"mm": [118.7, 17.3, 125.2, 19.4], "text": "CRE"},
+   {"mm": [222.2, 15.3, 237.7, 18.7], "text": "SIdE VEW"},
+   {"mm": [381.9, 18.1, 407.2, 22.0], "text": "HOST TURRET"},
+   {"mm": [389.5, 14.2, 401.8, 18.1], "text": "AYOUT"},
+   {"mm": [348.9, 7.8, 363.8, 11.6], "text": "NTS COCE;"},
+   {"mm": [349.8, 11.2, 356.2, 13.4], "text": "SCALE"},
+   {"mm": [385.6, 8.4, 413.7, 12.7], "text": "94064-04-008"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [341.1, 5.7, 429.4, 43.6],
+  "from": "title-block words (training set)",
+  "text": ["ISSUE DATEA", "WBS", "WARD-BECK SYSTEMS", "WBZ BOSTON", "HOST TURRET", "AYOUT", "NTS COCE;", "SCALE", "94064-04-008"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 94064-04-008, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 63–424 mm across, 7–196 mm up",
+  "- **Outlines:** line 157 rings, 1,258 straight (5,703 mm) / 292 curved (482 mm); text 131 rings, 827 straight (937 mm) / 219 curved (294 mm); tb 61 rings, 494 straight (1,384 mm) / 86 curved (97.8 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 4.5 @ (187.7, 146.3), r 4.5 @ (169.9, 146.3), r 3.3 @ (248.0, 164.1), r 2.4 @ (248.0, 164.1)",
+  "- **Closed boxes:** 10",
+  "- **Words (OCR):** 16 in 12 lines: ISSUE DATEA · WBS · WARD-BECK SYSTEMS · WBZ BOSTON · REAR MEW · CRE · SIdE VEW · HOST TURRET · AYOUT · NTS COCE; · SCALE · 94064-04-008",
+  "- **Title block:** (341, 6)–(429, 44) mm: ISSUE DATEA · WBS · WARD-BECK SYSTEMS · WBZ BOSTON · HOST TURRET · AYOUT · NTS COCE; · SCALE · 94064-04-008"
+ ]
+}

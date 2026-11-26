@@ -1,0 +1,116 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE.jpg",
+ "version": 1,
+ "trace": "_traces/eae87a72b34a3813.svg",
+ "sheet": {
+  "number": "940350-03-002",
+  "title": "Custom Module Top Plate",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [73.0, 6.9, 422.5, 263.2],
+ "outlines": {
+  "line": {"rings": 325, "straight": {"n": 2239, "mm": 5372.0}, "curved": {"n": 499, "mm": 628.4}},
+  "text": {"rings": 250, "straight": {"n": 1487, "mm": 1530.2}, "curved": {"n": 473, "mm": 599.5}},
+  "tb": {"rings": 9, "straight": {"n": 82, "mm": 127.5}, "curved": {"n": 15, "mm": 17.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3195, "straight": {"n": 3541, "mm": 3021.5}, "curved": {"n": 36, "mm": 38.1}},
+   "text": {"paths": 1658, "straight": {"n": 2073, "mm": 1156.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 154, "straight": {"n": 182, "mm": 325.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 114,
+  "orientation": {"horizontal": {"n": 1419, "mm": 1175.2}, "vertical": {"n": 1452, "mm": 1643.7}, "diagonal": {"n": 2925, "mm": 1684.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [114.8, 86.9], "r": 3.2, "kind": "arc", "span": 94, "from": ["centre line"], "start": 2},
+  {"c": [114.1, 99.5], "r": 3.0, "kind": "arc", "span": 96, "from": ["centre line"], "start": 271},
+  {"c": [115.1, 99.3], "r": 2.8, "kind": "arc", "span": 107, "from": ["centre line"], "start": 9},
+  {"c": [119.4, 39.3], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [207.2, 239.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [274.6, 243.9], "r": 1.5, "kind": "arc", "span": 182, "from": ["centre line"], "start": 316},
+  {"c": [323.1, 67.7], "r": 1.2, "kind": "arc", "span": 104, "from": ["centre line"], "start": 322},
+  {"c": [376.2, 10.2], "r": 1.2, "kind": "arc", "span": 219, "from": ["centre line"], "start": 97},
+  {"c": [256.6, 41.9], "r": 1.1, "kind": "arc", "span": 207, "from": ["centre line"], "start": 133},
+  {"c": [121.0, 239.3], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 18},
+  {"c": [119.7, 39.8], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 108},
+  {"c": [86.8, 235.6], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [147.4, 239.6], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 82},
+  {"c": [348.0, 21.4], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 355}
+ ],
+ "boxes": [
+  {"mm": [110.1, 36.9, 130.0, 242.0], "w": 19.9, "h": 205.1, "from": "ring"},
+  {"mm": [196.9, 36.5, 216.5, 241.8], "w": 19.6, "h": 205.3, "from": "ring", "words": ["Ro"]},
+  {"mm": [207.3, 82.0, 214.2, 104.1], "w": 6.9, "h": 22.0, "from": "ring"},
+  {"mm": [208.8, 82.5, 212.7, 103.9], "w": 3.9, "h": 21.4, "from": "ring"},
+  {"mm": [368.8, 35.2, 374.4, 38.0], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [374.6, 35.2, 417.1, 38.0], "w": 42.5, "h": 2.8, "from": "ring", "words": ["REMsOH"], "in_title_block": true},
+  {"mm": [417.3, 35.2, 422.3, 38.0], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 26.3, 422.1, 35.0], "w": 74.9, "h": 8.6, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [347.2, 23.1, 364.4, 25.9], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [364.9, 13.6, 422.1, 25.9], "w": 57.2, "h": 12.3, "from": "ring", "words": ["M907", "CUSTOM MODULE", "PLATE", "TOP"]},
+  {"mm": [347.2, 20.1, 364.4, 22.9], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [347.2, 16.8, 364.4, 19.6], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [347.2, 13.6, 364.4, 16.4], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [347.2, 7.3, 356.0, 13.2], "w": 8.9, "h": 5.8, "from": "ring"},
+  {"mm": [356.2, 10.6, 373.7, 13.2], "w": 17.5, "h": 2.6, "from": "ring"},
+  {"mm": [373.9, 7.1, 379.1, 13.2], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [379.3, 7.3, 414.1, 13.2], "w": 34.8, "h": 5.8, "from": "ring", "words": ["940350-03-002"]},
+  {"mm": [356.2, 7.1, 373.7, 10.1], "w": 17.5, "h": 3.0, "from": "ring", "words": ["CCOE"]}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [75.8, 234.3, 82.3, 239.0], "text": "9308,"},
+   {"mm": [81.0, 232.7, 87.0, 234.9], "text": "RFO\"D"},
+   {"mm": [91.1, 125.9, 97.2, 128.0], "text": "9.05/"},
+   {"mm": [89.0, 115.1, 95.0, 117.2], "text": "REO'D"},
+   {"mm": [308.5, 95.9, 384.5, 101.4], "text": "MATERIAL: C.R.S. 0.048  THICK"},
+   {"mm": [90.7, 86.4, 96.7, 88.0], "text": "17U"},
+   {"mm": [308.5, 82.9, 362.5, 86.7], "text": "FINISH: SAND 120 GRIT AND PAINT"},
+   {"mm": [320.8, 79.7, 357.5, 83.5], "text": "TEXTURED BEIGE (452C)"},
+   {"mm": [320.8, 76.4, 344.1, 80.3], "text": "TEXCOTE VNYL."},
+   {"mm": [321.5, 73.2, 350.0, 77.0], "text": "(EXTRA FINE TEXTURE)"},
+   {"mm": [324.9, 68.0, 331.4, 70.2], "text": "BURRS"},
+   {"mm": [337.9, 68.0, 351.9, 70.3], "text": "EHAR ED CES"},
+   {"mm": [197.5, 36.7, 209.0, 44.1], "text": "Ro"},
+   {"mm": [141.4, 35.6, 147.9, 37.8], "text": "16.150"},
+   {"mm": [362.7, 35.6, 373.9, 37.8], "text": "KSDAT"},
+   {"mm": [391.2, 35.6, 399.8, 37.8], "text": "REMsOH"},
+   {"mm": [352.1, 28.3, 368.3, 32.6], "text": "WBS"},
+   {"mm": [375.5, 28.3, 419.7, 33.8], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [387.8, 21.4, 397.5, 25.2], "text": "M907"},
+   {"mm": [377.6, 17.5, 408.3, 21.8], "text": "CUSTOM MODULE"},
+   {"mm": [383.0, 14.2, 390.6, 17.4], "text": "TOP"},
+   {"mm": [392.1, 13.8, 402.9, 18.1], "text": "PLATE"},
+   {"mm": [382.4, 7.8, 413.2, 12.1], "text": "940350-03-002"},
+   {"mm": [356.2, 7.6, 362.3, 9.7], "text": "CCOE"}
+  ]
+ },
+ "title_block": {
+  "mm": [343.5, 22.8, 428.3, 39.4],
+  "from": "title-block words (training set)",
+  "text": ["KSDAT", "REMsOH", "WBS", "WARD-BECK SYSTEMS", "M907"]
+ },
+ "dots": [{"c": [119.6, 61.1], "r": 1.4, "lines": 286}],
+ "summary": [
+  "- **Sheet:** mechanical 940350-03-002, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)",
+  "- **Ink extent:** 73–422 mm across, 7–263 mm up",
+  "- **Outlines:** line 325 rings, 2,239 straight (5,372 mm) / 499 curved (628 mm); text 250 rings, 1,487 straight (1,530 mm) / 473 curved (600 mm); tb 9 rings, 82 straight (128 mm) / 15 curved (17.7 mm)",
+  "- **Centre lines:** 5,007 paths (114 closed); straight 4,504 mm, curved 38.1 mm; horizontal 1,175 mm, vertical 1,644 mm, diagonal 1,685 mm",
+  "- **Circles and arcs:** 3 circles, 11 arcs; largest r 1.9 @ (119.4, 39.3), r 1.8 @ (207.2, 239.4), r 0.9 @ (86.8, 235.6)",
+  "- **Closed boxes:** 18 (5 in the title block); named: Ro; M907 CUSTOM MODULE PLATE TOP; 940350-03-002; CCOE",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 29 in 24 lines: 9308, · RFO\"D · 9.05/ · REO'D · MATERIAL: C.R.S. 0.048  THICK · 17U · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VNYL. · (EXTRA FINE TEXTURE) · BURRS · EHAR ED CES",
+  "- **Title block:** (344, 23)–(428, 39) mm: KSDAT · REMsOH · WBS · WARD-BECK SYSTEMS · M907"
+ ]
+}

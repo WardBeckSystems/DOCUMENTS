@@ -1,0 +1,98 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1995 - DOC - 950208-03-001 - NOTES REMOVE BURRS AND SHARP EDGES TOL.jpg",
+ "version": 1,
+ "trace": "_traces/49fc9b3863d8df62.svg",
+ "sheet": {
+  "number": "950208-03-001",
+  "title": "Notes Remove Burrs And Sharp Edges Tol",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1274],
+  "mm": [431.8, 275.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [39.1, 6.3, 431.8, 214.4],
+ "outlines": {
+  "line": {"rings": 572, "straight": {"n": 3890, "mm": 8740.5}, "curved": {"n": 847, "mm": 979.0}},
+  "text": {"rings": 188, "straight": {"n": 1041, "mm": 934.4}, "curved": {"n": 346, "mm": 429.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3778, "straight": {"n": 4416, "mm": 4911.2}, "curved": {"n": 16, "mm": 16.1}},
+   "text": {"paths": 1032, "straight": {"n": 1340, "mm": 733.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 166,
+  "orientation": {"horizontal": {"n": 1483, "mm": 2722.6}, "vertical": {"n": 1474, "mm": 1345.0}, "diagonal": {"n": 2799, "mm": 1576.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [218.8, 175.4], "r": 2.3, "kind": "arc", "span": 85, "from": ["centre line"], "start": 267},
+  {"c": [147.1, 186.6], "r": 1.7, "kind": "arc", "span": 159, "from": ["centre line"], "start": 215},
+  {"c": [369.8, 10.0], "r": 1.2, "kind": "arc", "span": 217, "from": ["centre line"], "start": 97},
+  {"c": [342.2, 17.8], "r": 0.7, "kind": "arc", "span": 212, "from": ["centre line"], "start": 337},
+  {"c": [175.1, 45.1], "r": 0.7, "kind": "arc", "span": 143, "from": ["centre line"], "start": 252}
+ ],
+ "boxes": [
+  {"mm": [145.9, 145.7, 234.9, 187.8], "w": 89.0, "h": 42.1, "from": "ring"},
+  {"mm": [155.0, 153.9, 201.9, 179.4], "w": 46.9, "h": 25.5, "from": "ring"},
+  {"mm": [208.1, 157.4, 217.4, 166.5], "w": 9.3, "h": 9.1, "from": "ring"},
+  {"mm": [220.6, 157.4, 229.9, 166.5], "w": 9.3, "h": 9.1, "from": "ring"},
+  {"mm": [297.5, 76.0, 344.4, 101.5], "w": 46.9, "h": 25.5, "from": "ring"},
+  {"mm": [144.7, 54.4, 233.2, 57.6], "w": 88.5, "h": 3.2, "from": "ring"},
+  {"mm": [356.2, 34.3, 362.1, 36.9], "w": 5.8, "h": 2.6, "from": "ring"},
+  {"mm": [368.3, 34.1, 410.0, 36.9], "w": 41.7, "h": 2.8, "from": "ring"},
+  {"mm": [341.3, 25.3, 415.0, 33.9], "w": 73.6, "h": 8.6, "from": "ring", "words": ["WES", "WARD-BECK SYSTEMS"]},
+  {"mm": [358.6, 12.7, 415.0, 25.0], "w": 56.3, "h": 12.3, "from": "ring", "words": ["INCH RACK PNL"]},
+  {"mm": [341.3, 19.2, 358.4, 22.0], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [341.1, 16.2, 358.4, 19.0], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [341.1, 13.0, 358.2, 15.8], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [341.1, 6.7, 349.8, 12.5], "w": 8.6, "h": 5.8, "from": "ring"},
+  {"mm": [350.2, 9.9, 367.2, 12.5], "w": 17.1, "h": 2.6, "from": "ring"},
+  {"mm": [367.7, 6.7, 372.6, 12.5], "w": 5.0, "h": 5.8, "from": "ring"},
+  {"mm": [372.9, 6.7, 407.0, 12.5], "w": 34.1, "h": 5.8, "from": "ring", "words": ["950208-03-001"]},
+  {"mm": [350.2, 6.7, 367.2, 9.7], "w": 17.1, "h": 3.0, "from": "ring", "words": ["CCOE: 93208401"]}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [264.5, 209.2, 271.0, 211.4], "text": "40-1"},
+   {"mm": [190.0, 137.3, 196.9, 139.5], "text": "DETAIL"},
+   {"mm": [232.1, 139.0, 238.6, 141.2], "text": "DUNCI"},
+   {"mm": [239.4, 136.7, 246.3, 141.5], "text": "01260"},
+   {"mm": [317.8, 122.8, 324.3, 125.0], "text": "4125"},
+   {"mm": [304.9, 117.4, 311.3, 119.6], "text": "2062"},
+   {"mm": [317.2, 112.3, 324.7, 115.6], "text": "1.750"},
+   {"mm": [174.4, 109.2, 180.9, 111.4], "text": "Anish"},
+   {"mm": [182.4, 107.1, 192.2, 109.2], "text": "TxTuRFD"},
+   {"mm": [198.4, 106.4, 214.6, 109.6], "text": "TEXCOTE Wr"},
+   {"mm": [306.1, 107.1, 312.0, 109.2], "text": "1.B75"},
+   {"mm": [283.7, 91.3, 291.2, 94.7], "text": "0.750"},
+   {"mm": [358.2, 87.0, 365.7, 90.4], "text": "2050"},
+   {"mm": [294.5, 68.7, 309.0, 71.8], "text": "04-40 UNC"},
+   {"mm": [315.6, 69.3, 324.3, 71.5], "text": "PL CES"},
+   {"mm": [315.0, 60.0, 324.1, 63.1], "text": "DETAL"},
+   {"mm": [38.6, 37.1, 48.4, 40.5], "text": "NOTES"},
+   {"mm": [53.1, 32.0, 62.4, 36.8], "text": "Xauars"},
+   {"mm": [74.5, 34.3, 81.0, 36.5], "text": "EDGES"},
+   {"mm": [79.5, 32.2, 86.4, 34.3], "text": "+001s"},
+   {"mm": [345.4, 26.8, 412.2, 32.5], "text": "WES WARD-BECK SYSTEMS"},
+   {"mm": [374.8, 16.6, 402.9, 20.9], "text": "INCH RACK PNL"},
+   {"mm": [375.5, 7.6, 404.6, 11.4], "text": "950208-03-001"},
+   {"mm": [350.2, 7.3, 367.0, 9.5], "text": "CCOE: 93208401"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 950208-03-001, size B (assumed) 432 × 275 mm, 2000 × 1274 px traced (0.216 mm/px)",
+  "- **Ink extent:** 39–432 mm across, 6–214 mm up",
+  "- **Outlines:** line 572 rings, 3,890 straight (8,740 mm) / 847 curved (979 mm); text 188 rings, 1,041 straight (934 mm) / 346 curved (429 mm)",
+  "- **Centre lines:** 4,810 paths (166 closed); straight 5,644 mm, curved 16.1 mm; horizontal 2,723 mm, vertical 1,345 mm, diagonal 1,577 mm",
+  "- **Circles and arcs:** 0 circles, 5 arcs",
+  "- **Closed boxes:** 18; named: WES WARD-BECK SYSTEMS; INCH RACK PNL; 950208-03-001; CCOE: 93208401",
+  "- **Words (OCR):** 25 in 24 lines: 40-1 · DETAIL · DUNCI · 01260 · 4125 · 2062 · 1.750 · Anish · TxTuRFD · TEXCOTE Wr · 1.B75 · 0.750"
+ ]
+}

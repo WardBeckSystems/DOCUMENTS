@@ -1,0 +1,98 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940443-03-001 - PAINT TEXTURED GREY TEXCOTE VINY REMOVE ALL BURRS.jpg",
+ "version": 1,
+ "trace": "_traces/3510343fc3aabf5a.svg",
+ "sheet": {
+  "number": "940443-03-001",
+  "title": "Paint Textured Grey Texcote Viny Remove All Burrs",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1298],
+  "mm": [431.8, 280.2],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [45.8, 5.8, 431.8, 212.2],
+ "outlines": {
+  "line": {"rings": 274, "straight": {"n": 2090, "mm": 5535.3}, "curved": {"n": 387, "mm": 454.4}},
+  "text": {"rings": 294, "straight": {"n": 1491, "mm": 1588.9}, "curved": {"n": 451, "mm": 605.5}},
+  "tb": {"rings": 21, "straight": {"n": 165, "mm": 193.7}, "curved": {"n": 37, "mm": 41.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2551, "straight": {"n": 2795, "mm": 2963.9}, "curved": {"n": 24, "mm": 20.0}},
+   "text": {"paths": 1323, "straight": {"n": 1798, "mm": 1157.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 337, "straight": {"n": 375, "mm": 421.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 119,
+  "orientation": {"horizontal": {"n": 1256, "mm": 2006.5}, "vertical": {"n": 1282, "mm": 995.9}, "diagonal": {"n": 2430, "mm": 1540.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [46.7, 20.3], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 54},
+  {"c": [369.1, 9.7], "r": 1.3, "kind": "arc", "span": 224, "from": ["centre line"], "start": 106},
+  {"c": [51.5, 38.2], "r": 1.2, "kind": "arc", "span": 151, "from": ["centre line"], "start": 341},
+  {"c": [93.5, 93.9], "r": 0.9, "kind": "arc", "span": 141, "from": ["centre line"], "start": 93},
+  {"c": [140.3, 80.2], "r": 0.8, "kind": "arc", "span": 200, "from": ["centre line"], "start": 116},
+  {"c": [64.2, 30.5], "r": 0.8, "kind": "arc", "span": 169, "from": ["centre line"], "start": 77},
+  {"c": [121.7, 106.2], "r": 0.7, "kind": "arc", "span": 248, "from": ["centre line"], "start": 316}
+ ],
+ "boxes": [
+  {"mm": [355.2, 34.5, 361.0, 37.4], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [361.2, 34.5, 366.8, 37.4], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [357.5, 12.7, 415.0, 26.1], "w": 57.4, "h": 13.4, "from": "ring", "words": ["MODIFIED:", "MF_7J SIDE PLATE"]},
+  {"mm": [340.0, 19.0, 357.3, 22.0], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [340.0, 15.8, 357.3, 18.8], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [407.6, 7.3, 415.2, 13.4], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [372.4, 6.7, 407.2, 13.2], "w": 34.8, "h": 6.5, "from": "ring", "words": ["940443-03-001"]},
+  {"mm": [367.0, 6.7, 372.2, 12.7], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [340.3, 6.3, 348.9, 12.3], "w": 8.6, "h": 6.0, "from": "ring"},
+  {"mm": [349.3, 6.5, 366.8, 9.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["CDDE 9444Ju01"]}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [89.4, 207.0, 96.9, 210.4], "text": "1.200 -"},
+   {"mm": [142.5, 209.0, 149.4, 211.2], "text": "R ooo"},
+   {"mm": [86.6, 201.2, 94.1, 205.1], "text": "0.780"},
+   {"mm": [131.5, 108.8, 143.8, 112.2], "text": "0.165 DIA"},
+   {"mm": [150.3, 109.2, 157.8, 112.4], "text": "Rec d"},
+   {"mm": [109.9, 101.7, 118.5, 107.2], "text": "6,240"},
+   {"mm": [126.3, 102.1, 137.7, 108.6], "text": "2RE88"},
+   {"mm": [74.9, 87.0, 81.4, 89.2], "text": "0.6C"},
+   {"mm": [143.6, 77.9, 222.8, 84.7], "text": "DIMENSIONED HOLES TO EXISTING PART;"},
+   {"mm": [98.2, 77.3, 137.3, 83.0], "text": "MODIFICATION: ADD"},
+   {"mm": [121.1, 67.1, 147.7, 71.5], "text": "7-03-243-1"},
+   {"mm": [152.0, 67.1, 165.4, 71.9], "text": "~PART"},
+   {"mm": [167.1, 67.8, 199.5, 73.3], "text": "To BE MODIFIED"},
+   {"mm": [367.9, 27.9, 379.1, 32.2], "text": "WARD-"},
+   {"mm": [381.3, 28.3, 412.2, 33.6], "text": "BECK SYSTEMS"},
+   {"mm": [344.6, 27.2, 361.4, 31.5], "text": "WBS"},
+   {"mm": [49.4, 21.8, 57.0, 25.2], "text": "0.080"},
+   {"mm": [375.9, 19.2, 398.1, 23.5], "text": "MODIFIED:"},
+   {"mm": [367.9, 14.9, 406.1, 20.4], "text": "MF_7J SIDE PLATE"},
+   {"mm": [49.7, 16.2, 55.7, 18.4], "text": "Roint"},
+   {"mm": [74.5, 16.2, 83.8, 18.4], "text": "otcote"},
+   {"mm": [49.7, 12.5, 56.1, 14.2], "text": "Remo"},
+   {"mm": [74.5, 12.5, 89.0, 14.7], "text": "shonm ecqeb"},
+   {"mm": [348.9, 8.9, 358.6, 12.2], "text": "CISC ND"},
+   {"mm": [373.7, 7.3, 406.8, 12.9], "text": "940443-03-001"},
+   {"mm": [349.3, 6.9, 366.0, 9.1], "text": "CDDE 9444Ju01"}
+  ]
+ },
+ "title_block": {"mm": [336.0, 21.7, 420.7, 39.3], "from": "title-block words (training set)", "text": ["WARD-", "BECK SYSTEMS", "WBS", "MODIFIED:"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940443-03-001, size B (assumed) 432 × 280 mm, 2000 × 1298 px traced (0.216 mm/px)",
+  "- **Ink extent:** 46–432 mm across, 6–212 mm up",
+  "- **Outlines:** line 274 rings, 2,090 straight (5,535 mm) / 387 curved (454 mm); text 294 rings, 1,491 straight (1,589 mm) / 451 curved (606 mm); tb 21 rings, 165 straight (194 mm) / 37 curved (41.2 mm)",
+  "- **Centre lines:** 4,211 paths (119 closed); straight 4,543 mm, curved 20.0 mm; horizontal 2,006 mm, vertical 996 mm, diagonal 1,541 mm",
+  "- **Circles and arcs:** 0 circles, 7 arcs",
+  "- **Closed boxes:** 10 (2 in the title block); named: MODIFIED: MF_7J SIDE PLATE; 940443-03-001; CDDE 9444Ju01",
+  "- **Words (OCR):** 28 in 26 lines: 1.200 - · R ooo · 0.780 · 0.165 DIA · Rec d · 6,240 · 2RE88 · 0.6C · DIMENSIONED HOLES TO EXISTING PART; · MODIFICATION: ADD · 7-03-243-1 · ~PART",
+  "- **Title block:** (336, 22)–(421, 39) mm: WARD- · BECK SYSTEMS · WBS · MODIFIED:"
+ ]
+}

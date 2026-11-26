@@ -1,0 +1,102 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940332-03-001 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/3655cfd8211c1ba1.svg",
+ "sheet": {
+  "number": "940332-03-001",
+  "title": "Note Remove All Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [48.6, 7.1, 431.8, 196.0],
+ "outlines": {
+  "line": {"rings": 566, "straight": {"n": 4121, "mm": 7615.9}, "curved": {"n": 797, "mm": 930.2}},
+  "text": {"rings": 249, "straight": {"n": 1397, "mm": 1371.0}, "curved": {"n": 441, "mm": 552.0}},
+  "tb": {"rings": 22, "straight": {"n": 167, "mm": 193.8}, "curved": {"n": 34, "mm": 43.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3910, "straight": {"n": 4564, "mm": 4138.7}, "curved": {"n": 17, "mm": 13.0}},
+   "text": {"paths": 1476, "straight": {"n": 1866, "mm": 984.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 323, "straight": {"n": 371, "mm": 424.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 184,
+  "orientation": {"horizontal": {"n": 1778, "mm": 2456.1}, "vertical": {"n": 1729, "mm": 1199.0}, "diagonal": {"n": 3294, "mm": 1893.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [107.6, 84.7], "r": 1.1, "kind": "arc", "span": 122, "from": ["centre line"], "start": 241},
+  {"c": [375.2, 11.4], "r": 1.1, "kind": "arc", "span": 234, "from": ["centre line"], "start": 109},
+  {"c": [283.2, 164.6], "r": 1.0, "kind": "arc", "span": 130, "from": ["centre line"], "start": 86},
+  {"c": [364.8, 10.3], "r": 1.0, "kind": "arc", "span": 131, "from": ["centre line"], "start": 305},
+  {"c": [286.9, 79.1], "r": 0.7, "kind": "arc", "span": 178, "from": ["centre line"], "start": 188}
+ ],
+ "boxes": [
+  {"mm": [149.2, 147.0, 167.8, 152.2], "w": 18.6, "h": 5.2, "from": "ring"},
+  {"mm": [178.5, 140.8, 199.5, 151.8], "w": 20.9, "h": 11.0, "from": "ring"},
+  {"mm": [204.2, 140.3, 225.2, 151.1], "w": 20.9, "h": 10.8, "from": "ring"},
+  {"mm": [229.7, 139.9, 250.9, 150.7], "w": 21.2, "h": 10.8, "from": "ring"},
+  {"mm": [261.7, 144.0, 280.2, 150.1], "w": 18.6, "h": 6.0, "from": "ring"},
+  {"mm": [145.5, 74.3, 183.1, 87.0], "w": 37.6, "h": 12.7, "from": "ring", "words": ["DETAIL"]},
+  {"mm": [262.5, 72.1, 300.3, 84.6], "w": 37.8, "h": 12.5, "from": "ring", "words": ["DETAIL"]},
+  {"mm": [361.8, 36.3, 367.7, 39.1], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [368.1, 36.3, 373.7, 39.1], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [416.7, 35.4, 421.8, 38.2], "w": 5.1, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [363.8, 13.6, 421.2, 27.0], "w": 57.4, "h": 13.4, "from": "ring", "words": ["METER PANEL"]},
+  {"mm": [346.3, 17.9, 363.6, 20.9], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [346.1, 8.4, 354.9, 14.7], "w": 8.9, "h": 6.3, "from": "ring", "words": ["1:2"]},
+  {"mm": [355.2, 11.4, 372.6, 14.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["DISC NO;"]},
+  {"mm": [372.9, 8.0, 378.0, 14.0], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [378.3, 7.6, 413.2, 14.0], "w": 35.0, "h": 6.5, "from": "ring", "words": ["940332-03-001"]}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [154.6, 188.3, 164.9, 191.6], "text": "0.152 DIA"},
+   {"mm": [116.2, 174.0, 123.1, 176.2], "text": "DATU"},
+   {"mm": [122.0, 146.6, 127.8, 148.8], "text": "7 220"},
+   {"mm": [122.0, 143.4, 127.8, 145.5], "text": "1665"},
+   {"mm": [256.5, 119.0, 269.9, 121.1], "text": "JUNCE SSD"},
+   {"mm": [283.7, 117.7, 290.6, 121.0], "text": "REO\"D"},
+   {"mm": [278.9, 97.4, 285.0, 99.5], "text": "5750"},
+   {"mm": [239.9, 84.6, 247.0, 88.0], "text": "0.945"},
+   {"mm": [157.4, 78.8, 167.5, 82.6], "text": "DETAIL"},
+   {"mm": [274.4, 76.6, 284.8, 80.5], "text": "DETAIL"},
+   {"mm": [109.2, 71.2, 128.7, 76.0], "text": "44028 RECD \""},
+   {"mm": [140.8, 56.3, 146.8, 58.5], "text": "1.n25"},
+   {"mm": [155.2, 55.1, 173.6, 58.9], "text": "PITC {0.7C0) (J) -"},
+   {"mm": [48.8, 45.8, 74.3, 49.6], "text": "MATERIAL: ALUM"},
+   {"mm": [75.3, 45.3, 104.9, 49.2], "text": "ALLOY 0.080 MHICK"},
+   {"mm": [48.4, 39.3, 59.6, 43.1], "text": "FINISH:"},
+   {"mm": [60.7, 38.9, 101.7, 43.2], "text": "SAND 120 GRIT AND PAINT"},
+   {"mm": [60.7, 35.2, 97.4, 39.5], "text": "JEXTUREO   BEICE (452C)"},
+   {"mm": [60.7, 32.4, 84.4, 36.2], "text": "TEXCOTE MNYL."},
+   {"mm": [351.7, 29.1, 386.2, 33.5], "text": "WBS WARD-"},
+   {"mm": [387.8, 28.5, 418.6, 34.0], "text": "BECK SYSTEMS"},
+   {"mm": [51.4, 25.7, 58.9, 27.9], "text": "RFvov"},
+   {"mm": [380.2, 17.7, 405.7, 22.5], "text": "METER PANEL"},
+   {"mm": [347.4, 8.6, 353.9, 12.5], "text": "1:2"},
+   {"mm": [355.2, 11.7, 364.4, 13.8], "text": "DISC NO;"},
+   {"mm": [380.2, 8.6, 410.4, 13.0], "text": "940332-03-001"}
+  ]
+ },
+ "title_block": {"mm": [343.0, 23.0, 427.2, 39.6], "from": "title-block words (training set)", "text": ["WBS WARD-", "BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940332-03-001, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)",
+  "- **Ink extent:** 49–432 mm across, 7–196 mm up",
+  "- **Outlines:** line 566 rings, 4,121 straight (7,616 mm) / 797 curved (930 mm); text 249 rings, 1,397 straight (1,371 mm) / 441 curved (552 mm); tb 22 rings, 167 straight (194 mm) / 34 curved (43.4 mm)",
+  "- **Centre lines:** 5,709 paths (184 closed); straight 5,548 mm, curved 13.0 mm; horizontal 2,456 mm, vertical 1,199 mm, diagonal 1,893 mm",
+  "- **Circles and arcs:** 0 circles, 5 arcs",
+  "- **Closed boxes:** 16 (3 in the title block); named: DETAIL; DETAIL; METER PANEL; 1:2; DISC NO;; 940332-03-001",
+  "- **Words (OCR):** 31 in 26 lines: 0.152 DIA · DATU · 7 220 · 1665 · JUNCE SSD · REO\"D · 5750 · 0.945 · DETAIL · DETAIL · 44028 RECD \" · 1.n25",
+  "- **Title block:** (343, 23)–(427, 40) mm: WBS WARD- · BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 94064-04-006 - MONITOR SOURCE MIC HEADPHONES MIC OFF.jpg",
+ "version": 1,
+ "trace": "_traces/10e9ab301b4d910d.svg",
+ "sheet": {
+  "number": "94064-04-006",
+  "title": "Monitor Source Mic Headphones Mic Off",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1294],
+  "mm": [431.8, 279.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [75.1, 6.9, 424.0, 218.5],
+ "outlines": {
+  "line": {"rings": 171, "straight": {"n": 1601, "mm": 6037.6}, "curved": {"n": 262, "mm": 426.0}},
+  "text": {"rings": 156, "straight": {"n": 957, "mm": 1060.8}, "curved": {"n": 290, "mm": 373.2}},
+  "tb": {"rings": 20, "straight": {"n": 176, "mm": 194.3}, "curved": {"n": 38, "mm": 42.5}}
+ },
+ "circles": [
+  {"c": [154.2, 185.3], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [154.2, 167.4], "r": 4.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [187.3, 167.5], "r": 4.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.0, 117.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [172.1, 117.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [154.2, 196.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3}
+ ],
+ "boxes": [
+  {"mm": [139.7, 143.8, 204.5, 218.5], "w": 64.8, "h": 74.7, "from": "ring", "words": ["HEADPHONES"]},
+  {"mm": [141.6, 201.7, 202.3, 217.4], "w": 60.7, "h": 15.8, "from": "ring"},
+  {"mm": [141.6, 144.7, 202.3, 201.4], "w": 60.7, "h": 56.8, "from": "ring", "words": ["HEADPHONES"]},
+  {"mm": [178.1, 190.2, 196.5, 196.9], "w": 18.4, "h": 6.7, "from": "ring"},
+  {"mm": [178.5, 191.5, 196.0, 195.4], "w": 17.5, "h": 3.9, "from": "ring"},
+  {"mm": [178.1, 182.9, 196.5, 187.8], "w": 18.4, "h": 5.0, "from": "ring"},
+  {"mm": [179.0, 183.7, 186.3, 187.0], "w": 7.3, "h": 3.2, "from": "ring"},
+  {"mm": [188.0, 183.7, 195.4, 187.0], "w": 7.3, "h": 3.2, "from": "ring"},
+  {"mm": [147.7, 160.8, 160.8, 174.0], "w": 13.2, "h": 13.2, "from": "ring"},
+  {"mm": [139.7, 103.4, 204.2, 129.3], "w": 64.6, "h": 25.9, "from": "ring"},
+  {"mm": [141.6, 105.6, 202.3, 128.5], "w": 60.7, "h": 22.9, "from": "ring"},
+  {"mm": [376.1, 35.2, 418.4, 38.0], "w": 42.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [348.7, 26.1, 423.6, 35.1], "w": 74.9, "h": 9.0, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [348.7, 23.1, 366.0, 25.9], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [366.4, 13.4, 423.6, 25.9], "w": 57.2, "h": 12.5, "from": "ring", "words": ["WBZ", "BOSTON", "CONTROL RoOM  TURRET", "LAYOUT"]},
+  {"mm": [348.7, 19.9, 366.0, 22.7], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [348.7, 16.6, 366.0, 19.6], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [348.7, 13.4, 366.0, 16.4], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [348.7, 7.1, 357.5, 13.2], "w": 8.9, "h": 6.0, "from": "ring", "words": ["NTS"]},
+  {"mm": [357.7, 10.4, 375.2, 13.2], "w": 17.5, "h": 2.8, "from": "ring"},
+  {"mm": [375.5, 7.1, 380.6, 13.2], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [380.8, 7.1, 415.6, 13.2], "w": 34.8, "h": 6.0, "from": "ring", "words": ["94064-04-006"]},
+  {"mm": [415.8, 7.1, 423.6, 13.2], "w": 7.8, "h": 6.0, "from": "ring"},
+  {"mm": [357.7, 7.1, 375.2, 10.1], "w": 17.5, "h": 3.0, "from": "ring", "words": ["CODE:"]}
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [179.4, 159.8, 195.6, 163.1], "text": "HEADPHONES"},
+   {"mm": [164.9, 138.2, 180.1, 141.5], "text": "TOP MEW"},
+   {"mm": [167.1, 97.8, 177.3, 101.6], "text": "FRONT"},
+   {"mm": [353.9, 28.1, 370.1, 32.4], "text": "WBS"},
+   {"mm": [377.0, 28.7, 420.8, 33.5], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [383.0, 21.6, 406.8, 25.4], "text": "WBZ BOSTON"},
+   {"mm": [99.5, 14.7, 116.8, 18.5], "text": "REAR MEW"},
+   {"mm": [131.3, 16.4, 151.1, 18.6], "text": "CAF F TFRUINAMNC"},
+   {"mm": [163.4, 16.4, 175.3, 18.6], "text": "CD  ECTDA"},
+   {"mm": [237.3, 14.7, 252.8, 18.5], "text": "SIDE VEW"},
+   {"mm": [372.6, 17.3, 416.5, 21.6], "text": "CONTROL RoOM  TURRET"},
+   {"mm": [387.3, 14.0, 401.8, 17.9], "text": "LAYOUT"},
+   {"mm": [349.5, 6.9, 363.8, 11.2], "text": "NTS CODE:"},
+   {"mm": [385.6, 8.2, 413.7, 12.5], "text": "94064-04-006"}
+  ]
+ },
+ "title_block": {"mm": [345.2, 22.5, 429.4, 39.1], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "WBZ BOSTON"]},
+ "dots": [{"c": [154.2, 196.2], "r": 1.2, "lines": 0}, {"c": [172.0, 117.3], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 94064-04-006, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)",
+  "- **Ink extent:** 75–424 mm across, 7–218 mm up",
+  "- **Outlines:** line 171 rings, 1,601 straight (6,038 mm) / 262 curved (426 mm); text 156 rings, 957 straight (1,061 mm) / 290 curved (373 mm); tb 20 rings, 176 straight (194 mm) / 38 curved (42.5 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 4.6 @ (154.2, 185.3), r 4.5 @ (154.2, 167.4), r 4.1 @ (187.3, 167.5), r 3.3 @ (172.0, 117.3)",
+  "- **Closed boxes:** 24 (3 in the title block); named: HEADPHONES; HEADPHONES; WBZ BOSTON CONTROL RoOM  TURRET LAYOUT; NTS; 94064-04-006; CODE:",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 19 in 14 lines: HEADPHONES · TOP MEW · FRONT · WBS · WARD-BECK SYSTEMS · WBZ BOSTON · REAR MEW · CAF F TFRUINAMNC · CD  ECTDA · SIDE VEW · CONTROL RoOM  TURRET · LAYOUT",
+  "- **Title block:** (345, 22)–(429, 39) mm: WBS · WARD-BECK SYSTEMS · WBZ BOSTON"
+ ]
+}

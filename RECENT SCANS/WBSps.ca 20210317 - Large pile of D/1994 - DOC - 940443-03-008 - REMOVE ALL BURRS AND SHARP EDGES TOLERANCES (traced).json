@@ -1,0 +1,107 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940443-03-008 - REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/b069e0e5e53f99f6.svg",
+ "sheet": {
+  "number": "940443-03-008",
+  "title": "Remove All Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1297],
+  "mm": [431.8, 280.0],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [28.7, 6.9, 424.5, 224.5],
+ "outlines": {
+  "line": {"rings": 216, "straight": {"n": 1929, "mm": 6328.1}, "curved": {"n": 316, "mm": 352.9}},
+  "text": {"rings": 254, "straight": {"n": 1371, "mm": 1253.7}, "curved": {"n": 474, "mm": 599.6}},
+  "tb": {"rings": 20, "straight": {"n": 167, "mm": 188.5}, "curved": {"n": 45, "mm": 51.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1979, "straight": {"n": 2184, "mm": 3195.9}, "curved": {"n": 22, "mm": 15.6}},
+   "text": {"paths": 1428, "straight": {"n": 1844, "mm": 983.2}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 256, "straight": {"n": 304, "mm": 400.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 92,
+  "orientation": {"horizontal": {"n": 1077, "mm": 2301.4}, "vertical": {"n": 1096, "mm": 1018.0}, "diagonal": {"n": 2159, "mm": 1260.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [398.7, 61.8], "r": 1.1, "kind": "arc", "span": 189, "from": ["centre line"], "start": 124},
+  {"c": [322.9, 178.9], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 108},
+  {"c": [50.2, 23.1], "r": 0.8, "kind": "arc", "span": 147, "from": ["centre line"], "start": 343},
+  {"c": [40.8, 18.7], "r": 0.8, "kind": "arc", "span": 163, "from": ["centre line"], "start": 306},
+  {"c": [108.6, 125.4], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [99.0, 201.9], "r": 0.7, "kind": "arc", "span": 200, "from": ["centre line"], "start": 119},
+  {"c": [352.2, 18.3], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 78},
+  {"c": [50.2, 16.6], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 78}
+ ],
+ "boxes": [
+  {"mm": [105.1, 112.3, 326.0, 194.5], "w": 220.9, "h": 82.3, "from": "ring"},
+  {"mm": [364.4, 35.4, 370.3, 38.2], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [349.1, 26.1, 424.0, 35.6], "w": 74.9, "h": 9.5, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [366.8, 13.6, 424.0, 26.6], "w": 57.2, "h": 13.0, "from": "ring", "words": ["IKR-10", "COVER"]},
+  {"mm": [349.1, 23.1, 366.6, 26.1], "w": 17.5, "h": 3.0, "from": "ring", "words": ["(1/95)"], "in_title_block": true},
+  {"mm": [349.1, 19.9, 366.6, 22.9], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [349.1, 16.6, 366.6, 19.6], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [349.3, 13.4, 366.6, 16.4], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [416.5, 7.8, 424.0, 13.8], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [381.5, 7.3, 416.3, 13.6], "w": 34.8, "h": 6.3, "from": "ring", "words": ["940443-03-008"]},
+  {"mm": [358.4, 10.4, 375.7, 13.4], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [376.1, 7.3, 381.3, 13.4], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [358.4, 7.1, 375.9, 10.4], "w": 17.5, "h": 3.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [211.2, 221.3, 219.1, 223.5], "text": "17320"},
+   {"mm": [140.8, 211.6, 147.2, 213.7], "text": "6.160"},
+   {"mm": [213.5, 211.2, 219.4, 215.0], "text": "OCo -"},
+   {"mm": [89.4, 195.0, 96.3, 198.3], "text": "0.213"},
+   {"mm": [78.6, 185.2, 86.1, 189.6], "text": "0_8,30"},
+   {"mm": [68.0, 182.9, 74.5, 185.0], "text": "1280"},
+   {"mm": [43.8, 150.5, 51.6, 153.8], "text": "0-720"},
+   {"mm": [56.1, 152.2, 62.6, 154.4], "text": "6.TC"},
+   {"mm": [68.0, 149.4, 74.9, 151.6], "text": "4.000"},
+   {"mm": [226.5, 98.5, 257.8, 104.0], "text": "0.130 CIA c\"Sk_82 REQ G"},
+   {"mm": [231.2, 98.5, 242.7, 101.8], "text": "0.25 DiA"},
+   {"mm": [158.9, 96.9, 164.9, 100.1], "text": "-660"},
+   {"mm": [346.5, 94.8, 392.1, 98.4], "text": "CHAMFER 0.12 45 DEG REO'D"},
+   {"mm": [87.9, 84.2, 95.0, 86.4], "text": "0 250"},
+   {"mm": [215.0, 84.4, 221.1, 87.8], "text": "820 :"},
+   {"mm": [400.1, 61.5, 413.4, 74.0], "text": "-854"},
+   {"mm": [375.5, 53.3, 397.7, 69.9], "text": "Stano4rs"},
+   {"mm": [376.3, 45.8, 393.8, 61.1], "text": "~D7Cco"},
+   {"mm": [367.5, 49.0, 376.1, 57.6], "text": "(o2"},
+   {"mm": [353.9, 28.3, 370.5, 32.6], "text": "WBS"},
+   {"mm": [377.6, 28.9, 421.2, 33.7], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [28.3, 26.1, 38.0, 29.5], "text": "NOTES:"},
+   {"mm": [57.9, 22.0, 71.2, 24.2], "text": "SHARF LDGES"},
+   {"mm": [359.3, 22.9, 366.2, 26.0], "text": "(1/95)"},
+   {"mm": [389.5, 19.6, 402.9, 24.0], "text": "IKR-10"},
+   {"mm": [76.0, 19.9, 86.4, 22.0], "text": "+-0C05"},
+   {"mm": [389.9, 16.4, 402.4, 20.2], "text": "COVER"},
+   {"mm": [32.0, 15.8, 45.8, 17.4], "text": "FEH FLEAR"},
+   {"mm": [59.4, 15.8, 68.7, 17.9], "text": "TF A URED"},
+   {"mm": [76.0, 15.8, 84.2, 17.9], "text": "ICACOTE"},
+   {"mm": [384.1, 8.4, 414.3, 12.7], "text": "940443-03-008"}
+  ]
+ },
+ "title_block": {"mm": [345.2, 22.7, 429.9, 39.3], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "(1/95)"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940443-03-008, size B (assumed) 432 × 280 mm, 2000 × 1297 px traced (0.216 mm/px)",
+  "- **Ink extent:** 29–424 mm across, 7–224 mm up",
+  "- **Outlines:** line 216 rings, 1,929 straight (6,328 mm) / 316 curved (353 mm); text 254 rings, 1,371 straight (1,254 mm) / 474 curved (600 mm); tb 20 rings, 167 straight (188 mm) / 45 curved (51.2 mm)",
+  "- **Centre lines:** 3,663 paths (92 closed); straight 4,580 mm, curved 15.6 mm; horizontal 2,301 mm, vertical 1,018 mm, diagonal 1,260 mm",
+  "- **Circles and arcs:** 1 circles, 7 arcs; largest r 0.7 @ (108.6, 125.4)",
+  "- **Closed boxes:** 13 (3 in the title block); named: IKR-10 COVER; 940443-03-008",
+  "- **Words (OCR):** 37 in 31 lines: 17320 · 6.160 · OCo - · 0.213 · 0_8,30 · 1280 · 0-720 · 6.TC · 4.000 · 0.130 CIA c\"Sk_82 REQ G · 0.25 DiA · -660",
+  "- **Title block:** (345, 23)–(430, 39) mm: WBS · WARD-BECK SYSTEMS · (1/95)"
+ ]
+}

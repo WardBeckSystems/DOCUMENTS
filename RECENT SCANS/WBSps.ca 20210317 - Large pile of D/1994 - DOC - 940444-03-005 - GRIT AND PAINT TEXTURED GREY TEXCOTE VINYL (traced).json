@@ -1,0 +1,116 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940444-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL.jpg",
+ "version": 1,
+ "trace": "_traces/ed3fd4ba5ddbef24.svg",
+ "sheet": {
+  "number": "940444-03-005",
+  "title": "Grit And Paint Textured Grey Texcote Vinyl",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [26.6, 7.3, 423.3, 264.0],
+ "outlines": {
+  "line": {"rings": 450, "straight": {"n": 3650, "mm": 13322.2}, "curved": {"n": 700, "mm": 821.7}},
+  "text": {"rings": 357, "straight": {"n": 1914, "mm": 1831.7}, "curved": {"n": 652, "mm": 813.1}},
+  "tb": {"rings": 13, "straight": {"n": 115, "mm": 152.2}, "curved": {"n": 21, "mm": 23.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3040, "straight": {"n": 3497, "mm": 6854.9}, "curved": {"n": 31, "mm": 32.5}},
+   "text": {"paths": 1936, "straight": {"n": 2483, "mm": 1366.4}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 182, "straight": {"n": 212, "mm": 346.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 174,
+  "orientation": {"horizontal": {"n": 1524, "mm": 4538.7}, "vertical": {"n": 1641, "mm": 2174.1}, "diagonal": {"n": 3027, "mm": 1855.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [137.2, 191.7], "r": 3.0, "kind": "arc", "span": 89, "from": ["centre line"], "start": 268},
+  {"c": [121.6, 191.7], "r": 3.0, "kind": "arc", "span": 89, "from": ["centre line"], "start": 1},
+  {"c": [137.9, 192.3], "r": 2.7, "kind": "arc", "span": 95, "from": ["centre line"], "start": 92},
+  {"c": [122.0, 192.4], "r": 2.6, "kind": "arc", "span": 101, "from": ["centre line"], "start": 95},
+  {"c": [376.8, 9.6], "r": 1.2, "kind": "arc", "span": 209, "from": ["centre line"], "start": 92},
+  {"c": [364.5, 110.6], "r": 1.1, "kind": "arc", "span": 122, "from": ["centre line"], "start": 241},
+  {"c": [75.7, 145.8], "r": 0.8, "kind": "arc", "span": 164, "from": ["centre line"], "start": 49},
+  {"c": [260.8, 234.6], "r": 0.8, "kind": "arc", "span": 169, "from": ["centre line"], "start": 273},
+  {"c": [344.9, 78.3], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 82},
+  {"c": [64.1, 145.4], "r": 0.7, "kind": "arc", "span": 205, "from": ["centre line"], "start": 13}
+ ],
+ "boxes": [
+  {"mm": [111.8, 159.3, 329.7, 224.2], "w": 217.8, "h": 64.8, "from": "ring"},
+  {"mm": [201.4, 197.8, 261.0, 213.3], "w": 59.6, "h": 15.5, "from": "ring"},
+  {"mm": [271.6, 191.3, 310.0, 213.3], "w": 38.4, "h": 22.0, "from": "ring"},
+  {"mm": [201.4, 169.5, 261.0, 185.2], "w": 59.6, "h": 15.8, "from": "ring"},
+  {"mm": [271.6, 169.5, 310.0, 185.0], "w": 38.4, "h": 15.5, "from": "ring"},
+  {"mm": [112.1, 30.7, 328.4, 93.9], "w": 216.4, "h": 63.2, "from": "ring"},
+  {"mm": [369.2, 35.0, 417.6, 37.8], "w": 48.4, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.8, 25.9, 422.7, 34.8], "w": 74.9, "h": 8.9, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [347.8, 22.9, 365.1, 25.7], "w": 17.3, "h": 2.8, "from": "ring", "words": ["DR LDac (AN95"], "in_title_block": true},
+  {
+   "mm": [365.3, 13.2, 422.7, 25.7],
+   "w": 57.4,
+   "h": 12.5,
+   "from": "ring",
+   "words": ["SMART", "MINUS CTL", "UNIT", "Mix", "FRONT PANEL", "& COVER"]
+  },
+  {"mm": [347.8, 19.6, 365.1, 22.7], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [347.8, 16.6, 365.1, 19.4], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [347.8, 13.4, 365.1, 16.2], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [356.9, 10.1, 374.2, 13.0], "w": 17.3, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [217.2, 259.9, 225.4, 263.3], "text": "17.10"},
+   {"mm": [217.0, 251.5, 225.0, 253.7], "text": "16,710"},
+   {"mm": [205.3, 240.5, 239.0, 243.9], "text": "PITCHES OF 7.555 151+0"},
+   {"mm": [100.6, 234.0, 108.8, 237.4], "text": "0.200"},
+   {"mm": [159.8, 235.3, 168.0, 237.5], "text": "PLACES"},
+   {"mm": [263.0, 229.9, 279.6, 236.4], "text": "58TPER CEGE"},
+   {"mm": [77.3, 226.3, 83.8, 228.4], "text": "0 200"},
+   {"mm": [83.8, 218.7, 90.7, 220.9], "text": "06 8C"},
+   {"mm": [57.0, 189.8, 63.9, 193.1], "text": "5.110"},
+   {"mm": [58.7, 146.8, 72.3, 149.0], "text": "040444-0>"},
+   {"mm": [73.6, 145.9, 99.1, 149.8], "text": "005 FRCNT PANEL"},
+   {"mm": [158.0, 144.0, 164.1, 146.2], "text": "4700"},
+   {"mm": [140.3, 122.4, 146.4, 124.6], "text": "4.540"},
+   {"mm": [216.5, 110.8, 224.8, 114.1], "text": "17 Doo"},
+   {"mm": [126.3, 104.3, 132.1, 106.4], "text": "1250"},
+   {"mm": [251.7, 101.7, 258.9, 105.0], "text": "REC D"},
+   {"mm": [93.1, 60.2, 100.6, 63.4], "text": "5,000"},
+   {"mm": [26.1, 31.1, 78.6, 34.9], "text": "MATERIAL: SEE BODY OF DRAMNG:"},
+   {"mm": [352.8, 27.9, 369.4, 32.2], "text": "WBS"},
+   {"mm": [375.9, 28.3, 420.1, 33.1], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [26.1, 24.6, 79.7, 28.5], "text": "FINISH; SAND 120 GRIT AND PAINT"},
+   {"mm": [38.0, 21.4, 87.2, 25.2], "text": "TEXTURED GREY EEXCOTE MNYL:"},
+   {"mm": [279.8, 20.7, 321.5, 24.1], "text": "940444-0}-005 COVER PANEL"},
+   {"mm": [347.6, 23.1, 364.9, 25.3], "text": "DR LDac (AN95"},
+   {"mm": [368.3, 19.2, 388.8, 23.5], "text": "SMART Mix"},
+   {"mm": [389.5, 19.2, 419.1, 23.5], "text": "MINUS CTL UNIT"},
+   {"mm": [293.4, 18.1, 325.8, 21.5], "text": "ALUY ALLOY 0.050 TFICA"},
+   {"mm": [372.2, 15.3, 415.4, 19.6], "text": "FRONT PANEL & COVER"},
+   {"mm": [349.5, 6.7, 355.4, 10.5], "text": "I;1"},
+   {"mm": [382.4, 7.3, 403.9, 11.2], "text": "940444-05"},
+   {"mm": [405.7, 7.3, 413.2, 11.7], "text": "005"}
+  ]
+ },
+ "title_block": {"mm": [344.1, 22.2, 428.8, 38.8], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "DR LDac (AN95"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940444-03-005, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 27–423 mm across, 7–264 mm up",
+  "- **Outlines:** line 450 rings, 3,650 straight (13,322 mm) / 700 curved (822 mm); text 357 rings, 1,914 straight (1,832 mm) / 652 curved (813 mm); tb 13 rings, 115 straight (152 mm) / 21 curved (23.6 mm)",
+  "- **Centre lines:** 5,158 paths (174 closed); straight 8,568 mm, curved 32.5 mm; horizontal 4,539 mm, vertical 2,174 mm, diagonal 1,855 mm",
+  "- **Circles and arcs:** 0 circles, 10 arcs",
+  "- **Closed boxes:** 14 (3 in the title block); named: SMART MINUS CTL UNIT Mix FRONT PANEL & C",
+  "- **Words (OCR):** 40 in 31 lines: 17.10 · 16,710 · PITCHES OF 7.555 151+0 · 0.200 · PLACES · 58TPER CEGE · 0 200 · 06 8C · 5.110 · 040444-0> · 005 FRCNT PANEL · 4700",
+  "- **Title block:** (344, 22)–(429, 39) mm: WBS · WARD-BECK SYSTEMS · DR LDac (AN95"
+ ]
+}

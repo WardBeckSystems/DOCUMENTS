@@ -1,0 +1,103 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940443-04-001 - INTERCOM PANEL LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/ad7b7d8455973267.svg",
+ "sheet": {
+  "number": "940443-04-001",
+  "title": "Intercom Panel Layout",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1275],
+  "mm": [431.8, 275.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [69.1, 10.4, 431.8, 275.3],
+ "outlines": {
+  "line": {"rings": 176, "straight": {"n": 1401, "mm": 5442.4}, "curved": {"n": 186, "mm": 231.1}},
+  "text": {"rings": 99, "straight": {"n": 586, "mm": 644.5}, "curved": {"n": 180, "mm": 244.1}},
+  "tb": {"rings": 16, "straight": {"n": 147, "mm": 176.5}, "curved": {"n": 31, "mm": 34.2}}
+ },
+ "circles": [
+  {"c": [221.9, 173.1], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [184.4, 173.3], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [96.5, 161.1, 334.9, 184.6], "w": 238.4, "h": 23.5, "from": "ring"},
+  {"mm": [96.9, 162.6, 106.0, 184.4], "w": 9.1, "h": 21.8, "from": "ring"},
+  {"mm": [106.2, 162.6, 108.6, 184.2], "w": 2.4, "h": 21.6, "from": "ring"},
+  {"mm": [108.8, 161.5, 322.6, 184.2], "w": 213.8, "h": 22.7, "from": "ring"},
+  {"mm": [155.9, 176.2, 275.5, 183.5], "w": 119.6, "h": 7.3, "from": "ring"},
+  {"mm": [322.8, 161.5, 325.1, 183.3], "w": 2.4, "h": 21.8, "from": "ring"},
+  {"mm": [325.4, 161.5, 334.4, 183.3], "w": 9.1, "h": 21.8, "from": "ring"},
+  {"mm": [157.0, 171.0, 161.9, 176.0], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [169.5, 171.0, 174.4, 176.0], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [181.8, 170.8, 187.0, 175.7], "w": 5.2, "h": 5.0, "from": "ring"},
+  {"mm": [219.6, 170.8, 224.5, 175.7], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [231.9, 170.6, 236.8, 175.5], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [269.4, 170.3, 274.4, 175.5], "w": 5.0, "h": 5.2, "from": "ring"},
+  {"mm": [195.2, 171.4, 198.6, 175.1], "w": 3.5, "h": 3.7, "from": "ring"},
+  {"mm": [207.7, 171.4, 211.2, 175.1], "w": 3.5, "h": 3.7, "from": "ring"},
+  {"mm": [245.3, 171.2, 248.7, 174.9], "w": 3.5, "h": 3.7, "from": "ring"},
+  {"mm": [257.6, 171.2, 261.2, 174.9], "w": 3.7, "h": 3.7, "from": "ring"},
+  {"mm": [156.7, 163.9, 161.7, 168.8], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [169.3, 163.9, 174.2, 168.8], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [194.3, 163.9, 199.3, 168.8], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [219.4, 163.7, 224.3, 168.6], "w": 5.0, "h": 5.0, "from": "ring"},
+  {"mm": [182.7, 164.5, 186.1, 168.2], "w": 3.5, "h": 3.7, "from": "ring"},
+  {"mm": [207.7, 164.3, 211.2, 168.0], "w": 3.5, "h": 3.7, "from": "ring"},
+  {"mm": [232.5, 164.3, 236.2, 168.0], "w": 3.7, "h": 3.7, "from": "ring"},
+  {"mm": [245.0, 164.3, 248.7, 167.8], "w": 3.7, "h": 3.5, "from": "ring"},
+  {"mm": [257.6, 164.1, 261.2, 167.8], "w": 3.7, "h": 3.7, "from": "ring"},
+  {"mm": [270.1, 164.1, 273.8, 167.8], "w": 3.7, "h": 3.7, "from": "ring"},
+  {"mm": [361.8, 44.0, 409.3, 47.1], "w": 47.5, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [409.6, 44.0, 414.5, 46.9], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [340.7, 35.2, 414.5, 44.0], "w": 73.8, "h": 8.9, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [340.7, 32.4, 357.7, 35.2], "w": 17.1, "h": 2.8, "from": "ring", "in_title_block": true},
+  {
+   "mm": [358.0, 22.7, 414.5, 35.0],
+   "w": 56.6,
+   "h": 12.3,
+   "from": "ring",
+   "words": ["STUDIO 26/27", "CBC", "TORONTO", "INTERCOM", "PANEL", "AYOUT"]
+  },
+  {"mm": [340.7, 29.1, 357.7, 32.0], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [340.7, 26.1, 357.7, 28.9], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [340.7, 22.9, 357.7, 25.9], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [340.7, 16.6, 349.3, 22.7], "w": 8.6, "h": 6.1, "from": "ring"},
+  {"mm": [349.5, 19.9, 366.6, 22.7], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [372.2, 16.6, 406.5, 22.5], "w": 34.3, "h": 5.8, "from": "ring", "words": ["940443", "04-001"]},
+  {"mm": [349.5, 16.6, 366.6, 19.6], "w": 17.1, "h": 3.0, "from": "ring", "words": ["0444JL01"]}
+ ],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [345.2, 37.6, 361.4, 41.9], "text": "WBS"},
+   {"mm": [368.3, 37.6, 411.5, 42.4], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [359.7, 30.4, 385.2, 34.3], "text": "CBC TORONTO"},
+   {"mm": [386.2, 30.0, 411.5, 34.3], "text": "STUDIO 26/27"},
+   {"mm": [370.1, 26.8, 400.7, 30.6], "text": "INTERCOM PANEL"},
+   {"mm": [380.8, 22.9, 392.7, 26.7], "text": "AYOUT"},
+   {"mm": [356.7, 17.3, 366.0, 19.4], "text": "0444JL01"},
+   {"mm": [374.8, 17.1, 404.6, 21.4], "text": "940443 04-001"}
+  ]
+ },
+ "title_block": {
+  "mm": [336.5, 32.0, 420.2, 47.9],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WARD-BECK SYSTEMS", "CBC TORONTO", "STUDIO 26/27"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 940443-04-001, size B (assumed) 432 × 275 mm, 2000 × 1275 px traced (0.216 mm/px)",
+  "- **Ink extent:** 69–432 mm across, 10–275 mm up",
+  "- **Outlines:** line 176 rings, 1,401 straight (5,442 mm) / 186 curved (231 mm); text 99 rings, 586 straight (644 mm) / 180 curved (244 mm); tb 16 rings, 147 straight (176 mm) / 31 curved (34.2 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 0.7 @ (221.9, 173.1), r 0.7 @ (184.4, 173.3)",
+  "- **Closed boxes:** 39 (4 in the title block); named: STUDIO 26/27 CBC TORONTO INTERCOM PANEL ; 940443 04-001; 0444JL01",
+  "- **Words (OCR):** 11 in 8 lines: WBS · WARD-BECK SYSTEMS · CBC TORONTO · STUDIO 26/27 · INTERCOM PANEL · AYOUT · 0444JL01 · 940443 04-001",
+  "- **Title block:** (336, 32)–(420, 48) mm: WBS · WARD-BECK SYSTEMS · CBC TORONTO · STUDIO 26/27"
+ ]
+}

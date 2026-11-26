@@ -1,0 +1,102 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940356-03-001 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/f7ac9e306e8b6071.svg",
+ "sheet": {
+  "number": "940356-03-001",
+  "title": "Note Remove All Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [29.2, 6.9, 422.9, 189.1],
+ "outlines": {
+  "line": {"rings": 367, "straight": {"n": 2501, "mm": 5847.5}, "curved": {"n": 426, "mm": 488.7}},
+  "text": {"rings": 266, "straight": {"n": 1518, "mm": 1422.0}, "curved": {"n": 489, "mm": 609.4}},
+  "tb": {"rings": 48, "straight": {"n": 441, "mm": 1335.9}, "curved": {"n": 71, "mm": 86.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2313, "straight": {"n": 2694, "mm": 3241.1}, "curved": {"n": 15, "mm": 10.5}},
+   "text": {"paths": 1610, "straight": {"n": 2019, "mm": 1064.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 493, "straight": {"n": 564, "mm": 742.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 126,
+  "orientation": {"horizontal": {"n": 1412, "mm": 2626.9}, "vertical": {"n": 1313, "mm": 992.1}, "diagonal": {"n": 2552, "mm": 1429.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [91.4, 154.7], "r": 1.3, "kind": "arc", "span": 130, "from": ["centre line"], "start": 336},
+  {"c": [215.8, 36.8], "r": 1.1, "kind": "arc", "span": 122, "from": ["centre line"], "start": 241},
+  {"c": [150.9, 51.2], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 168},
+  {"c": [188.8, 36.7], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 257},
+  {"c": [204.5, 36.8], "r": 0.7, "kind": "arc", "span": 173, "from": ["centre line"], "start": 347}
+ ],
+ "boxes": [
+  {"mm": [65.8, 123.1, 294.7, 155.0], "w": 228.9, "h": 32.0, "from": "ring", "words": ["DETAL"]},
+  {"mm": [195.2, 136.2, 218.7, 148.8], "w": 23.5, "h": 12.5, "from": "ring"},
+  {"mm": [221.9, 136.4, 245.5, 148.8], "w": 23.5, "h": 12.3, "from": "ring"},
+  {"mm": [168.4, 136.0, 191.9, 148.5], "w": 23.5, "h": 12.5, "from": "ring"},
+  {"mm": [115.1, 135.8, 138.4, 148.3], "w": 23.3, "h": 12.5, "from": "ring"},
+  {"mm": [141.6, 135.8, 165.2, 148.3], "w": 23.5, "h": 12.5, "from": "ring"},
+  {"mm": [79.7, 140.8, 98.2, 145.9], "w": 18.6, "h": 5.2, "from": "ring", "words": ["DETAL"]},
+  {"mm": [190.2, 54.0, 227.6, 66.3], "w": 37.4, "h": 12.3, "from": "ring", "words": ["DETAIL"]}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [64.6, 179.6, 70.0, 186.6], "text": "33"},
+   {"mm": [96.7, 182.7, 102.6, 184.8], "text": "REC D"},
+   {"mm": [45.8, 169.7, 51.8, 171.9], "text": "0 500"},
+   {"mm": [84.2, 142.3, 90.7, 144.4], "text": "DETAL"},
+   {"mm": [248.1, 114.9, 262.5, 118.2], "text": "PuNcH 1770"},
+   {"mm": [276.6, 114.9, 283.0, 118.2], "text": "REC D"},
+   {"mm": [183.5, 72.5, 189.6, 74.7], "text": "0e97"},
+   {"mm": [167.3, 63.9, 173.2, 66.1], "text": "0 9 95"},
+   {"mm": [201.7, 58.3, 212.4, 62.1], "text": "DETAIL"},
+   {"mm": [231.4, 43.0, 237.5, 45.1], "text": "0J0"},
+   {"mm": [236.6, 40.4, 243.8, 45.2], "text": "REC D"},
+   {"mm": [49.4, 37.1, 65.6, 41.0], "text": "MATERIAL:"},
+   {"mm": [66.7, 37.8, 75.3, 41.1], "text": "ALUK"},
+   {"mm": [76.4, 37.8, 106.0, 41.6], "text": "ALLOY 0.080 mhICK"},
+   {"mm": [363.1, 35.4, 374.6, 37.6], "text": "ISSUEI DATE"},
+   {"mm": [49.9, 30.7, 60.7, 34.5], "text": "FINISH:"},
+   {"mm": [61.7, 31.3, 102.8, 35.1], "text": "SAND 120 GRIT AND PAINT"},
+   {"mm": [61.7, 27.6, 98.5, 32.4], "text": "TEXTURED BEIGE (452C)"},
+   {"mm": [352.8, 28.5, 369.0, 32.3], "text": "WBS"},
+   {"mm": [375.9, 28.5, 419.7, 34.0], "text": "WARD-BECK   SYSTEMS"},
+   {"mm": [61.7, 24.8, 85.1, 28.2], "text": "TEXCOTE MNYL'"},
+   {"mm": [49.9, 16.8, 60.7, 21.6], "text": "KOREMOVE"},
+   {"mm": [86.4, 17.1, 92.4, 19.2], "text": "ZOCES"},
+   {"mm": [381.3, 17.7, 406.8, 21.5], "text": "METER PANEL"},
+   {"mm": [52.9, 14.9, 65.2, 17.1], "text": "TCLERANCES"},
+   {"mm": [72.3, 14.9, 82.5, 17.1], "text": "+/-0015"},
+   {"mm": [348.7, 10.6, 365.3, 13.2], "text": "SCALE disc No"},
+   {"mm": [348.9, 7.1, 362.7, 11.4], "text": "1:2 CCDE:"},
+   {"mm": [381.9, 8.0, 411.5, 11.8], "text": "940356-03-001"}
+  ],
+  "scale": "disc No"
+ },
+ "title_block": {
+  "mm": [340.0, 5.5, 428.3, 43.1],
+  "from": "title-block words (training set)",
+  "text": ["ISSUEI DATE", "WBS", "WARD-BECK   SYSTEMS", "METER PANEL", "SCALE disc No", "1:2 CCDE:", "940356-03-001"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940356-03-001, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px); scale disc No",
+  "- **Ink extent:** 29–423 mm across, 7–189 mm up",
+  "- **Outlines:** line 367 rings, 2,501 straight (5,848 mm) / 426 curved (489 mm); text 266 rings, 1,518 straight (1,422 mm) / 489 curved (609 mm); tb 48 rings, 441 straight (1,336 mm) / 71 curved (86.2 mm)",
+  "- **Centre lines:** 4,416 paths (126 closed); straight 5,048 mm, curved 10.5 mm; horizontal 2,627 mm, vertical 992 mm, diagonal 1,429 mm",
+  "- **Circles and arcs:** 0 circles, 5 arcs",
+  "- **Closed boxes:** 8; named: DETAL; DETAL; DETAIL",
+  "- **Words (OCR):** 34 in 29 lines: 33 · REC D · 0 500 · DETAL · PuNcH 1770 · REC D · 0e97 · 0 9 95 · DETAIL · 0J0 · REC D · MATERIAL:",
+  "- **Title block:** (340, 6)–(428, 43) mm: ISSUEI DATE · WBS · WARD-BECK   SYSTEMS · METER PANEL · SCALE disc No · 1:2 CCDE: · 940356-03-001"
+ ]
+}

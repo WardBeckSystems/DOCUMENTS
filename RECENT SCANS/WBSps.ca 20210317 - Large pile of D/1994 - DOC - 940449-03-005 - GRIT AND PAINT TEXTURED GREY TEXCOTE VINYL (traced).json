@@ -1,0 +1,98 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940449-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL.jpg",
+ "version": 1,
+ "trace": "_traces/f281783fec8ef6cd.svg",
+ "sheet": {
+  "number": "940449-03-005",
+  "title": "Grit And Paint Textured Grey Texcote Vinyl",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1290],
+  "mm": [431.8, 278.5],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [34.3, 6.0, 430.3, 271.6],
+ "outlines": {
+  "line": {"rings": 371, "straight": {"n": 2794, "mm": 7415.9}, "curved": {"n": 489, "mm": 554.3}},
+  "text": {"rings": 221, "straight": {"n": 1341, "mm": 1317.9}, "curved": {"n": 416, "mm": 522.0}},
+  "tb": {"rings": 14, "straight": {"n": 125, "mm": 156.8}, "curved": {"n": 27, "mm": 30.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2818, "straight": {"n": 3153, "mm": 3855.1}, "curved": {"n": 15, "mm": 12.9}},
+   "text": {"paths": 1498, "straight": {"n": 1837, "mm": 971.6}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 245, "straight": {"n": 278, "mm": 380.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 123,
+  "orientation": {"horizontal": {"n": 1427, "mm": 2684.9}, "vertical": {"n": 1365, "mm": 1170.7}, "diagonal": {"n": 2476, "mm": 1351.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [376.4, 9.5], "r": 1.2, "kind": "circle", "span": 322, "from": ["centre line"]},
+  {"c": [59.6, 28.2], "r": 1.0, "kind": "arc", "span": 167, "from": ["centre line"], "start": 77},
+  {"c": [364.1, 11.0], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 257},
+  {"c": [175.8, 187.2], "r": 0.7, "kind": "arc", "span": 195, "from": ["centre line"], "start": 97}
+ ],
+ "boxes": [
+  {"mm": [104.5, 136.9, 321.3, 180.7], "w": 216.8, "h": 43.8, "from": "ring"},
+  {"mm": [256.9, 146.4, 304.4, 172.5], "w": 47.5, "h": 26.1, "from": "ring"},
+  {"mm": [189.1, 145.9, 236.4, 171.9], "w": 47.3, "h": 25.9, "from": "ring"},
+  {"mm": [121.3, 145.5, 168.6, 171.4], "w": 47.3, "h": 25.9, "from": "ring"},
+  {"mm": [215.0, 48.8, 238.6, 61.5], "w": 23.5, "h": 12.7, "from": "ring"},
+  {"mm": [347.2, 25.3, 421.7, 34.5], "w": 74.5, "h": 9.3, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [364.9, 12.7, 421.9, 25.5], "w": 57.0, "h": 12.7, "from": "ring", "words": ["CONTROL RoOM  TURRET", "FRONT PANEL"]},
+  {"mm": [347.4, 22.2, 364.4, 25.0], "w": 17.1, "h": 2.8, "from": "ring", "words": ["CaC ?/95)"], "in_title_block": true},
+  {"mm": [347.4, 19.0, 364.7, 22.0], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [347.4, 15.8, 364.7, 18.8], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [347.4, 12.5, 364.7, 15.5], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [379.3, 6.7, 413.9, 12.7], "w": 34.5, "h": 6.0, "from": "ring", "words": ["940449-03-005"]},
+  {"mm": [356.5, 9.7, 373.7, 12.5], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [373.9, 6.5, 379.1, 12.5], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [347.4, 6.3, 356.0, 12.3], "w": 8.6, "h": 6.0, "from": "ring"},
+  {"mm": [356.5, 6.5, 373.7, 9.5], "w": 17.3, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [347.6, 204.7, 353.6, 206.8], "text": "0,OBO"},
+   {"mm": [350.8, 202.3, 356.7, 204.5], "text": "440_1"},
+   {"mm": [360.6, 204.7, 372.4, 206.8], "text": "OTHFR SDE"},
+   {"mm": [199.5, 190.2, 227.8, 193.6], "text": "PITCHES 7.505 15 |10"},
+   {"mm": [177.3, 185.5, 184.4, 188.6], "text": "Rzo d"},
+   {"mm": [87.0, 180.7, 92.8, 182.9], "text": "0z00"},
+   {"mm": [91.8, 173.8, 97.6, 176.0], "text": "0,680"},
+   {"mm": [193.4, 124.4, 202.1, 127.5], "text": "PITCHES"},
+   {"mm": [33.7, 32.2, 49.9, 36.0], "text": "MATERIAL:"},
+   {"mm": [51.0, 32.6, 89.8, 36.4], "text": "ALUM ALLOY 0.125 THICK"},
+   {"mm": [352.1, 27.2, 368.3, 31.5], "text": "WBS"},
+   {"mm": [375.5, 27.9, 419.1, 32.6], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [33.7, 25.7, 54.8, 29.5], "text": "FINISH: SAND"},
+   {"mm": [46.2, 22.5, 84.4, 26.3], "text": "TEX TURED GREY   TEXCOTE"},
+   {"mm": [62.4, 26.1, 69.3, 29.2], "text": "GRIT"},
+   {"mm": [70.4, 26.1, 87.2, 30.0], "text": "AND PAINT"},
+   {"mm": [85.5, 22.9, 95.2, 26.7], "text": "MNYL;"},
+   {"mm": [353.0, 22.7, 364.4, 24.8], "text": "CaC ?/95)"},
+   {"mm": [371.1, 18.6, 414.7, 22.9], "text": "CONTROL RoOM  TURRET"},
+   {"mm": [50.1, 15.1, 56.6, 17.3], "text": "OURRS"},
+   {"mm": [380.2, 14.9, 405.0, 18.7], "text": "FRONT PANEL"},
+   {"mm": [37.8, 13.0, 49.7, 15.1], "text": "IDLEAANCES"},
+   {"mm": [381.3, 7.3, 412.2, 11.7], "text": "940449-03-005"}
+  ]
+ },
+ "title_block": {"mm": [343.5, 21.7, 427.7, 38.2], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "CaC ?/95)"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 940449-03-005, size B (assumed) 432 × 278 mm, 2000 × 1290 px traced (0.216 mm/px)",
+  "- **Ink extent:** 34–430 mm across, 6–272 mm up",
+  "- **Outlines:** line 371 rings, 2,794 straight (7,416 mm) / 489 curved (554 mm); text 221 rings, 1,341 straight (1,318 mm) / 416 curved (522 mm); tb 14 rings, 125 straight (157 mm) / 27 curved (30.2 mm)",
+  "- **Centre lines:** 4,561 paths (123 closed); straight 5,207 mm, curved 12.9 mm; horizontal 2,685 mm, vertical 1,171 mm, diagonal 1,352 mm",
+  "- **Circles and arcs:** 1 circles, 3 arcs; largest r 1.2 @ (376.4, 9.5)",
+  "- **Closed boxes:** 16 (2 in the title block); named: CONTROL RoOM  TURRET FRONT PANEL; 940449-03-005",
+  "- **Words (OCR):** 27 in 23 lines: 0,OBO · 440_1 · OTHFR SDE · PITCHES 7.505 15 |10 · Rzo d · 0z00 · 0,680 · PITCHES · MATERIAL: · ALUM ALLOY 0.125 THICK · WBS · WARD-BECK SYSTEMS",
+  "- **Title block:** (344, 22)–(428, 38) mm: WBS · WARD-BECK SYSTEMS · CaC ?/95)"
+ ]
+}

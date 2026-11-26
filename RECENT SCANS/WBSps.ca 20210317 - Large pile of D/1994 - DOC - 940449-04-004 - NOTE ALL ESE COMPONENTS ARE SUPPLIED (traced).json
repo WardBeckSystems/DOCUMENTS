@@ -1,0 +1,78 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 940449-04-004 - NOTE ALL ESE COMPONENTS ARE SUPPLIED.jpg",
+ "version": 1,
+ "trace": "_traces/df14b56e2603f42c.svg",
+ "sheet": {
+  "number": "940449-04-004",
+  "title": "Note All Ese Components Are Supplied",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [431.8, 279.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [65.2, 7.3, 423.8, 198.4],
+ "outlines": {
+  "line": {"rings": 124, "straight": {"n": 1090, "mm": 7716.9}, "curved": {"n": 157, "mm": 203.8}},
+  "text": {"rings": 109, "straight": {"n": 672, "mm": 904.2}, "curved": {"n": 215, "mm": 306.0}},
+  "tb": {"rings": 17, "straight": {"n": 158, "mm": 185.0}, "curved": {"n": 30, "mm": 33.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [324.1, 153.7, 326.4, 198.0], "w": 2.4, "h": 44.3, "from": "ring"},
+  {"mm": [326.7, 153.7, 336.1, 198.0], "w": 9.4, "h": 44.3, "from": "ring"},
+  {"mm": [93.9, 153.7, 103.4, 197.8], "w": 9.5, "h": 44.0, "from": "ring"},
+  {"mm": [103.6, 153.7, 106.0, 197.8], "w": 2.4, "h": 44.0, "from": "ring"},
+  {"mm": [106.2, 155.0, 323.8, 196.7], "w": 217.6, "h": 41.7, "from": "ring", "words": ["TIMER", "CLOCK", "TIMER", "UP {Dow"]},
+  {"mm": [118.5, 162.8, 174.2, 189.6], "w": 55.7, "h": 26.8, "from": "ring", "words": ["TIMER", "UP {Dow"]},
+  {"mm": [187.2, 162.8, 242.9, 189.6], "w": 55.7, "h": 26.8, "from": "ring", "words": ["CLOCK"]},
+  {"mm": [255.6, 162.8, 311.3, 189.6], "w": 55.7, "h": 26.8, "from": "ring", "words": ["TIMER"]},
+  {"mm": [264.0, 173.6, 303.1, 183.6], "w": 39.1, "h": 10.0, "from": "ring", "words": ["TIMER"]},
+  {"mm": [126.9, 173.4, 166.0, 183.3], "w": 39.1, "h": 9.9, "from": "ring", "words": ["TIMER"]},
+  {"mm": [195.4, 173.6, 234.7, 183.3], "w": 39.3, "h": 9.7, "from": "ring", "words": ["CLOCK"]},
+  {"mm": [119.0, 163.0, 174.0, 168.4], "w": 55.1, "h": 5.4, "from": "ring", "words": ["UP {Dow"]},
+  {"mm": [187.4, 163.0, 242.5, 168.4], "w": 55.1, "h": 5.4, "from": "ring"},
+  {"mm": [256.1, 163.2, 310.9, 168.4], "w": 54.8, "h": 5.2, "from": "ring"},
+  {"mm": [369.6, 35.6, 418.2, 38.6], "w": 48.6, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [363.6, 35.6, 369.4, 38.4], "w": 5.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [348.2, 26.6, 423.4, 35.6], "w": 75.1, "h": 9.1, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [366.0, 14.0, 423.4, 26.6], "w": 57.4, "h": 12.5, "from": "ring", "words": ["WBZ", "CONTROL ROOM TURRET", "AYOUT"]},
+  {"mm": [348.2, 23.5, 365.5, 26.3], "w": 17.3, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [348.2, 20.3, 365.5, 23.3], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [348.2, 17.3, 365.5, 20.1], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [348.2, 13.8, 365.5, 16.8], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [380.4, 7.8, 415.4, 13.8], "w": 35.0, "h": 6.0, "from": "ring", "words": ["940449-", "04-004"]},
+  {"mm": [357.3, 10.7, 374.8, 13.6], "w": 17.5, "h": 2.9, "from": "ring"},
+  {"mm": [357.3, 7.5, 374.8, 10.6], "w": 17.5, "h": 3.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [135.4, 174.0, 158.0, 182.2], "text": "TIMER"},
+   {"mm": [202.5, 174.0, 228.4, 182.2], "text": "CLOCK"},
+   {"mm": [272.5, 174.0, 295.8, 182.2], "text": "TIMER"},
+   {"mm": [119.8, 163.9, 129.1, 166.0], "text": "UP {Dow"},
+   {"mm": [353.9, 59.8, 364.0, 64.6], "text": "SUPPLILD"},
+   {"mm": [353.2, 28.5, 369.4, 32.8], "text": "WBS"},
+   {"mm": [376.5, 29.1, 420.8, 33.9], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [389.9, 21.6, 398.1, 25.9], "text": "WBZ"},
+   {"mm": [372.2, 17.7, 415.8, 22.0], "text": "CONTROL ROOM TURRET"},
+   {"mm": [388.8, 14.0, 400.7, 17.9], "text": "AYOUT"},
+   {"mm": [383.0, 8.6, 413.7, 12.5], "text": "940449- 04-004"}
+  ]
+ },
+ "title_block": {"mm": [344.6, 23.0, 429.4, 39.6], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS", "WBZ"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 940449-04-004, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)",
+  "- **Ink extent:** 65–424 mm across, 7–198 mm up",
+  "- **Outlines:** line 124 rings, 1,090 straight (7,717 mm) / 157 curved (204 mm); text 109 rings, 672 straight (904 mm) / 215 curved (306 mm); tb 17 rings, 158 straight (185 mm) / 30 curved (33.2 mm)",
+  "- **Closed boxes:** 25 (4 in the title block); named: TIMER CLOCK TIMER UP {Dow; TIMER UP {Dow; CLOCK; TIMER; TIMER; TIMER; CLOCK; UP {Dow; WBZ CONTROL ROOM TURRET AYOUT; 940449- 04-004",
+  "- **Words (OCR):** 12 in 11 lines: TIMER · CLOCK · TIMER · UP {Dow · SUPPLILD · WBS · WARD-BECK SYSTEMS · WBZ · CONTROL ROOM TURRET · AYOUT · 940449- 04-004",
+  "- **Title block:** (345, 23)–(429, 40) mm: WBS · WARD-BECK SYSTEMS · WBZ"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1994 - DOC - 94055-04-002 - INTERPHONE MATRIX RACK.jpg",
+ "version": 1,
+ "trace": "_traces/3899e0efa74761ae.svg",
+ "sheet": {
+  "number": "94055-04-002",
+  "title": "Interphone Matrix Rack",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1298],
+  "mm": [431.8, 280.2],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [93.1, 6.7, 421.0, 179.6],
+ "outlines": {
+  "line": {"rings": 1562, "straight": {"n": 7938, "mm": 19037.1}, "curved": {"n": 1533, "mm": 1987.9}},
+  "text": {"rings": 114, "straight": {"n": 697, "mm": 727.1}, "curved": {"n": 194, "mm": 265.7}}
+ },
+ "circles": [
+  {"c": [287.0, 152.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 124.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 165.7], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 129.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 148.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 137.9], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 157.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.0, 169.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [93.1, 110.3, 300.1, 179.6], "w": 207.0, "h": 69.3, "from": "ring"},
+  {"mm": [273.5, 173.8, 296.0, 176.0], "w": 22.5, "h": 2.2, "from": "ring"},
+  {"mm": [205.3, 173.6, 233.4, 175.7], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [239.6, 173.6, 267.7, 175.7], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [125.9, 173.4, 153.7, 175.5], "w": 27.9, "h": 2.2, "from": "ring"},
+  {"mm": [176.8, 173.4, 204.9, 175.5], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [275.5, 145.3, 290.4, 172.9], "w": 14.9, "h": 27.6, "from": "ring"},
+  {"mm": [234.3, 117.4, 238.8, 172.7], "w": 4.5, "h": 55.3, "from": "ring"},
+  {"mm": [268.1, 117.4, 272.9, 172.7], "w": 4.8, "h": 55.3, "from": "ring"},
+  {"mm": [168.2, 159.8, 174.2, 168.4], "w": 6.0, "h": 8.6, "from": "ring"},
+  {"mm": [161.3, 137.7, 164.3, 152.0], "w": 3.0, "h": 14.2, "from": "ring"},
+  {"mm": [155.0, 137.3, 159.8, 140.3], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [239.6, 114.4, 267.5, 116.6], "w": 27.9, "h": 2.2, "from": "ring"},
+  {"mm": [176.8, 114.2, 204.9, 116.4], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [205.3, 114.2, 233.4, 116.4], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [125.9, 114.0, 153.7, 116.2], "w": 27.9, "h": 2.2, "from": "ring"},
+  {"mm": [154.2, 114.0, 165.2, 116.2], "w": 11.0, "h": 2.2, "from": "ring"},
+  {"mm": [97.4, 113.8, 125.4, 115.9], "w": 28.1, "h": 2.2, "from": "ring"},
+  {"mm": [367.2, 35.2, 415.6, 38.2], "w": 48.4, "h": 3.0, "from": "ring"},
+  {"mm": [415.8, 35.4, 420.8, 38.2], "w": 5.0, "h": 2.8, "from": "ring"},
+  {"mm": [345.9, 26.1, 420.8, 35.0], "w": 74.9, "h": 8.9, "from": "ring", "words": ["WARD-BECK SYSTEMS"]},
+  {"mm": [357.1, 28.9, 361.4, 32.0], "w": 4.3, "h": 3.0, "from": "ring"},
+  {
+   "mm": [363.6, 13.4, 420.8, 26.1],
+   "w": 57.2,
+   "h": 12.7,
+   "from": "ring",
+   "words": ["TEN ENGINEERING", "96x96 INTERPHONE MATRIX", "RACK LAYOUT"]
+  },
+  {"mm": [345.9, 19.9, 363.1, 22.7], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [345.9, 16.6, 363.1, 19.6], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [345.9, 13.4, 363.1, 16.4], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [345.9, 7.1, 354.7, 13.2], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [354.9, 10.4, 372.4, 13.2], "w": 17.5, "h": 2.8, "from": "ring", "words": ["IDSC NC"]},
+  {"mm": [378.0, 7.1, 412.8, 13.2], "w": 34.8, "h": 6.0, "from": "ring", "words": ["94055-04-002"]},
+  {"mm": [354.9, 7.1, 372.4, 10.2], "w": 17.5, "h": 3.1, "from": "ring", "words": ["94055102"]}
+ ],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [373.7, 28.5, 418.0, 33.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [377.0, 20.9, 408.5, 25.3], "text": "TEN ENGINEERING"},
+   {"mm": [367.9, 17.3, 417.6, 21.6], "text": "96x96 INTERPHONE MATRIX"},
+   {"mm": [379.8, 13.4, 405.7, 17.7], "text": "RACK LAYOUT"},
+   {"mm": [354.3, 9.7, 364.7, 13.1], "text": "IDSC NC"},
+   {"mm": [381.9, 7.6, 410.4, 11.9], "text": "94055-04-002"},
+   {"mm": [361.6, 7.8, 371.3, 9.9], "text": "94055102"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 94055-04-002, size B (assumed) 432 × 280 mm, 2000 × 1298 px traced (0.216 mm/px)",
+  "- **Ink extent:** 93–421 mm across, 7–180 mm up",
+  "- **Outlines:** line 1,562 rings, 7,938 straight (19,037 mm) / 1,533 curved (1,988 mm); text 114 rings, 697 straight (727 mm) / 194 curved (266 mm)",
+  "- **Circles and arcs:** 8 circles, 0 arcs; largest r 1.6 @ (287.0, 152.3), r 1.6 @ (287.0, 124.5), r 1.6 @ (287.0, 165.7), r 1.6 @ (287.0, 129.3)",
+  "- **Closed boxes:** 30; named: WARD-BECK SYSTEMS; TEN ENGINEERING 96x96 INTERPHONE MATRIX ; IDSC NC; 94055-04-002; 94055102",
+  "- **Words (OCR):** 7 in 7 lines: WARD-BECK SYSTEMS · TEN ENGINEERING · 96x96 INTERPHONE MATRIX · RACK LAYOUT · IDSC NC · 94055-04-002 · 94055102"
+ ]
+}
