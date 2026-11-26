@@ -1,0 +1,115 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1995 - DOC - 950362-03-002 - NOES REMOVE ALL BURRS AND SHARP EDGES TCLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/b4b8e183374abe10.svg",
+ "sheet": {
+  "number": "950362-03-002",
+  "title": "Noes Remove All Burrs And Sharp Edges Tclerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1282],
+  "mm": [431.8, 276.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [35.5, 3.5, 431.8, 247.4],
+ "outlines": {
+  "line": {"rings": 540, "straight": {"n": 4565, "mm": 11387.1}, "curved": {"n": 723, "mm": 817.6}},
+  "text": {"rings": 300, "straight": {"n": 1684, "mm": 1446.3}, "curved": {"n": 542, "mm": 662.2}},
+  "tb": {"rings": 40, "straight": {"n": 259, "mm": 268.3}, "curved": {"n": 70, "mm": 77.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3592, "straight": {"n": 4168, "mm": 5663.8}, "curved": {"n": 19, "mm": 13.3}},
+   "text": {"paths": 1771, "straight": {"n": 2257, "mm": 1147.6}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 388, "straight": {"n": 466, "mm": 676.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 174,
+  "orientation": {"horizontal": {"n": 1706, "mm": 4004.1}, "vertical": {"n": 1784, "mm": 1455.2}, "diagonal": {"n": 3401, "mm": 2029.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [56.7, 17.1], "r": 0.8, "kind": "arc", "span": 147, "from": ["centre line"], "start": 343},
+  {"c": [258.6, 69.3], "r": 0.7, "kind": "arc", "span": 206, "from": ["centre line"], "start": 64},
+  {"c": [207.8, 181.3], "r": 0.7, "kind": "arc", "span": 236, "from": ["centre line"], "start": 264},
+  {"c": [186.3, 111.8], "r": 0.7, "kind": "arc", "span": 173, "from": ["centre line"], "start": 105},
+  {"c": [292.5, 28.5], "r": 0.7, "kind": "arc", "span": 233, "from": ["centre line"], "start": 342},
+  {"c": [203.0, 26.8], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 78}
+ ],
+ "boxes": [
+  {"mm": [71.7, 121.3, 292.8, 168.2], "w": 221.1, "h": 46.9, "from": "ring"},
+  {"mm": [362.1, 31.7, 367.9, 34.8], "w": 5.8, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [368.1, 32.0, 373.7, 34.8], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [364.7, 10.4, 421.4, 23.7], "w": 56.8, "h": 13.4, "from": "ring", "words": ["METER PANEL", "REAR HOUSING"], "in_title_block": true},
+  {"mm": [347.2, 19.6, 364.2, 22.7], "w": 17.1, "h": 3.0, "from": "ring", "words": ["CRN; DRcNC 95)"], "in_title_block": true},
+  {"mm": [347.2, 16.4, 364.4, 19.4], "w": 17.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [347.2, 13.4, 364.4, 16.4], "w": 17.3, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [347.4, 10.1, 364.4, 13.2], "w": 17.1, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [413.9, 5.0, 421.4, 11.2], "w": 7.6, "h": 6.3, "from": "ring", "in_title_block": true},
+  {"mm": [379.3, 4.3, 413.7, 11.0], "w": 34.3, "h": 6.7, "from": "ring", "words": ["950362-03-002"], "in_title_block": true},
+  {"mm": [373.9, 4.3, 379.1, 10.4], "w": 5.2, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [347.4, 3.9, 356.0, 9.9], "w": 8.6, "h": 6.0, "from": "ring", "words": ["SCALE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [379.8, 242.5, 391.6, 247.7], "text": "0 PLADES"},
+   {"mm": [378.7, 239.9, 396.4, 243.0], "text": "CN EACH SIDE"},
+   {"mm": [308.7, 231.0, 314.8, 233.2], "text": "0.150"},
+   {"mm": [332.7, 183.1, 348.9, 186.2], "text": "AEAR HCUSNG"},
+   {"mm": [199.7, 180.3, 205.5, 182.4], "text": "0 176"},
+   {"mm": [352.3, 179.6, 361.6, 181.8], "text": "TEX TURED"},
+   {"mm": [237.7, 173.4, 265.3, 176.5], "text": "44-40 UNC REO'D"},
+   {"mm": [60.0, 141.4, 65.8, 143.6], "text": "0 312"},
+   {"mm": [60.0, 130.0, 66.5, 132.1], "text": "1544"},
+   {"mm": [98.2, 112.7, 104.1, 114.9], "text": "SLO M"},
+   {"mm": [124.8, 109.0, 132.6, 112.6], "text": "0.Jo"},
+   {"mm": [241.8, 108.4, 248.3, 110.5], "text": "0.160"},
+   {"mm": [249.6, 108.2, 264.3, 111.3], "text": "+0.003 Dia"},
+   {"mm": [180.5, 102.8, 188.7, 106.6], "text": "6.375"},
+   {"mm": [247.4, 105.6, 263.2, 108.7], "text": "NUT 5+40-2"},
+   {"mm": [241.8, 103.6, 249.4, 105.8], "text": "OM IER"},
+   {"mm": [250.7, 102.8, 257.1, 105.9], "text": "SIDE;"},
+   {"mm": [260.2, 104.1, 269.4, 106.2], "text": "PLACEG"},
+   {"mm": [174.7, 95.2, 182.7, 98.3], "text": "17.480"},
+   {"mm": [255.4, 52.2, 262.3, 54.4], "text": "TFR AL"},
+   {"mm": [286.5, 50.7, 301.6, 52.9], "text": "MEDIA ~CEAH"},
+   {"mm": [253.3, 29.1, 270.5, 31.3], "text": "9509uz-0}-002-"},
+   {"mm": [279.6, 29.6, 286.1, 31.7], "text": "CCvik"},
+   {"mm": [352.1, 24.6, 368.3, 28.9], "text": "WBS"},
+   {"mm": [374.8, 25.7, 418.6, 31.0], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [141.4, 24.2, 147.2, 26.3], "text": "0,800"},
+   {"mm": [347.2, 19.9, 364.4, 22.0], "text": "CRN; DRcNC 95)"},
+   {"mm": [380.8, 17.1, 405.7, 21.4], "text": "METER PANEL"},
+   {"mm": [38.4, 15.5, 46.0, 17.7], "text": "REVDM"},
+   {"mm": [38.9, 13.4, 50.7, 15.5], "text": "TCLEK NCES"},
+   {"mm": [63.7, 16.2, 70.2, 18.4], "text": "ShAAF"},
+   {"mm": [82.0, 14.5, 92.8, 16.6], "text": "4-0.033"},
+   {"mm": [380.2, 13.2, 407.2, 17.5], "text": "REAR HOUSING"},
+   {"mm": [348.7, 7.6, 364.9, 9.7], "text": "SCALE DIsc NC"},
+   {"mm": [355.8, 4.1, 372.9, 7.7], "text": "Icoce: 95362402"},
+   {"mm": [382.4, 5.6, 412.2, 9.9], "text": "950362-03-002"}
+  ],
+  "scale": "DIsc NC"
+ },
+ "title_block": {
+  "mm": [340.0, 2.0, 427.2, 36.6],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WARD-BECK SYSTEMS", "CRN; DRcNC 95)", "METER PANEL", "REAR HOUSING", "SCALE DIsc NC", "Icoce: 95362402", "950362-03-002"]
+ },
+ "dots": [{"c": [61.6, 14.8], "r": 0.5, "lines": 2}],
+ "summary": [
+  "- **Sheet:** mechanical 950362-03-002, size B (assumed) 432 × 277 mm, 2000 × 1282 px traced (0.216 mm/px); scale DIsc NC",
+  "- **Ink extent:** 36–432 mm across, 4–247 mm up",
+  "- **Outlines:** line 540 rings, 4,565 straight (11,387 mm) / 723 curved (818 mm); text 300 rings, 1,684 straight (1,446 mm) / 542 curved (662 mm); tb 40 rings, 259 straight (268 mm) / 70 curved (77.7 mm)",
+  "- **Centre lines:** 5,751 paths (174 closed); straight 7,488 mm, curved 13.3 mm; horizontal 4,004 mm, vertical 1,455 mm, diagonal 2,029 mm",
+  "- **Circles and arcs:** 0 circles, 6 arcs",
+  "- **Closed boxes:** 12 (11 in the title block)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 39 in 36 lines: 0 PLADES · CN EACH SIDE · 0.150 · AEAR HCUSNG · 0 176 · TEX TURED · 44-40 UNC REO'D · 0 312 · 1544 · SLO M · 0.Jo · 0.160",
+  "- **Title block:** (340, 2)–(427, 37) mm: WBS · WARD-BECK SYSTEMS · CRN; DRcNC 95) · METER PANEL · REAR HOUSING · SCALE DIsc NC · Icoce: 95362402 · 950362-03-002"
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1995 - DOC - 950278-03-001 - TALKBACK PANEL MOD WIDTH.jpg",
+ "version": 1,
+ "trace": "_traces/d9c02e1b2359cab7.svg",
+ "sheet": {
+  "number": "950278-03-001",
+  "title": "Talkback Panel Mod Width",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1300],
+  "mm": [431.8, 280.7],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 5.4, 424.5, 266.0],
+ "outlines": {
+  "line": {"rings": 239, "straight": {"n": 1680, "mm": 3636.1}, "curved": {"n": 372, "mm": 442.9}},
+  "text": {"rings": 380, "straight": {"n": 2130, "mm": 2101.0}, "curved": {"n": 777, "mm": 1007.9}},
+  "tb": {"rings": 23, "straight": {"n": 160, "mm": 192.3}, "curved": {"n": 40, "mm": 50.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2142, "straight": {"n": 2430, "mm": 1948.5}, "curved": {"n": 17, "mm": 15.2}},
+   "text": {"paths": 2259, "straight": {"n": 2848, "mm": 1568.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 283, "straight": {"n": 333, "mm": 424.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 125,
+  "orientation": {"horizontal": {"n": 1332, "mm": 1112.9}, "vertical": {"n": 1417, "mm": 1134.5}, "diagonal": {"n": 2862, "mm": 1694.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [383.1, 17.0], "r": 2.3, "kind": "arc", "span": 99, "from": ["centre line"], "start": 226},
+  {"c": [157.8, 242.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [377.6, 9.4], "r": 1.2, "kind": "arc", "span": 223, "from": ["centre line"], "start": 99},
+  {"c": [158.2, 241.9], "r": 0.9, "kind": "arc", "span": 155, "from": ["centre line"], "start": 37},
+  {"c": [184.7, 242.3], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 64},
+  {"c": [90.7, 88.6], "r": 0.7, "kind": "arc", "span": 250, "from": ["centre line"], "start": 305}
+ ],
+ "boxes": [
+  {"mm": [287.4, 138.8, 293.4, 144.9], "w": 6.0, "h": 6.0, "from": "ring"},
+  {"mm": [154.6, 58.9, 158.5, 62.8], "w": 3.9, "h": 3.9, "from": "ring"},
+  {"mm": [364.2, 34.8, 370.3, 37.6], "w": 6.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [370.5, 34.5, 376.1, 37.6], "w": 5.6, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [348.7, 22.7, 366.2, 25.7], "w": 17.5, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [366.4, 12.1, 423.8, 25.5], "w": 57.4, "h": 13.4, "from": "ring", "words": ["TALKBACK    PANEL", "MOD Width)"]},
+  {"mm": [348.7, 19.4, 366.2, 22.5], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [348.7, 16.2, 366.2, 19.4], "w": 17.5, "h": 3.2, "from": "ring"},
+  {"mm": [348.7, 13.0, 366.0, 16.2], "w": 17.3, "h": 3.2, "from": "ring"},
+  {"mm": [375.5, 6.5, 380.6, 12.5], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [380.8, 5.8, 415.6, 12.3], "w": 34.8, "h": 6.5, "from": "ring", "words": ["950278-03-001"]},
+  {"mm": [416.0, 5.8, 423.6, 11.9], "w": 7.6, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [113.1, 251.7, 119.6, 256.5], "text": "85"},
+   {"mm": [260.4, 126.5, 288.0, 131.0], "text": "950278-03- 001 _"},
+   {"mm": [290.6, 126.1, 329.0, 130.4], "text": "PUSHBUTTON ENGRAVINC"},
+   {"mm": [260.4, 117.4, 332.7, 122.4], "text": "LENSE TYPE 1/27 DIALCO (325-0075 WHITE)"},
+   {"mm": [72.5, 114.6, 113.1, 118.5], "text": "950278-03-001-1 PANEL"},
+   {"mm": [260.4, 114.6, 277.6, 117.8], "text": "ENCRAMNG"},
+   {"mm": [282.0, 113.6, 313.3, 117.9], "text": "GORTON CONDENSED"},
+   {"mm": [282.0, 110.3, 318.2, 114.6], "text": "WBS SPEC 412006 AND"},
+   {"mm": [72.5, 106.0, 128.7, 110.5], "text": "MATERIAL: ALUM ALLOY 0.125 THICK"},
+   {"mm": [282.0, 107.1, 300.3, 111.6], "text": "FILL BLACK:"},
+   {"mm": [72.5, 101.7, 126.1, 106.2], "text": "FINISH: SAND 120 GRIT AND PAINT"},
+   {"mm": [85.1, 98.5, 121.8, 102.8], "text": "TEXTURED BEIGE (452C)"},
+   {"mm": [84.2, 95.2, 107.7, 100.0], "text": "TEXCOTE VINYL_"},
+   {"mm": [85.1, 92.6, 94.1, 96.5], "text": "(EXTRA"},
+   {"mm": [101.3, 92.0, 113.6, 95.8], "text": "TEXTURE)"},
+   {"mm": [75.3, 84.4, 88.7, 89.7], "text": "JOUORANCLS:"},
+   {"mm": [109.0, 86.8, 115.5, 89.0], "text": "EDCES"},
+   {"mm": [87.0, 81.6, 93.5, 83.8], "text": "CpLI"},
+   {"mm": [109.5, 56.6, 116.6, 58.7], "text": "FC"},
+   {"mm": [117.4, 55.9, 127.6, 59.3], "text": "0.640 5"},
+   {"mm": [392.9, 34.5, 401.6, 36.7], "text": "REY SOt"},
+   {"mm": [377.0, 27.2, 421.2, 32.5], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [352.1, 27.9, 370.5, 32.2], "text": "WBS"},
+   {"mm": [379.1, 18.1, 409.3, 22.5], "text": "TALKBACK    PANEL"},
+   {"mm": [386.2, 13.8, 408.3, 18.6], "text": "MOD Width)"},
+   {"mm": [384.1, 6.7, 414.3, 11.0], "text": "950278-03-001"}
+  ]
+ },
+ "title_block": {
+  "mm": [273.4, 21.6, 429.9, 120.3],
+  "from": "title-block words (training set)",
+  "text": ["LENSE TYPE 1/27 DIALCO (325-0075 WHITE)", "GORTON CONDENSED", "WBS SPEC 412006 AND", "FILL BLACK:", "REY SOt", "WARD-BECK SYSTEMS", "WBS"]
+ },
+ "dots": [{"c": [157.7, 234.8], "r": 1.4, "lines": 240}, {"c": [156.1, 146.7], "r": 1.4, "lines": 294}, {"c": [96.2, 86.1], "r": 0.5, "lines": 3}],
+ "summary": [
+  "- **Sheet:** mechanical 950278-03-001, size B (assumed) 432 × 281 mm, 2000 × 1300 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–424 mm across, 5–266 mm up",
+  "- **Outlines:** line 239 rings, 1,680 straight (3,636 mm) / 372 curved (443 mm); text 380 rings, 2,130 straight (2,101 mm) / 777 curved (1,008 mm); tb 23 rings, 160 straight (192 mm) / 40 curved (50.3 mm)",
+  "- **Centre lines:** 4,684 paths (125 closed); straight 3,941 mm, curved 15.2 mm; horizontal 1,113 mm, vertical 1,134 mm, diagonal 1,694 mm",
+  "- **Circles and arcs:** 1 circles, 5 arcs; largest r 1.8 @ (157.8, 242.4)",
+  "- **Closed boxes:** 12 (3 in the title block); named: TALKBACK    PANEL MOD Width); 950278-03-001",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 36 in 26 lines: 85 · 950278-03- 001 _ · PUSHBUTTON ENGRAVINC · LENSE TYPE 1/27 DIALCO (325-0075 WHITE) · 950278-03-001-1 PANEL · ENCRAMNG · GORTON CONDENSED · WBS SPEC 412006 AND · MATERIAL: ALUM ALLOY 0.125 THICK · FILL BLACK: · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C)",
+  "- **Title block:** (273, 22)–(430, 120) mm: LENSE TYPE 1/27 DIALCO (325-0075 WHITE) · GORTON CONDENSED · WBS SPEC 412006 AND · FILL BLACK: · REY SOt · WARD-BECK SYSTEMS · WBS"
+ ]
+}

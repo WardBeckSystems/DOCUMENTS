@@ -1,0 +1,86 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/19xx - DOC - 405-03-084 - REMOVE ALL BURRS AND GHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/0cf9f884636da35d.svg",
+ "sheet": {
+  "number": "405-03-084",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [431.8, 279.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 414.3, 279.6],
+ "outlines": {
+  "line": {"rings": 305, "straight": {"n": 2841, "mm": 8657.8}, "curved": {"n": 448, "mm": 538.6}},
+  "text": {"rings": 187, "straight": {"n": 1153, "mm": 1113.1}, "curved": {"n": 344, "mm": 427.3}},
+  "tb": {"rings": 19, "straight": {"n": 161, "mm": 187.4}, "curved": {"n": 27, "mm": 29.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2170, "straight": {"n": 2477, "mm": 4411.9}, "curved": {"n": 10, "mm": 8.9}},
+   "text": {"paths": 1340, "straight": {"n": 1650, "mm": 834.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 298, "straight": {"n": 339, "mm": 411.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 87,
+  "orientation": {"horizontal": {"n": 1151, "mm": 2648.4}, "vertical": {"n": 1186, "mm": 1488.6}, "diagonal": {"n": 2129, "mm": 1521.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [367.8, 10.9], "r": 1.2, "kind": "arc", "span": 219, "from": ["centre line"], "start": 97},
+  {"c": [47.3, 253.6], "r": 0.9, "kind": "arc", "span": 147, "from": ["centre line"], "start": 337},
+  {"c": [71.4, 251.8], "r": 0.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [342.5, 13.2], "r": 0.8, "kind": "arc", "span": 189, "from": ["centre line"], "start": 320}
+ ],
+ "boxes": [
+  {"mm": [188.5, 65.0, 352.6, 142.5], "w": 164.1, "h": 77.5, "from": "ring"},
+  {"mm": [409.1, 35.8, 414.1, 38.6], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [339.0, 26.8, 413.9, 36.1], "w": 74.9, "h": 9.3, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [339.0, 24.2, 356.5, 27.0], "w": 17.5, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [356.7, 14.0, 413.9, 27.0], "w": 57.2, "h": 13.0, "from": "ring", "words": ["M405s", "BASE"]},
+  {"mm": [339.0, 20.9, 356.5, 24.0], "w": 17.5, "h": 3.0, "from": "ring"},
+  {"mm": [339.0, 8.2, 347.8, 14.2], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [348.0, 11.4, 365.5, 14.2], "w": 17.5, "h": 2.8, "from": "ring"},
+  {"mm": [365.7, 8.0, 370.9, 14.0], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [371.1, 7.8, 405.9, 14.0], "w": 34.8, "h": 6.3, "from": "ring", "words": ["405-03-084"]},
+  {"mm": [406.1, 7.8, 413.7, 13.8], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [348.0, 8.2, 365.5, 11.2], "w": 17.5, "h": 3.0, "from": "ring", "words": ["code;", "40548'"]}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [260.2, 155.0, 266.0, 157.2], "text": "1850"},
+   {"mm": [315.0, 148.1, 321.9, 151.5], "text": "REQ"},
+   {"mm": [177.0, 117.0, 183.1, 119.2], "text": "0,787"},
+   {"mm": [33.2, 47.3, 79.7, 51.6], "text": "MATERIAL: CRS: 0.105 ThICK,"},
+   {"mm": [33.2, 40.8, 86.1, 45.1], "text": "FINISH: SAND 120 GriT AND PAINT"},
+   {"mm": [45.1, 37.6, 84.0, 41.4], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [45.1, 34.3, 94.1, 38.2], "text": "TEXCOTE VNY SE SpoT WELD NOTE"},
+   {"mm": [344.1, 29.4, 360.3, 33.2], "text": "WBS"},
+   {"mm": [367.2, 28.9, 411.1, 34.2], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [35.8, 24.0, 49.4, 27.3], "text": "TOLERA' CES:"},
+   {"mm": [48.8, 26.1, 68.0, 29.5], "text": "BURAS ShaRF"},
+   {"mm": [380.8, 20.3, 393.2, 24.6], "text": "M405s"},
+   {"mm": [381.9, 16.0, 391.6, 20.3], "text": "BASE"},
+   {"mm": [348.0, 8.6, 363.4, 10.8], "text": "code; 40548'"},
+   {"mm": [377.0, 8.4, 400.7, 12.7], "text": "405-03-084"}
+  ]
+ },
+ "title_block": {"mm": [335.5, 23.3, 419.7, 39.9], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 405-03-084, size B (assumed) 432 × 280 mm, 2000 × 1295 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–414 mm across, 0–280 mm up",
+  "- **Outlines:** line 305 rings, 2,841 straight (8,658 mm) / 448 curved (539 mm); text 187 rings, 1,153 straight (1,113 mm) / 344 curved (427 mm); tb 19 rings, 161 straight (187 mm) / 27 curved (29.4 mm)",
+  "- **Centre lines:** 3,808 paths (87 closed); straight 5,658 mm, curved 8.9 mm; horizontal 2,648 mm, vertical 1,489 mm, diagonal 1,521 mm",
+  "- **Circles and arcs:** 1 circles, 3 arcs; largest r 0.8 @ (71.4, 251.8)",
+  "- **Closed boxes:** 12 (3 in the title block); named: M405s BASE; 405-03-084; code; 40548'",
+  "- **Words (OCR):** 23 in 15 lines: 1850 · REQ · 0,787 · MATERIAL: CRS: 0.105 ThICK, · FINISH: SAND 120 GriT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE VNY SE SpoT WELD NOTE · WBS · WARD-BECK SYSTEMS · TOLERA' CES: · BURAS ShaRF · M405s",
+  "- **Title block:** (336, 23)–(420, 40) mm: WBS · WARD-BECK SYSTEMS"
+ ]
+}

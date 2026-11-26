@@ -1,0 +1,116 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1996 - DOC - 960077-03-006 - DIA ISSUEL REVSICN NOTEMOVE BURRS.jpg",
+ "version": 1,
+ "trace": "_traces/57cb62fed135c196.svg",
+ "sheet": {
+  "number": "960077-03-006",
+  "title": "Dia Issuel Revsicn Notemove Burrs",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1259],
+  "mm": [431.8, 271.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [39.5, 2.2, 431.8, 251.7],
+ "outlines": {
+  "line": {"rings": 567, "straight": {"n": 4122, "mm": 11294.5}, "curved": {"n": 857, "mm": 985.2}},
+  "text": {"rings": 152, "straight": {"n": 919, "mm": 879.7}, "curved": {"n": 290, "mm": 376.3}},
+  "tb": {"rings": 48, "straight": {"n": 338, "mm": 320.9}, "curved": {"n": 81, "mm": 89.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3403, "straight": {"n": 4064, "mm": 5671.6}, "curved": {"n": 13, "mm": 13.3}},
+   "text": {"paths": 930, "straight": {"n": 1210, "mm": 666.2}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 544, "straight": {"n": 643, "mm": 768.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 183,
+  "orientation": {"horizontal": {"n": 1499, "mm": 3979.6}, "vertical": {"n": 1498, "mm": 1403.3}, "diagonal": {"n": 2920, "mm": 1723.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [98.7, 154.8], "r": 2.7, "kind": "arc", "span": 136, "from": ["centre line"], "start": 341},
+  {"c": [135.4, 45.1], "r": 0.8, "kind": "arc", "span": 241, "from": ["centre line"], "start": 210},
+  {"c": [115.4, 107.8], "r": 0.8, "kind": "arc", "span": 175, "from": ["centre line"], "start": 14},
+  {"c": [376.5, 144.9], "r": 0.7, "kind": "arc", "span": 143, "from": ["centre line"], "start": 252}
+ ],
+ "boxes": [
+  {"mm": [94.6, 151.1, 330.3, 196.3], "w": 235.8, "h": 45.1, "from": "ring"},
+  {"mm": [297.5, 167.1, 305.3, 182.0], "w": 7.8, "h": 14.9, "from": "ring"},
+  {"mm": [220.0, 169.5, 228.4, 177.9], "w": 8.4, "h": 8.4, "from": "ring"},
+  {"mm": [257.8, 170.1, 265.3, 177.9], "w": 7.6, "h": 7.8, "from": "ring"},
+  {"mm": [270.1, 170.3, 277.9, 177.9], "w": 7.8, "h": 7.6, "from": "ring"},
+  {"mm": [232.7, 169.9, 240.5, 177.7], "w": 7.8, "h": 7.8, "from": "ring"},
+  {"mm": [245.3, 170.1, 253.0, 177.7], "w": 7.8, "h": 7.6, "from": "ring"},
+  {"mm": [208.1, 169.7, 215.7, 177.5], "w": 7.6, "h": 7.8, "from": "ring"},
+  {"mm": [195.6, 169.7, 203.4, 177.3], "w": 7.8, "h": 7.6, "from": "ring"},
+  {"mm": [183.3, 169.5, 190.9, 177.0], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [144.2, 169.0, 152.0, 176.8], "w": 7.8, "h": 7.8, "from": "ring"},
+  {"mm": [156.7, 169.3, 164.3, 176.8], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [131.9, 169.0, 139.5, 176.6], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [119.4, 168.8, 127.2, 176.4], "w": 7.8, "h": 7.6, "from": "ring"},
+  {"mm": [406.3, 30.4, 410.9, 33.2], "w": 4.5, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [353.0, 29.8, 358.6, 32.6], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [338.1, 20.9, 410.9, 30.2], "w": 72.8, "h": 9.3, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBSJ"], "in_title_block": true},
+  {
+   "mm": [355.4, 8.9, 411.2, 21.4],
+   "w": 55.9,
+   "h": 12.5,
+   "from": "ring",
+   "words": ["PUNCHING", "CUSTOM", "(CUSTOMER  SUPPLIED PANEL)"],
+   "in_title_block": true
+  },
+  {"mm": [338.1, 17.9, 354.9, 20.9], "w": 16.8, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [338.1, 14.9, 354.9, 17.7], "w": 16.8, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [338.1, 11.7, 354.9, 14.7], "w": 16.8, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [338.1, 8.6, 355.2, 11.7], "w": 17.1, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [369.6, 2.8, 403.5, 9.1], "w": 33.9, "h": 6.3, "from": "ring", "words": ["960077-03-006"], "in_title_block": true},
+  {"mm": [403.7, 3.2, 411.1, 9.1], "w": 7.3, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [347.0, 5.8, 364.0, 8.6], "w": 17.1, "h": 2.8, "from": "ring", "words": ["disC HC"], "in_title_block": true},
+  {"mm": [364.2, 2.8, 369.4, 8.6], "w": 5.2, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [338.1, 2.6, 346.7, 8.4], "w": 8.6, "h": 5.8, "from": "ring", "words": ["ScALE"], "in_title_block": true},
+  {"mm": [347.0, 2.6, 364.0, 5.6], "w": 17.1, "h": 3.0, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [194.3, 207.5, 200.8, 209.6], "text": "10,072"},
+   {"mm": [67.4, 201.0, 73.4, 203.2], "text": "0.205"},
+   {"mm": [74.9, 187.6, 81.0, 189.8], "text": "0 835"},
+   {"mm": [74.9, 176.8, 81.0, 179.0], "text": "0.900"},
+   {"mm": [347.6, 143.4, 354.5, 145.5], "text": "PICH"},
+   {"mm": [213.7, 136.9, 220.2, 139.0], "text": "PuNcH"},
+   {"mm": [227.8, 136.9, 235.3, 139.0], "text": "SDUARC"},
+   {"mm": [130.6, 108.8, 140.8, 111.0], "text": "EXRUSO"},
+   {"mm": [365.7, 23.3, 408.3, 28.8], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [67.1, 22.7, 81.8, 25.8], "text": "ShAR? EDCES;"},
+   {"mm": [342.4, 22.7, 360.3, 27.0], "text": "WBSJ"},
+   {"mm": [357.5, 10.8, 410.0, 15.6], "text": "(CUSTOMER  SUPPLIED PANEL)"},
+   {"mm": [366.8, 14.5, 381.3, 18.8], "text": "CUSTOM"},
+   {"mm": [382.4, 15.1, 400.3, 19.0], "text": "PUNCHING"},
+   {"mm": [339.4, 5.6, 355.8, 8.4], "text": "ScALE disC HC"},
+   {"mm": [372.6, 3.2, 402.4, 7.6], "text": "960077-03-006"}
+  ],
+  "scale": "disC HC"
+ },
+ "title_block": {
+  "mm": [330.8, 0.8, 416.9, 34.1],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS", "WBSJ", "(CUSTOMER  SUPPLIED PANEL)", "CUSTOM", "PUNCHING", "ScALE disC HC", "960077-03-006"]
+ },
+ "dots": [{"c": [261.5, 174.1], "r": 0.5, "lines": 2}],
+ "summary": [
+  "- **Sheet:** mechanical 960077-03-006, size B (assumed) 432 × 272 mm, 2000 × 1259 px traced (0.216 mm/px); scale disC HC",
+  "- **Ink extent:** 40–432 mm across, 2–252 mm up",
+  "- **Outlines:** line 567 rings, 4,122 straight (11,294 mm) / 857 curved (985 mm); text 152 rings, 919 straight (880 mm) / 290 curved (376 mm); tb 48 rings, 338 straight (321 mm) / 81 curved (89.7 mm)",
+  "- **Centre lines:** 4,877 paths (183 closed); straight 7,106 mm, curved 13.3 mm; horizontal 3,980 mm, vertical 1,403 mm, diagonal 1,723 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 28 (14 in the title block)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 17 in 16 lines: 10,072 · 0.205 · 0 835 · 0.900 · PICH · PuNcH · SDUARC · EXRUSO · WARD-BECK SYSTEMS · ShAR? EDCES; · WBSJ · (CUSTOMER  SUPPLIED PANEL)",
+  "- **Title block:** (331, 1)–(417, 34) mm: WARD-BECK SYSTEMS · WBSJ · (CUSTOMER  SUPPLIED PANEL) · CUSTOM · PUNCHING · ScALE disC HC · 960077-03-006"
+ ]
+}

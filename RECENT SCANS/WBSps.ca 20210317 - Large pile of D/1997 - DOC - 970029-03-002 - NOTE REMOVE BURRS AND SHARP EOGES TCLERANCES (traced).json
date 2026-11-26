@@ -1,0 +1,103 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1997 - DOC - 970029-03-002 - NOTE REMOVE BURRS AND SHARP EOGES TCLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/53cdc860b6551e59.svg",
+ "sheet": {
+  "number": "970029-03-002",
+  "title": "Note Remove Burrs And Sharp Eoges Tclerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1299],
+  "mm": [431.8, 280.5],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [20.5, 6.3, 415.6, 222.6],
+ "outlines": {
+  "line": {"rings": 247, "straight": {"n": 2482, "mm": 8603.6}, "curved": {"n": 356, "mm": 434.4}},
+  "text": {"rings": 213, "straight": {"n": 1314, "mm": 1270.3}, "curved": {"n": 382, "mm": 482.3}},
+  "tb": {"rings": 9, "straight": {"n": 93, "mm": 136.6}, "curved": {"n": 19, "mm": 22.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1787, "straight": {"n": 2054, "mm": 4331.9}, "curved": {"n": 12, "mm": 9.8}},
+   "text": {"paths": 1417, "straight": {"n": 1771, "mm": 926.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 184, "straight": {"n": 208, "mm": 360.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 91,
+  "orientation": {"horizontal": {"n": 1019, "mm": 3120.5}, "vertical": {"n": 1079, "mm": 1163.8}, "diagonal": {"n": 1935, "mm": 1334.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [369.4, 9.7], "r": 1.1, "kind": "arc", "span": 237, "from": ["centre line"], "start": 111},
+  {"c": [175.0, 193.8], "r": 1.1, "kind": "arc", "span": 122, "from": ["centre line"], "start": 241},
+  {"c": [52.1, 21.3], "r": 0.7, "kind": "arc", "span": 250, "from": ["centre line"], "start": 305}
+ ],
+ "boxes": [
+  {
+   "mm": [340.3, 25.7, 415.2, 35.0],
+   "w": 74.9,
+   "h": 9.3,
+   "from": "ring",
+   "words": ["BECK   SYSTEMS", "WARD-", "WBS)"],
+   "in_title_block": true
+  },
+  {"mm": [358.0, 13.0, 415.4, 26.1], "w": 57.4, "h": 13.2, "from": "ring", "words": ["TURRET BASE", "(CuSTOM)"]},
+  {"mm": [340.3, 22.5, 357.7, 25.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["IORN:"], "in_title_block": true},
+  {"mm": [340.3, 19.2, 357.7, 22.5], "w": 17.5, "h": 3.2, "from": "ring"},
+  {"mm": [340.5, 13.0, 357.7, 16.0], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [407.8, 7.3, 415.4, 13.4], "w": 7.6, "h": 6.0, "from": "ring"},
+  {"mm": [372.6, 6.9, 407.6, 13.2], "w": 35.0, "h": 6.3, "from": "ring", "words": ["970029-03-002"]},
+  {"mm": [349.5, 9.9, 367.0, 13.0], "w": 17.5, "h": 3.0, "from": "ring", "words": ["DSC ND"]},
+  {"mm": [367.2, 6.9, 372.4, 13.0], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [340.5, 6.7, 349.3, 12.7], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [349.5, 6.7, 367.0, 9.7], "w": 17.5, "h": 3.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [145.5, 190.0, 152.0, 193.1], "text": "0.200"},
+   {"mm": [147.2, 99.1, 153.3, 101.3], "text": "4,000"},
+   {"mm": [33.2, 40.6, 69.3, 44.4], "text": "MATERIAL: CRS: 0.105"},
+   {"mm": [70.4, 41.0, 80.1, 44.9], "text": "ThiCK;"},
+   {"mm": [33.7, 34.1, 54.2, 38.0], "text": "FINISH: SAND"},
+   {"mm": [55.3, 34.5, 87.2, 38.4], "text": "120 GRIT AND PAINT"},
+   {"mm": [381.1, 35.4, 389.7, 37.6], "text": "REMSCN"},
+   {"mm": [45.6, 30.9, 84.4, 34.7], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [368.3, 28.1, 379.8, 32.4], "text": "WARD-"},
+   {"mm": [381.9, 28.1, 412.6, 33.3], "text": "BECK   SYSTEMS"},
+   {"mm": [45.6, 27.6, 68.9, 31.5], "text": "TEXCOTE MNYLS"},
+   {"mm": [83.3, 28.1, 95.9, 31.2], "text": "KELD NOTE"},
+   {"mm": [343.5, 27.6, 362.5, 32.0], "text": "WBS)"},
+   {"mm": [339.8, 22.0, 345.7, 25.4], "text": "IORN:"},
+   {"mm": [375.9, 19.4, 400.7, 23.7], "text": "TURRET BASE"},
+   {"mm": [36.7, 19.6, 44.3, 21.8], "text": "REVOF"},
+   {"mm": [37.1, 17.5, 49.7, 19.6], "text": "TCLER ANCES"},
+   {"mm": [51.8, 17.1, 66.7, 20.9], "text": "Xe+/-0 015"},
+   {"mm": [62.4, 19.4, 77.5, 22.5], "text": "ShaRP ECCES"},
+   {"mm": [379.1, 15.1, 397.5, 19.4], "text": "(CuSTOM)"},
+   {"mm": [349.3, 9.9, 358.4, 12.1], "text": "DSC ND"},
+   {"mm": [375.5, 7.6, 406.1, 11.9], "text": "970029-03-002"}
+  ]
+ },
+ "title_block": {
+  "mm": [334.9, 21.9, 421.3, 39.1],
+  "from": "title-block words (training set)",
+  "text": ["REMSCN", "WARD-", "BECK   SYSTEMS", "WBS)", "IORN:", "TURRET BASE"]
+ },
+ "dots": [{"c": [290.0, 86.9], "r": 1.2, "lines": 72}],
+ "summary": [
+  "- **Sheet:** mechanical 970029-03-002, size B (assumed) 432 × 280 mm, 2000 × 1299 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–416 mm across, 6–223 mm up",
+  "- **Outlines:** line 247 rings, 2,482 straight (8,604 mm) / 356 curved (434 mm); text 213 rings, 1,314 straight (1,270 mm) / 382 curved (482 mm); tb 9 rings, 93 straight (137 mm) / 19 curved (22.2 mm)",
+  "- **Centre lines:** 3,388 paths (91 closed); straight 5,619 mm, curved 9.8 mm; horizontal 3,120 mm, vertical 1,164 mm, diagonal 1,335 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Closed boxes:** 11 (2 in the title block); named: TURRET BASE (CuSTOM); 970029-03-002; DSC ND",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 26 in 22 lines: 0.200 · 4,000 · MATERIAL: CRS: 0.105 · ThiCK; · FINISH: SAND · 120 GRIT AND PAINT · REMSCN · TEXTURED BROWN (438C) · WARD- · BECK   SYSTEMS · TEXCOTE MNYLS · KELD NOTE",
+  "- **Title block:** (335, 22)–(421, 39) mm: REMSCN · WARD- · BECK   SYSTEMS · WBS) · IORN: · TURRET BASE"
+ ]
+}

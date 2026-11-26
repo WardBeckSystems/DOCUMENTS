@@ -1,0 +1,86 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1996 - DOC - 960077-03-002 - REMOVE BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/18806b5062006558.svg",
+ "sheet": {
+  "number": "960077-03-002",
+  "title": "Remove Burrs And Sharp Edges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1269],
+  "mm": [431.8, 274.0],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 0.0, 431.8, 263.6],
+ "outlines": {
+  "line": {"rings": 387, "straight": {"n": 4668, "mm": 11652.4}, "curved": {"n": 567, "mm": 787.1}},
+  "text": {"rings": 197, "straight": {"n": 1198, "mm": 1232.7}, "curved": {"n": 382, "mm": 519.4}},
+  "tb": {"rings": 20, "straight": {"n": 167, "mm": 180.7}, "curved": {"n": 43, "mm": 48.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2976, "straight": {"n": 3399, "mm": 6032.0}, "curved": {"n": 21, "mm": 23.7}},
+   "text": {"paths": 1225, "straight": {"n": 1560, "mm": 900.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 287, "straight": {"n": 330, "mm": 399.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 101,
+  "orientation": {"horizontal": {"n": 1342, "mm": 2887.9}, "vertical": {"n": 1387, "mm": 1709.5}, "diagonal": {"n": 2560, "mm": 2734.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [341.6, 108.7], "r": 2.3, "kind": "arc", "span": 114, "from": ["centre line"], "start": 279},
+  {"c": [189.6, 93.1], "r": 1.8, "kind": "arc", "span": 233, "from": ["centre line"], "start": 69},
+  {"c": [193.9, 94.5], "r": 1.4, "kind": "arc", "span": 171, "from": ["centre line"], "start": 298},
+  {"c": [298.0, 102.5], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [288.0, 84.5], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [367.5, 3.9], "r": 1.1, "kind": "arc", "span": 229, "from": ["centre line"], "start": 101},
+  {"c": [224.9, 95.4], "r": 0.7, "kind": "arc", "span": 146, "from": ["centre line"], "start": 82},
+  {"c": [340.3, 13.0], "r": 0.7, "kind": "arc", "span": 233, "from": ["centre line"], "start": 342}
+ ],
+ "boxes": [
+  {"mm": [287.4, 59.8, 296.9, 76.4], "w": 9.5, "h": 16.6, "from": "ring"},
+  {"mm": [354.9, 28.9, 360.6, 31.7], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [408.7, 27.2, 413.4, 30.2], "w": 4.7, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [339.0, 1.7, 347.8, 7.8], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [365.3, 1.1, 370.5, 7.1], "w": 5.2, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [157.4, 255.4, 165.4, 258.5], "text": "RALT4)"},
+   {"mm": [132.8, 154.6, 138.6, 156.7], "text": "12026"},
+   {"mm": [322.1, 141.2, 328.2, 143.4], "text": "A OCO"},
+   {"mm": [232.1, 126.5, 237.9, 128.7], "text": "0,50"},
+   {"mm": [183.9, 95.9, 211.8, 107.6], "text": "TUNchiny"},
+   {"mm": [157.6, 85.5, 183.3, 98.5], "text": "Tc? TO"},
+   {"mm": [165.8, 82.3, 179.8, 92.6], "text": "SEc"},
+   {"mm": [39.1, 46.0, 84.4, 50.9], "text": "MATERIAL: CRS 0.105 ThiCK:"},
+   {"mm": [38.6, 39.3, 91.5, 44.3], "text": "FInISH: SAND 120 CRiT AND PAINT"},
+   {"mm": [51.0, 36.3, 88.7, 41.1], "text": "TEXTURED BROVN (438C)"},
+   {"mm": [50.5, 33.5, 74.3, 37.8], "text": "TEXCOTE VNYL."},
+   {"mm": [42.7, 24.6, 54.0, 26.8], "text": "OLRANCES"},
+   {"mm": [66.9, 26.1, 73.4, 28.3], "text": "CHARA"},
+   {"mm": [344.6, 22.2, 361.4, 26.6], "text": "WBS"},
+   {"mm": [367.0, 20.9, 410.4, 26.7], "text": "WARD-BECK  SYSTEMS"},
+   {"mm": [374.4, 12.3, 398.6, 16.6], "text": "TURRET BASE"},
+   {"mm": [376.1, 8.2, 395.7, 13.5], "text": "(CLK /TMR)"},
+   {"mm": [373.3, 0.6, 403.5, 5.4], "text": "960077-03-002"}
+  ]
+ },
+ "title_block": {"mm": [336.0, 15.6, 419.1, 32.2], "from": "title-block words (training set)", "text": ["WBS", "WARD-BECK  SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 960077-03-002, size B (assumed) 432 × 274 mm, 2000 × 1269 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–432 mm across, 0–264 mm up",
+  "- **Outlines:** line 387 rings, 4,668 straight (11,652 mm) / 567 curved (787 mm); text 197 rings, 1,198 straight (1,233 mm) / 382 curved (519 mm); tb 20 rings, 167 straight (181 mm) / 43 curved (48.5 mm)",
+  "- **Centre lines:** 4,488 paths (101 closed); straight 7,332 mm, curved 23.7 mm; horizontal 2,888 mm, vertical 1,710 mm, diagonal 2,735 mm",
+  "- **Circles and arcs:** 2 circles, 6 arcs; largest r 1.3 @ (298.0, 102.5), r 1.3 @ (288.0, 84.5)",
+  "- **Closed boxes:** 5 (2 in the title block)",
+  "- **Words (OCR):** 23 in 18 lines: RALT4) · 12026 · A OCO · 0,50 · TUNchiny · Tc? TO · SEc · MATERIAL: CRS 0.105 ThiCK: · FInISH: SAND 120 CRiT AND PAINT · TEXTURED BROVN (438C) · TEXCOTE VNYL. · OLRANCES",
+  "- **Title block:** (336, 16)–(419, 32) mm: WBS · WARD-BECK  SYSTEMS"
+ ]
+}

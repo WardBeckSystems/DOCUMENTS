@@ -1,0 +1,99 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1996 - DOC - 960244-04-003 - WODS RADIO BOSTON ENG VOICER STUDIO TURRET.jpg",
+ "version": 1,
+ "trace": "_traces/b7d40fa7bca823d5.svg",
+ "sheet": {
+  "number": "960244-04-003",
+  "title": "Wods Radio Boston Eng Voicer Studio Turret",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1276],
+  "mm": [431.8, 275.5],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.4, 431.8, 272.7],
+ "outlines": {
+  "line": {"rings": 245, "straight": {"n": 2079, "mm": 8324.5}, "curved": {"n": 306, "mm": 405.9}},
+  "text": {"rings": 131, "straight": {"n": 799, "mm": 919.1}, "curved": {"n": 225, "mm": 332.0}},
+  "tb": {"rings": 18, "straight": {"n": 166, "mm": 185.5}, "curved": {"n": 23, "mm": 26.2}}
+ },
+ "circles": [{"c": [305.1, 146.3], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [321.0, 129.8, 330.3, 195.2], "w": 9.3, "h": 65.4, "from": "ring"},
+  {"mm": [103.8, 129.5, 318.5, 193.9], "w": 214.7, "h": 64.3, "from": "ring", "words": ["TIMER", "CLOCK"]},
+  {"mm": [92.0, 128.2, 101.3, 193.7], "w": 9.3, "h": 65.4, "from": "ring"},
+  {"mm": [101.3, 128.5, 103.6, 193.7], "w": 2.4, "h": 65.2, "from": "ring"},
+  {"mm": [213.7, 159.3, 268.8, 185.9], "w": 55.1, "h": 26.6, "from": "ring", "words": ["CLOCK"]},
+  {"mm": [152.4, 158.9, 207.5, 185.5], "w": 55.1, "h": 26.6, "from": "ring", "words": ["TIMER"]},
+  {"mm": [221.9, 169.9, 260.6, 179.8], "w": 38.6, "h": 9.9, "from": "ring", "words": ["CLOCK"]},
+  {"mm": [160.8, 169.5, 199.5, 179.4], "w": 38.6, "h": 9.9, "from": "ring", "words": ["TIMER"]},
+  {"mm": [214.2, 159.6, 268.4, 164.9], "w": 54.2, "h": 5.4, "from": "ring"},
+  {"mm": [152.9, 159.1, 207.3, 164.7], "w": 54.4, "h": 5.6, "from": "ring"},
+  {"mm": [255.8, 140.8, 266.6, 151.6], "w": 10.8, "h": 10.8, "from": "ring"},
+  {"mm": [243.3, 140.8, 253.9, 151.3], "w": 10.6, "h": 10.6, "from": "ring"},
+  {"mm": [199.3, 140.3, 210.1, 151.1], "w": 10.8, "h": 10.8, "from": "ring"},
+  {"mm": [155.4, 140.1, 166.2, 150.9], "w": 10.8, "h": 10.8, "from": "ring"},
+  {"mm": [168.0, 140.3, 178.8, 150.9], "w": 10.8, "h": 10.6, "from": "ring"},
+  {"mm": [244.8, 142.3, 252.4, 149.8], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [257.6, 142.3, 264.9, 149.8], "w": 7.3, "h": 7.6, "from": "ring"},
+  {"mm": [201.0, 142.1, 208.6, 149.6], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [213.5, 142.1, 221.1, 149.6], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [169.5, 141.8, 177.0, 149.4], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [157.0, 141.6, 164.5, 149.2], "w": 7.6, "h": 7.6, "from": "ring"},
+  {"mm": [364.0, 35.6, 411.7, 38.6], "w": 47.7, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [412.2, 35.8, 416.9, 38.6], "w": 4.7, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [343.1, 26.8, 416.9, 35.6], "w": 73.8, "h": 8.9, "from": "ring", "words": ["BECK  SYSTEMS", "WARD", "WBS"], "in_title_block": true},
+  {
+   "mm": [360.3, 14.2, 416.9, 26.8],
+   "w": 56.6,
+   "h": 12.5,
+   "from": "ring",
+   "words": ["RADIO BOSTON", "WODS", "VOICER", "STUDIO", "TURRET", "LAYOUT"]
+  },
+  {"mm": [343.1, 23.5, 360.1, 26.6], "w": 17.1, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [343.1, 20.5, 360.1, 23.3], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [343.1, 17.3, 360.1, 20.3], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [343.1, 14.0, 360.1, 17.1], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [374.8, 8.2, 409.1, 14.2], "w": 34.3, "h": 6.0, "from": "ring", "words": ["960244-04-003"]},
+  {"mm": [369.4, 8.2, 374.6, 14.0], "w": 5.2, "h": 5.8, "from": "ring"},
+  {"mm": [352.1, 8.0, 369.2, 11.0], "w": 17.1, "h": 3.0, "from": "ring", "words": ["COzE 96244LOJ"]}
+ ],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [169.5, 170.3, 191.7, 178.5], "text": "TIMER"},
+   {"mm": [228.9, 170.3, 254.8, 178.5], "text": "CLOCK"},
+   {"mm": [362.3, 60.2, 372.4, 62.4], "text": "CUSTOMFR"},
+   {"mm": [347.8, 28.5, 364.0, 32.8], "text": "WBS"},
+   {"mm": [370.5, 29.1, 381.9, 33.5], "text": "WARD"},
+   {"mm": [383.4, 29.1, 414.3, 33.9], "text": "BECK  SYSTEMS"},
+   {"mm": [369.4, 22.0, 379.8, 25.9], "text": "WODS"},
+   {"mm": [380.8, 22.0, 407.2, 26.3], "text": "RADIO BOSTON"},
+   {"mm": [367.2, 18.4, 408.9, 22.2], "text": "VOICER STUDIO TURRET"},
+   {"mm": [380.8, 14.7, 395.3, 19.0], "text": "LAYOUT"},
+   {"mm": [344.4, 11.7, 350.2, 13.8], "text": "SCALC"},
+   {"mm": [351.9, 8.4, 368.1, 10.6], "text": "COzE 96244LOJ"},
+   {"mm": [377.6, 8.6, 407.8, 13.0], "text": "960244-04-003"}
+  ]
+ },
+ "title_block": {
+  "mm": [339.2, 23.1, 422.9, 39.5],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WARD", "BECK  SYSTEMS", "WODS", "RADIO BOSTON"]
+ },
+ "dots": [{"c": [305.0, 146.3], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 960244-04-003, size B (assumed) 432 × 276 mm, 2000 × 1276 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 5–273 mm up",
+  "- **Outlines:** line 245 rings, 2,079 straight (8,324 mm) / 306 curved (406 mm); text 131 rings, 799 straight (919 mm) / 225 curved (332 mm); tb 18 rings, 166 straight (186 mm) / 23 curved (26.2 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.3 @ (305.1, 146.3)",
+  "- **Closed boxes:** 32 (4 in the title block); named: TIMER CLOCK; CLOCK; TIMER; CLOCK; TIMER; RADIO BOSTON WODS VOICER STUDIO TURRET L; 960244-04-003; COzE 96244LOJ",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 15 in 13 lines: TIMER · CLOCK · CUSTOMFR · WBS · WARD · BECK  SYSTEMS · WODS · RADIO BOSTON · VOICER STUDIO TURRET · LAYOUT · SCALC · COzE 96244LOJ",
+  "- **Title block:** (339, 23)–(423, 40) mm: WBS · WARD · BECK  SYSTEMS · WODS · RADIO BOSTON"
+ ]
+}

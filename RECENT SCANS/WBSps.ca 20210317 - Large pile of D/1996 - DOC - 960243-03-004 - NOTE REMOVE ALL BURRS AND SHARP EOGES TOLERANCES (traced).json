@@ -1,0 +1,98 @@
+{
+ "drawing": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/1996 - DOC - 960243-03-004 - NOTE REMOVE ALL BURRS AND SHARP EOGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/1cc630b72b5ebc47.svg",
+ "sheet": {
+  "number": "960243-03-004",
+  "title": "Note Remove All Burrs And Sharp Eoges Tolerances",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1285],
+  "mm": [431.8, 277.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [31.5, 1.3, 431.8, 241.4],
+ "outlines": {
+  "line": {"rings": 477, "straight": {"n": 3231, "mm": 7595.8}, "curved": {"n": 722, "mm": 858.0}},
+  "text": {"rings": 265, "straight": {"n": 1545, "mm": 1491.4}, "curved": {"n": 463, "mm": 596.9}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3454, "straight": {"n": 3980, "mm": 4385.1}, "curved": {"n": 38, "mm": 35.3}},
+   "text": {"paths": 1641, "straight": {"n": 2059, "mm": 1091.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 138,
+  "orientation": {"horizontal": {"n": 1522, "mm": 2123.2}, "vertical": {"n": 1560, "mm": 1628.0}, "diagonal": {"n": 2957, "mm": 1725.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [227.0, 174.6], "r": 1.7, "kind": "arc", "span": 111, "from": ["centre line"], "start": 145},
+  {"c": [227.0, 154.7], "r": 1.7, "kind": "arc", "span": 111, "from": ["centre line"], "start": 145},
+  {"c": [315.5, 183.3], "r": 1.5, "kind": "circle", "span": 360, "from": ["centre line", "outline (one edge)"]},
+  {"c": [374.3, 4.8], "r": 1.2, "kind": "arc", "span": 219, "from": ["centre line"], "start": 97},
+  {"c": [59.0, 25.9], "r": 0.9, "kind": "arc", "span": 162, "from": ["centre line"], "start": 281},
+  {"c": [209.0, 124.8], "r": 0.8, "kind": "arc", "span": 206, "from": ["centre line"], "start": 58},
+  {"c": [161.5, 209.3], "r": 0.8, "kind": "arc", "span": 231, "from": ["centre line"], "start": 356},
+  {"c": [191.2, 136.9], "r": 0.7, "kind": "arc", "span": 206, "from": ["centre line"], "start": 64},
+  {"c": [227.9, 175.0], "r": 0.7, "kind": "arc", "span": 166, "from": ["centre line"], "start": 32},
+  {"c": [203.6, 125.0], "r": 0.7, "kind": "arc", "span": 210, "from": ["centre line"], "start": 253}
+ ],
+ "boxes": [
+  {"mm": [179.4, 148.3, 239.4, 213.7], "w": 60.0, "h": 65.4, "from": "ring"},
+  {"mm": [88.1, 200.1, 102.1, 209.4], "w": 14.0, "h": 9.3, "from": "ring"},
+  {"mm": [87.6, 183.9, 102.3, 193.0], "w": 14.7, "h": 9.1, "from": "ring"},
+  {"mm": [367.0, 29.6, 415.0, 32.4], "w": 47.9, "h": 2.8, "from": "ring", "words": ["REWSID\""]},
+  {"mm": [415.4, 29.6, 420.1, 32.4], "w": 4.7, "h": 2.8, "from": "ring"},
+  {"mm": [345.7, 20.5, 419.9, 29.5], "w": 74.3, "h": 9.0, "from": "ring", "words": ["WARD-BECK SYSTEMS", "LWBS"]},
+  {"mm": [345.7, 17.5, 362.9, 20.3], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [363.1, 8.0, 419.9, 20.3], "w": 56.8, "h": 12.3, "from": "ring", "words": ["VOICER", "TURRET", "CONNECTOR BRACKET"]},
+  {"mm": [345.7, 14.5, 362.9, 17.3], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [345.7, 11.2, 362.9, 14.0], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [345.7, 8.0, 362.9, 11.0], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [377.6, 1.7, 412.2, 7.9], "w": 34.5, "h": 6.2, "from": "ring", "words": ["960243-03-004"]},
+  {"mm": [345.7, 1.7, 354.5, 7.8], "w": 8.9, "h": 6.0, "from": "ring"},
+  {"mm": [354.7, 5.0, 372.0, 7.8], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [372.2, 1.7, 377.4, 7.8], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [354.7, 1.7, 372.0, 4.7], "w": 17.3, "h": 3.0, "from": "ring", "words": ["Code9024540'"]}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [38.6, 174.0, 53.8, 177.4], "text": "PUScH (0,750"},
+   {"mm": [345.9, 159.8, 362.7, 161.9], "text": "004 PILLAP"},
+   {"mm": [351.7, 155.7, 380.8, 159.5], "text": "ALLOY 0O EL(0.25 DiA)"},
+   {"mm": [115.7, 135.8, 122.2, 139.2], "text": "0 25)"},
+   {"mm": [64.6, 112.5, 87.4, 115.8], "text": "960243-03 0041"},
+   {"mm": [88.7, 112.5, 115.3, 115.8], "text": "CONNECTOR BRACKET"},
+   {"mm": [78.2, 110.5, 92.8, 112.7], "text": "AUM ALLOT"},
+   {"mm": [33.2, 30.4, 48.8, 33.8], "text": "MATERIAL:"},
+   {"mm": [49.9, 30.0, 85.1, 33.8], "text": "SEE Bod OF DRAMNG"},
+   {"mm": [386.0, 29.6, 394.7, 31.7], "text": "REWSID\""},
+   {"mm": [33.2, 24.0, 53.8, 27.1], "text": "FINISH: SAND"},
+   {"mm": [61.3, 23.5, 86.1, 27.4], "text": "GRIT AND PAINT"},
+   {"mm": [348.9, 22.5, 367.2, 26.8], "text": "LWBS"},
+   {"mm": [373.7, 22.9, 417.6, 27.7], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [45.1, 20.3, 69.3, 24.1], "text": "TEXTURED GREY"},
+   {"mm": [70.4, 20.3, 94.1, 24.1], "text": "TEXCOTE VNYL:"},
+   {"mm": [377.6, 13.8, 405.0, 18.1], "text": "VOICER TURRET"},
+   {"mm": [49.2, 13.0, 56.1, 15.1], "text": "uARS"},
+   {"mm": [371.6, 9.9, 410.4, 14.2], "text": "CONNECTOR BRACKET"},
+   {"mm": [354.5, 2.2, 370.7, 4.3], "text": "Code9024540'"},
+   {"mm": [379.8, 2.4, 410.0, 6.7], "text": "960243-03-004"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 960243-03-004, size B (assumed) 432 × 277 mm, 2000 × 1285 px traced (0.216 mm/px)",
+  "- **Ink extent:** 32–432 mm across, 1–241 mm up",
+  "- **Outlines:** line 477 rings, 3,231 straight (7,596 mm) / 722 curved (858 mm); text 265 rings, 1,545 straight (1,491 mm) / 463 curved (597 mm)",
+  "- **Centre lines:** 5,095 paths (138 closed); straight 5,477 mm, curved 35.3 mm; horizontal 2,123 mm, vertical 1,628 mm, diagonal 1,726 mm",
+  "- **Circles and arcs:** 1 circles, 9 arcs; largest r 1.5 @ (315.5, 183.3)",
+  "- **Closed boxes:** 16; named: REWSID\"; WARD-BECK SYSTEMS LWBS; VOICER TURRET CONNECTOR BRACKET; 960243-03-004; Code9024540'",
+  "- **Words (OCR):** 29 in 21 lines: PUScH (0,750 · 004 PILLAP · ALLOY 0O EL(0.25 DiA) · 0 25) · 960243-03 0041 · CONNECTOR BRACKET · AUM ALLOT · MATERIAL: · SEE Bod OF DRAMNG · REWSID\" · FINISH: SAND · GRIT AND PAINT"
+ ]
+}
